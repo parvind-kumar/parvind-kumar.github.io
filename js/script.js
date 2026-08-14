@@ -4,7 +4,7 @@ const books = [
     category: ["fiction"],
     kicker: "A NOVEL",
     description: "A story of lives, choices and the city behind the headlines.",
-    amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura",
+    amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura+Parvind+Kumar",
     coverClass: "cover-one"
   },
   {
@@ -12,7 +12,7 @@ const books = [
     category: ["fiction"],
     kicker: "FICTION",
     description: "A story about hope, home and the courage to begin again.",
-    amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home",
+    amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home+Parvind+Kumar",
     coverClass: "cover-two"
   },
   {
@@ -20,7 +20,7 @@ const books = [
     category: ["relationships", "nonfiction"],
     kicker: "RELATIONSHIPS",
     description: "Love, independence, commitment and the realities behind modern live-in relationships.",
-    amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth",
+    amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth+Parvind+Kumar",
     coverClass: "cover-three"
   },
   {
@@ -28,7 +28,7 @@ const books = [
     category: ["fiction", "relationships"],
     kicker: "11 STORIES",
     description: "Modern Indian love stories of passion, conflict, heartbreak and new beginnings.",
-    amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories",
+    amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories+Parvind+Kumar",
     coverClass: "cover-four"
   },
   {
@@ -36,7 +36,7 @@ const books = [
     category: ["fiction"],
     kicker: "SUSPENSE",
     description: "Stories built around mystery, crime, secrets and the consequences of hidden choices.",
-    amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories",
+    amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories+Parvind+Kumar",
     coverClass: "cover-five"
   },
   {
@@ -44,7 +44,7 @@ const books = [
     category: ["nonfiction"],
     kicker: "NUMEROLOGY",
     description: "An accessible guide to understanding the Lo Shu Grid and its traditional numerological framework.",
-    amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology",
+    amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology+Parvind+Kumar",
     coverClass: "cover-six"
   },
   {
@@ -60,7 +60,7 @@ const books = [
     category: ["fiction", "relationships"],
     kicker: "ROMANCE",
     description: "A Tuscan vineyard, two people and a romance caught between past and present.",
-    amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance",
+    amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance+Parvind+Kumar",
     coverClass: "cover-eight"
   },
   {
@@ -76,7 +76,7 @@ const books = [
     category: ["relationships", "nonfiction"],
     kicker: "MARRIAGE",
     description: "Practical ideas for communication, trust, intimacy and building a lasting partnership.",
-    amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love",
+    amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love+Parvind+Kumar",
     coverClass: "cover-ten"
   },
   {
