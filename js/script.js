@@ -4,84 +4,54 @@ const books = [
     category: ["fiction"],
     kicker: "A NOVEL",
     description: "A story of lives, choices and the city behind the headlines.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura",
     coverClass: "cover-one",
     coverImage: "images/six_lanes.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura+Parvind+Kumar",
-    coverClass: "cover-one"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "When Hope Came Home",
     category: ["fiction"],
     kicker: "FICTION",
     description: "A story about hope, home and the courage to begin again.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home",
     coverClass: "cover-two",
     coverImage: "images/when_hope_came_home.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home+Parvind+Kumar",
-    coverClass: "cover-two"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "Live-In Relationships: The Untold Truth",
     category: ["relationships", "nonfiction"],
     kicker: "RELATIONSHIPS",
     description: "Love, independence, commitment and the realities behind modern live-in relationships.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth",
     coverClass: "cover-three",
     coverImage: "images/live_in_relationships.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth+Parvind+Kumar",
-    coverClass: "cover-three"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "11 Shades of Love: Modern Indian Stories",
     category: ["fiction", "relationships"],
     kicker: "11 STORIES",
     description: "Modern Indian love stories of passion, conflict, heartbreak and new beginnings.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories",
     coverClass: "cover-four",
     coverImage: "images/shades_of_love.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories+Parvind+Kumar",
-    coverClass: "cover-four"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "Crime Suspense Stories",
     category: ["fiction"],
     kicker: "SUSPENSE",
     description: "Stories built around mystery, crime, secrets and the consequences of hidden choices.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories",
     coverClass: "cover-five",
     coverImage: "images/crime_suspense.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories+Parvind+Kumar",
-    coverClass: "cover-five"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "The Complete Guide to Lo Shu Grid Numerology",
     category: ["nonfiction"],
     kicker: "NUMEROLOGY",
     description: "An accessible guide to understanding the Lo Shu Grid and its traditional numerological framework.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology",
     coverClass: "cover-six",
     coverImage: "images/numerology.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology+Parvind+Kumar",
-    coverClass: "cover-six"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "Before we said goodbye.",
@@ -89,26 +59,17 @@ const books = [
     kicker: "LOVE STORIES",
     description: "Stories about love, loss, memories and the words left unsaid.",
     amazon: "https://www.amazon.in/s?k=Before+we+said+goodbye+Parvind+Kumar",
-<<<<<<< HEAD
     coverClass: "cover-seven",
     coverImage: "images/before_we_said_goodbye.jpg"
-=======
-    coverClass: "cover-seven"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "The Vintage Between Us: A Tuscan Vineyard Romance",
     category: ["fiction", "relationships"],
     kicker: "ROMANCE",
     description: "A Tuscan vineyard, two people and a romance caught between past and present.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance",
     coverClass: "cover-eight",
     coverImage: "images/vintage_between_us.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance+Parvind+Kumar",
-    coverClass: "cover-eight"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "After the Promise Broke",
@@ -116,26 +77,17 @@ const books = [
     kicker: "ROMANCE · THRILLER",
     description: "Stories of betrayal, romance, psychological tension and the search for redemption.",
     amazon: "https://www.amazon.in/s?k=After+the+Promise+Broke+Parvind+Kumar",
-<<<<<<< HEAD
     coverClass: "cover-nine",
     coverImage: "images/promise_broke.jpg"
-=======
-    coverClass: "cover-nine"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "The Complete Guide to Building a Happy Marriage & Lasting Love",
     category: ["relationships", "nonfiction"],
     kicker: "MARRIAGE",
     description: "Practical ideas for communication, trust, intimacy and building a lasting partnership.",
-<<<<<<< HEAD
     amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love",
     coverClass: "cover-ten",
     coverImage: "images/happy_marriage.jpg"
-=======
-    amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love+Parvind+Kumar",
-    coverClass: "cover-ten"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "The Complete Guide to Mindfulness & Meditation",
@@ -144,10 +96,7 @@ const books = [
     description: "A practical journey into mindfulness, meditation, attention and everyday calm.",
     amazon: "https://www.amazon.in/s?k=Complete+Guide+to+Mindfulness+Meditation+Parvind+Kumar",
     coverClass: "cover-eleven",
-<<<<<<< HEAD
     coverImage: "images/mindfulness.jpg",
-=======
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
     unavailable: true
   },
   {
@@ -156,12 +105,8 @@ const books = [
     kicker: "DIGITAL WELLBEING",
     description: "How to reduce screen time, break the scrolling cycle and reclaim real life.",
     amazon: "https://www.amazon.in/s?k=Escape+the+Endless+Scroll+Parvind+Kumar",
-<<<<<<< HEAD
     coverClass: "cover-twelve",
     coverImage: "images/escape_scroll.jpg"
-=======
-    coverClass: "cover-twelve"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   },
   {
     title: "The Ganga Expressway",
@@ -169,12 +114,8 @@ const books = [
     kicker: "FICTION",
     description: "A journey, a road and the human stories that unfold along the way.",
     amazon: "https://www.amazon.in/s?k=The+Ganga+Expressway+Parvind+Kumar",
-<<<<<<< HEAD
     coverClass: "cover-thirteen",
     coverImage: "images/ganga_expressway.jpg"
-=======
-    coverClass: "cover-thirteen"
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
   }
 ];
 
@@ -186,11 +127,7 @@ function renderBooks(filter = "all") {
   bookGrid.innerHTML = visible.map(book => `
     <article class="book-card reveal">
       <a href="${book.amazon}" target="_blank" rel="noopener" aria-label="Find ${escapeHtml(book.title)} on Amazon">
-<<<<<<< HEAD
         <div class="book-cover ${book.coverClass}" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.7) 100%), url('${book.coverImage}');">
-=======
-        <div class="book-cover ${book.coverClass}">
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
           <span class="cover-kicker">${escapeHtml(book.kicker)}</span>
           <span class="cover-title">${escapeHtml(book.title)}</span>
           <span class="cover-author">PARVIND KUMAR</span>
@@ -285,11 +222,7 @@ const coverClasses = {
 const style = document.createElement("style");
 let css = "";
 Object.entries(coverClasses).forEach(([selector, [bg, fg]]) => {
-<<<<<<< HEAD
   css += `${selector}{background-color:${bg};color:#fffdf7;}`;
-=======
-  css += `${selector}{background:linear-gradient(145deg,${bg},${fg});color:#fffdf7;}`;
->>>>>>> 68652e05cdf3d0bada6d14b8b9c4df6290dface8
 });
 style.textContent = css;
 document.head.appendChild(style);
