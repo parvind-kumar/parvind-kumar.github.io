@@ -110,10 +110,10 @@ const books = [
   },
   {
     title: "The Ganga Expressway",
-    category: ["fiction"],
-    kicker: "FICTION",
-    description: "A journey, a road and the human stories that unfold along the way.",
-    amazon: "https://www.amazon.in/s?k=The+Ganga+Expressway+Parvind+Kumar",
+	  category: ["business","nonfiction"],
+    kicker: "Business",
+	  description: "India's longest expressway just opened — and it's changing Uttar Pradesh forever. The Ganga Expressway is a 594-kilometre, six-lane greenfield highway.",
+	  amazon: "https://www.amazon.in/Ganga-Expressway-Parvind-Kumar/dp/9376503511/",
     coverClass: "cover-thirteen",
 	  coverImage: "https://m.media-amazon.com/images/I/81hqsU3lBkL._SL1500_.jpg"
   }
