@@ -4,7 +4,7 @@ const books = [
     category: ["fiction"],
     kicker: "A NOVEL",
     description: "A story of lives, choices and the city behind the headlines.",
-    amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura",
+		amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura+Parvind+Kumar",
     coverClass: "cover-one",
 		coverImage: "https://m.media-amazon.com/images/I/51Z5ASHf3nL._SY445_SX342_FMwebp_.jpg"
   },
@@ -13,7 +13,7 @@ const books = [
     category: ["fiction"],
     kicker: "FICTION",
     description: "A story about hope, home and the courage to begin again.",
-    amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home",
+	  amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home+Parvind+Kumar",
     coverClass: "cover-two",
 	  coverImage: "https://m.media-amazon.com/images/I/717J3Te5ReL._SL1500_.jpg"
   },
@@ -22,36 +22,36 @@ const books = [
     category: ["relationships", "nonfiction"],
     kicker: "RELATIONSHIPS",
     description: "Love, independence, commitment and the realities behind modern live-in relationships.",
-    amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth",
+	  amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth+Parvind+Kumar",
     coverClass: "cover-three",
-    coverImage: "images/live_in_relationships.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/71PEl-ynwaL._SL1500_.jpg"
   },
   {
     title: "11 Shades of Love: Modern Indian Stories",
     category: ["fiction", "relationships"],
     kicker: "11 STORIES",
     description: "Modern Indian love stories of passion, conflict, heartbreak and new beginnings.",
-    amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories",
+	  amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories+Parvind+Kumar",
     coverClass: "cover-four",
-    coverImage: "images/shades_of_love.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/71+156bp10L._SL1500_.jpg"
   },
   {
     title: "Crime Suspense Stories",
     category: ["fiction"],
     kicker: "SUSPENSE",
     description: "Stories built around mystery, crime, secrets and the consequences of hidden choices.",
-    amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories",
+	  amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories+Parvind+Kumar",
     coverClass: "cover-five",
-    coverImage: "images/crime_suspense.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/71PYcSfIf3L._SL1500_.jpg"
   },
   {
     title: "The Complete Guide to Lo Shu Grid Numerology",
     category: ["nonfiction"],
     kicker: "NUMEROLOGY",
     description: "An accessible guide to understanding the Lo Shu Grid and its traditional numerological framework.",
-    amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology",
+	  amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology+Parvind+Kumar",
     coverClass: "cover-six",
-    coverImage: "images/numerology.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/81V5OZmGHoL._SL1500_.jpg"
   },
   {
     title: "Before we said goodbye.",
@@ -60,16 +60,16 @@ const books = [
     description: "Stories about love, loss, memories and the words left unsaid.",
     amazon: "https://www.amazon.in/s?k=Before+we+said+goodbye+Parvind+Kumar",
     coverClass: "cover-seven",
-    coverImage: "images/before_we_said_goodbye.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/71Uo5ZlPL6L._SL1500_.jpg"
   },
   {
     title: "The Vintage Between Us: A Tuscan Vineyard Romance",
     category: ["fiction", "relationships"],
     kicker: "ROMANCE",
     description: "A Tuscan vineyard, two people and a romance caught between past and present.",
-    amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance",
+	  amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance+Parvind+Kumar",
     coverClass: "cover-eight",
-    coverImage: "images/vintage_between_us.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/61eVBttz0DL._SY522_.jpg"
   },
   {
     title: "After the Promise Broke",
@@ -78,16 +78,16 @@ const books = [
     description: "Stories of betrayal, romance, psychological tension and the search for redemption.",
     amazon: "https://www.amazon.in/s?k=After+the+Promise+Broke+Parvind+Kumar",
     coverClass: "cover-nine",
-    coverImage: "images/promise_broke.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/71rSw1nyW7L._SL1500_.jpg"
   },
   {
     title: "The Complete Guide to Building a Happy Marriage & Lasting Love",
     category: ["relationships", "nonfiction"],
     kicker: "MARRIAGE",
     description: "Practical ideas for communication, trust, intimacy and building a lasting partnership.",
-    amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love",
+	  amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love+Parvind+Kumar",
     coverClass: "cover-ten",
-    coverImage: "images/happy_marriage.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/71evLi+WBrL._SL1500_.jpg"
   },
   {
     title: "The Complete Guide to Mindfulness & Meditation",
@@ -96,7 +96,7 @@ const books = [
     description: "A practical journey into mindfulness, meditation, attention and everyday calm.",
     amazon: "https://www.amazon.in/s?k=Complete+Guide+to+Mindfulness+Meditation+Parvind+Kumar",
     coverClass: "cover-eleven",
-    coverImage: "images/mindfulness.jpg",
+	  coverImage: "https://m.media-amazon.com/images/I/71KHnfkhauL._SL1500_.jpg",
     unavailable: true
   },
   {
@@ -106,7 +106,7 @@ const books = [
     description: "How to reduce screen time, break the scrolling cycle and reclaim real life.",
     amazon: "https://www.amazon.in/s?k=Escape+the+Endless+Scroll+Parvind+Kumar",
     coverClass: "cover-twelve",
-    coverImage: "images/escape_scroll.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/71znBiXKnVL._SL1500_.jpg"
   },
   {
     title: "The Ganga Expressway",
@@ -115,7 +115,7 @@ const books = [
     description: "A journey, a road and the human stories that unfold along the way.",
     amazon: "https://www.amazon.in/s?k=The+Ganga+Expressway+Parvind+Kumar",
     coverClass: "cover-thirteen",
-    coverImage: "images/ganga_expressway.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/81hqsU3lBkL._SL1500_.jpg"
   }
 ];
 
