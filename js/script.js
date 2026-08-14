@@ -5,7 +5,8 @@ const books = [
     kicker: "A NOVEL",
     description: "A story of lives, choices and the city behind the headlines.",
     amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura",
-    coverClass: "cover-one"
+    coverClass: "cover-one",
+    coverImage: "images/six_lanes.jpg"
   },
   {
     title: "When Hope Came Home",
@@ -13,7 +14,8 @@ const books = [
     kicker: "FICTION",
     description: "A story about hope, home and the courage to begin again.",
     amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home",
-    coverClass: "cover-two"
+    coverClass: "cover-two",
+    coverImage: "images/when_hope_came_home.jpg"
   },
   {
     title: "Live-In Relationships: The Untold Truth",
@@ -21,7 +23,8 @@ const books = [
     kicker: "RELATIONSHIPS",
     description: "Love, independence, commitment and the realities behind modern live-in relationships.",
     amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth",
-    coverClass: "cover-three"
+    coverClass: "cover-three",
+    coverImage: "images/live_in_relationships.jpg"
   },
   {
     title: "11 Shades of Love: Modern Indian Stories",
@@ -29,7 +32,8 @@ const books = [
     kicker: "11 STORIES",
     description: "Modern Indian love stories of passion, conflict, heartbreak and new beginnings.",
     amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories",
-    coverClass: "cover-four"
+    coverClass: "cover-four",
+    coverImage: "images/shades_of_love.jpg"
   },
   {
     title: "Crime Suspense Stories",
@@ -37,7 +41,8 @@ const books = [
     kicker: "SUSPENSE",
     description: "Stories built around mystery, crime, secrets and the consequences of hidden choices.",
     amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories",
-    coverClass: "cover-five"
+    coverClass: "cover-five",
+    coverImage: "images/crime_suspense.jpg"
   },
   {
     title: "The Complete Guide to Lo Shu Grid Numerology",
@@ -45,7 +50,8 @@ const books = [
     kicker: "NUMEROLOGY",
     description: "An accessible guide to understanding the Lo Shu Grid and its traditional numerological framework.",
     amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology",
-    coverClass: "cover-six"
+    coverClass: "cover-six",
+    coverImage: "images/numerology.jpg"
   },
   {
     title: "Before we said goodbye.",
@@ -53,7 +59,8 @@ const books = [
     kicker: "LOVE STORIES",
     description: "Stories about love, loss, memories and the words left unsaid.",
     amazon: "https://www.amazon.in/s?k=Before+we+said+goodbye+Parvind+Kumar",
-    coverClass: "cover-seven"
+    coverClass: "cover-seven",
+    coverImage: "images/before_we_said_goodbye.jpg"
   },
   {
     title: "The Vintage Between Us: A Tuscan Vineyard Romance",
@@ -61,7 +68,8 @@ const books = [
     kicker: "ROMANCE",
     description: "A Tuscan vineyard, two people and a romance caught between past and present.",
     amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance",
-    coverClass: "cover-eight"
+    coverClass: "cover-eight",
+    coverImage: "images/vintage_between_us.jpg"
   },
   {
     title: "After the Promise Broke",
@@ -69,7 +77,8 @@ const books = [
     kicker: "ROMANCE · THRILLER",
     description: "Stories of betrayal, romance, psychological tension and the search for redemption.",
     amazon: "https://www.amazon.in/s?k=After+the+Promise+Broke+Parvind+Kumar",
-    coverClass: "cover-nine"
+    coverClass: "cover-nine",
+    coverImage: "images/promise_broke.jpg"
   },
   {
     title: "The Complete Guide to Building a Happy Marriage & Lasting Love",
@@ -77,7 +86,8 @@ const books = [
     kicker: "MARRIAGE",
     description: "Practical ideas for communication, trust, intimacy and building a lasting partnership.",
     amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love",
-    coverClass: "cover-ten"
+    coverClass: "cover-ten",
+    coverImage: "images/happy_marriage.jpg"
   },
   {
     title: "The Complete Guide to Mindfulness & Meditation",
@@ -86,6 +96,7 @@ const books = [
     description: "A practical journey into mindfulness, meditation, attention and everyday calm.",
     amazon: "https://www.amazon.in/s?k=Complete+Guide+to+Mindfulness+Meditation+Parvind+Kumar",
     coverClass: "cover-eleven",
+    coverImage: "images/mindfulness.jpg",
     unavailable: true
   },
   {
@@ -94,7 +105,8 @@ const books = [
     kicker: "DIGITAL WELLBEING",
     description: "How to reduce screen time, break the scrolling cycle and reclaim real life.",
     amazon: "https://www.amazon.in/s?k=Escape+the+Endless+Scroll+Parvind+Kumar",
-    coverClass: "cover-twelve"
+    coverClass: "cover-twelve",
+    coverImage: "images/escape_scroll.jpg"
   },
   {
     title: "The Ganga Expressway",
@@ -102,7 +114,8 @@ const books = [
     kicker: "FICTION",
     description: "A journey, a road and the human stories that unfold along the way.",
     amazon: "https://www.amazon.in/s?k=The+Ganga+Expressway+Parvind+Kumar",
-    coverClass: "cover-thirteen"
+    coverClass: "cover-thirteen",
+    coverImage: "images/ganga_expressway.jpg"
   }
 ];
 
@@ -114,7 +127,7 @@ function renderBooks(filter = "all") {
   bookGrid.innerHTML = visible.map(book => `
     <article class="book-card reveal">
       <a href="${book.amazon}" target="_blank" rel="noopener" aria-label="Find ${escapeHtml(book.title)} on Amazon">
-        <div class="book-cover ${book.coverClass}">
+        <div class="book-cover ${book.coverClass}" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.7) 100%), url('${book.coverImage}');">
           <span class="cover-kicker">${escapeHtml(book.kicker)}</span>
           <span class="cover-title">${escapeHtml(book.title)}</span>
           <span class="cover-author">PARVIND KUMAR</span>
@@ -209,7 +222,7 @@ const coverClasses = {
 const style = document.createElement("style");
 let css = "";
 Object.entries(coverClasses).forEach(([selector, [bg, fg]]) => {
-  css += `${selector}{background:linear-gradient(145deg,${bg},${fg});color:#fffdf7;}`;
+  css += `${selector}{background-color:${bg};color:#fffdf7;}`;
 });
 style.textContent = css;
 document.head.appendChild(style);
