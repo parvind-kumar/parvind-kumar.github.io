@@ -6,7 +6,7 @@ const books = [
     description: "A story of lives, choices and the city behind the headlines.",
     amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura",
     coverClass: "cover-one",
-    coverImage: "images/six_lanes.jpg"
+		coverImage: "https://m.media-amazon.com/images/I/51Z5ASHf3nL._SY445_SX342_FMwebp_.jpg"
   },
   {
     title: "When Hope Came Home",
@@ -15,7 +15,7 @@ const books = [
     description: "A story about hope, home and the courage to begin again.",
     amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home",
     coverClass: "cover-two",
-    coverImage: "images/when_hope_came_home.jpg"
+	  coverImage: "https://m.media-amazon.com/images/I/717J3Te5ReL._SL1500_.jpg"
   },
   {
     title: "Live-In Relationships: The Untold Truth",
