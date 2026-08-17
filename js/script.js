@@ -108,6 +108,15 @@ const books = [
     coverClass: "cover-twelve",
 	  coverImage: "https://m.media-amazon.com/images/I/71znBiXKnVL._SL1500_.jpg"
   },
+	{
+		title: "What Happens After Death?",
+		category: ["nonfiction","Personal Development"],
+		kicker: "Personal Development",
+		description: "The Soul, Near-Death Experiences, Reincarnation, and the Scientific Search for Life After Death",
+		amazon: "https://www.amazon.in/dp/9376505468",
+		coverClass: "cover-twelve",
+		coverImage: "https://m.media-amazon.com/images/I/819+67sYZhL._SL1500_.jpg"
+	},
   {
     title: "The Ganga Expressway",
 	  category: ["business","nonfiction"],
