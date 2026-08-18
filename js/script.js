@@ -225,7 +225,8 @@ const coverClasses = {
   ".cover-ten": ["#8b5d39", "#f1dec4"],
   ".cover-eleven": ["#31445a", "#c7d6d8"],
   ".cover-twelve": ["#282b2f", "#91b1a5"],
-  ".cover-thirteen": ["#3b4c5b", "#c8a46b"]
+  ".cover-thirteen": ["#3b4c5b", "#c8a46b"],
+  ".cover-fourteen": ["#3b4c5b", "#c8a46b"]
 };
 
 const style = document.createElement("style");
