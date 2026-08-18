@@ -162,8 +162,12 @@ em { color: var(--accent); font-style: italic; }
 .book-cover .cover-author { letter-spacing: .15em; }
 .book-meta { padding-top: 15px; }
 .book-meta h3 { margin: 0; font-size: 18px; line-height: 1.15; }
+.book-meta h3 a:hover { color: var(--accent) !important; }
 .book-meta p { margin: 6px 0 12px; color: var(--muted); font-size: 12px; }
-.book-link { display: inline-flex; align-items: center; gap: 7px; color: var(--accent); font-size: 12px; font-weight: 800; }
+.book-link { display: inline-flex; align-items: center; gap: 7px; color: var(--accent); font-size: 12px; font-weight: 800; transition: color 0.2s ease; }
+.card-links { display: flex; gap: 15px; align-items: center; margin-top: 10px; }
+.card-links .buy-link { color: var(--ink); }
+.card-links .buy-link:hover { color: var(--accent); }
 .status { display: inline-block; margin-left: 7px; padding: 3px 6px; border: 1px solid var(--line); color: var(--muted); font-size: 9px; text-transform: uppercase; letter-spacing: .08em; }
 
 .featured-quote { background: var(--accent); color: #fff7ed; padding: 85px 0; }
@@ -287,3 +291,302 @@ blockquote { margin: 0; font: 500 clamp(31px, 4vw, 52px)/1.08 Georgia, serif; le
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }
+
+/* ==========================================================================
+   Book Detail Page Styles
+   ========================================================================== */
+.book-detail-page {
+  background-color: var(--paper);
+}
+
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  color: var(--muted);
+}
+
+.breadcrumbs a {
+  color: var(--muted);
+}
+
+.breadcrumbs a:hover {
+  color: var(--accent);
+}
+
+.breadcrumbs .separator {
+  color: var(--line);
+  font-size: 11px;
+}
+
+.breadcrumbs .current {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.book-detail-grid {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 60px;
+  margin-bottom: 100px;
+}
+
+.book-detail-visual {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.book-detail-visual .book-cover {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  aspect-ratio: 0.68;
+  border-radius: 4px;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.2);
+}
+
+.buy-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.buy-btn {
+  width: 100%;
+  padding: 14px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 1px solid var(--ink);
+  transition: all 0.2s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buy-btn span {
+  margin-left: 6px;
+}
+
+.buy-btn.amazon-btn {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.buy-btn.amazon-btn:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--white);
+}
+
+.buy-btn:not(.amazon-btn) {
+  background: transparent;
+  color: var(--ink);
+}
+
+.buy-btn:not(.amazon-btn):hover {
+  background: var(--paper-2);
+}
+
+.meta-box {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  padding: 24px;
+  border-radius: 4px;
+}
+
+.meta-box h4 {
+  margin: 0 0 16px;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--ink);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 10px;
+}
+
+.meta-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  padding: 8px 0;
+  border-bottom: 1px dashed rgba(23,21,19,0.1);
+}
+
+.meta-row:last-child {
+  border-bottom: 0;
+}
+
+.meta-row span {
+  color: var(--muted);
+}
+
+.meta-row strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.book-detail-copy {
+  display: flex;
+  flex-direction: column;
+}
+
+.book-detail-copy h1 {
+  font-size: clamp(36px, 5vw, 56px);
+  line-height: 1.05;
+  margin: 10px 0;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+}
+
+.author-attribution {
+  font-size: 16px;
+  font-style: italic;
+  color: var(--muted);
+  margin-bottom: 20px;
+}
+
+.book-rating {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.book-rating .stars {
+  color: #d4af37;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
+.book-rating .rating-value {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.book-rating .rating-count {
+  color: var(--muted);
+}
+
+.full-description {
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--ink);
+  margin-bottom: 40px;
+}
+
+.full-description p {
+  margin-bottom: 20px;
+}
+
+.full-description p:last-child {
+  margin-bottom: 0;
+}
+
+.detail-section {
+  margin-bottom: 50px;
+  padding-top: 30px;
+  border-top: 1px solid var(--line);
+}
+
+.detail-section h3 {
+  font-size: 24px;
+  margin: 0 0 20px;
+  font-family: Georgia, serif;
+  color: var(--ink);
+}
+
+.toc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 24px;
+}
+
+.toc-list li {
+  position: relative;
+  padding-left: 24px;
+  font-size: 14px;
+  color: var(--ink);
+}
+
+.toc-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: bold;
+}
+
+.reviews-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.review-card {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  padding: 24px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.review-stars {
+  color: #d4af37;
+  margin-bottom: 12px;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.review-text {
+  font-style: italic;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--ink);
+  margin: 0 0 16px;
+  flex-grow: 1;
+}
+
+.reviewer {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.back-to-library {
+  margin-top: 40px;
+}
+
+/* Media query updates for Book Detail Page */
+@media (max-width: 980px) {
+  .book-detail-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .book-detail-visual {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .toc-list {
+    grid-template-columns: 1fr;
+  }
+  .reviews-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
