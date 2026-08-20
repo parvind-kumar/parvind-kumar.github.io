@@ -31,7 +31,7 @@ const books = [
     category: ["fiction", "relationships"],
     kicker: "11 STORIES",
     description: "Modern Indian love stories of passion, conflict, heartbreak and new beginnings.",
-	  amazon: "https://www.amazon.in/s?k=11+Shades+of+Love+Modern+Indian+Stories+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/11-Shades-Love-Modern-Stories/dp/9376503287",
     coverClass: "cover-four",
 	  coverImage: "https://m.media-amazon.com/images/I/71+156bp10L._SL1500_.jpg"
   },
@@ -85,7 +85,7 @@ const books = [
     category: ["relationships", "nonfiction"],
     kicker: "MARRIAGE",
     description: "Practical ideas for communication, trust, intimacy and building a lasting partnership.",
-	  amazon: "https://www.amazon.in/s?k=Complete+Guide+Building+Happy+Marriage+Lasting+Love+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Complete-Guide-Building-Marriage-Lasting/dp/9376502906/",
     coverClass: "cover-ten",
 	  coverImage: "https://m.media-amazon.com/images/I/71evLi+WBrL._SL1500_.jpg"
   },
