@@ -4,7 +4,7 @@ const books = [
     category: ["fiction"],
     kicker: "A NOVEL",
     description: "A story of lives, choices and the city behind the headlines.",
-		amazon: "https://www.amazon.in/s?k=Six+Lanes+of+Kamathipura+Parvind+Kumar",
+		amazon: "https://www.amazon.in/Six-Lanes-Kamathipura-Parvind-Kumar/dp/9376504801",
     coverClass: "cover-one",
 		coverImage: "https://m.media-amazon.com/images/I/51Z5ASHf3nL._SY445_SX342_FMwebp_.jpg"
   },
@@ -13,7 +13,7 @@ const books = [
     category: ["fiction"],
     kicker: "FICTION",
     description: "A story about hope, home and the courage to begin again.",
-	  amazon: "https://www.amazon.in/s?k=When+Hope+Came+Home+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/When-Hope-Came-Parvind-Kumar/dp/9376504275/",
     coverClass: "cover-two",
 	  coverImage: "https://m.media-amazon.com/images/I/717J3Te5ReL._SL1500_.jpg"
   },
@@ -22,7 +22,7 @@ const books = [
     category: ["relationships", "nonfiction"],
     kicker: "RELATIONSHIPS",
     description: "Love, independence, commitment and the realities behind modern live-in relationships.",
-	  amazon: "https://www.amazon.in/s?k=Live-In+Relationships+The+Untold+Truth+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Live-Relationships-Untold-Parvind-Kumar/dp/9376504062",
     coverClass: "cover-three",
 	  coverImage: "https://m.media-amazon.com/images/I/71PEl-ynwaL._SL1500_.jpg"
   },
@@ -40,7 +40,7 @@ const books = [
     category: ["fiction"],
     kicker: "SUSPENSE",
     description: "Stories built around mystery, crime, secrets and the consequences of hidden choices.",
-	  amazon: "https://www.amazon.in/s?k=Parvind+Kumar+Crime+Suspense+Stories+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Crime-suspense-stories-Parvind-Kumar/dp/9376502892/",
     coverClass: "cover-five",
 	  coverImage: "https://m.media-amazon.com/images/I/71PYcSfIf3L._SL1500_.jpg"
   },
@@ -49,7 +49,7 @@ const books = [
     category: ["nonfiction"],
     kicker: "NUMEROLOGY",
     description: "An accessible guide to understanding the Lo Shu Grid and its traditional numerological framework.",
-	  amazon: "https://www.amazon.in/s?k=The+Complete+Guide+to+Lo+Shu+Grid+Numerology+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Complete-Guide-Shu-Grid-Numerology/dp/9376502825",
     coverClass: "cover-six",
 	  coverImage: "https://m.media-amazon.com/images/I/81V5OZmGHoL._SL1500_.jpg"
   },
@@ -58,7 +58,7 @@ const books = [
     category: ["fiction", "relationships"],
     kicker: "LOVE STORIES",
     description: "Stories about love, loss, memories and the words left unsaid.",
-    amazon: "https://www.amazon.in/s?k=Before+we+said+goodbye+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Before-said-goodbye-Parvind-Kumar/dp/937650321X",
     coverClass: "cover-seven",
 	  coverImage: "https://m.media-amazon.com/images/I/71Uo5ZlPL6L._SL1500_.jpg"
   },
@@ -67,7 +67,7 @@ const books = [
     category: ["fiction", "relationships"],
     kicker: "ROMANCE",
     description: "A Tuscan vineyard, two people and a romance caught between past and present.",
-	  amazon: "https://www.amazon.in/s?k=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Vintage-Between-Us-Vineyard-Romance/dp/B0H95CSR8H/",
     coverClass: "cover-eight",
 	  coverImage: "https://m.media-amazon.com/images/I/61eVBttz0DL._SY522_.jpg"
   },
@@ -76,7 +76,7 @@ const books = [
     category: ["fiction", "relationships"],
     kicker: "ROMANCE · THRILLER",
     description: "Stories of betrayal, romance, psychological tension and the search for redemption.",
-    amazon: "https://www.amazon.in/s?k=After+the+Promise+Broke+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/After-Promise-Broke-Parvind-Kumar/dp/9376503481/",
     coverClass: "cover-nine",
 	  coverImage: "https://m.media-amazon.com/images/I/71rSw1nyW7L._SL1500_.jpg"
   },
@@ -94,7 +94,7 @@ const books = [
     category: ["mind", "nonfiction"],
     kicker: "MINDFULNESS",
     description: "A practical journey into mindfulness, meditation, attention and everyday calm.",
-    amazon: "https://www.amazon.in/s?k=Complete+Guide+to+Mindfulness+Meditation+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Complete-Guide-Mindfulness-Meditation/dp/9360381705/",
     coverClass: "cover-eleven",
 	  coverImage: "https://m.media-amazon.com/images/I/71KHnfkhauL._SL1500_.jpg",
     unavailable: true
@@ -104,7 +104,7 @@ const books = [
     category: ["mind", "nonfiction"],
     kicker: "DIGITAL WELLBEING",
     description: "How to reduce screen time, break the scrolling cycle and reclaim real life.",
-    amazon: "https://www.amazon.in/s?k=Escape+the+Endless+Scroll+Parvind+Kumar",
+	  amazon: "https://www.amazon.in/Escape-Endless-Scroll-Parvind-Kumar/dp/9376503260/",
     coverClass: "cover-twelve",
 	  coverImage: "https://m.media-amazon.com/images/I/71znBiXKnVL._SL1500_.jpg"
   },
