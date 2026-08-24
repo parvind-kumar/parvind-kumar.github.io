@@ -200,15 +200,15 @@ function observeReveals() {
   items.forEach(item => observer.observe(item));
 }
 
-document.getElementById("newsletterForm").addEventListener("submit", event => {
-  event.preventDefault();
-  const email = document.getElementById("email").value.trim();
-  const message = document.getElementById("formMessage");
+// document.getElementById("newsletterForm").addEventListener("submit", event => {
+//   event.preventDefault();
+//   const email = document.getElementById("email").value.trim();
+//   const message = document.getElementById("formMessage");
 
-  if (!email) return;
-  message.textContent = "Thanks! Connect a newsletter service such as Mailchimp, Buttondown or ConvertKit to collect subscribers.";
-  event.target.reset();
-});
+//   if (!email) return;
+//   message.textContent = "Thanks! Connect a newsletter service such as Mailchimp, Buttondown or ConvertKit to collect subscribers.";
+//   event.target.reset();
+// });
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
