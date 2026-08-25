@@ -186,7 +186,7 @@ BOOKS = [
         "isbn": "978-81-965412-4-9",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/Crime-suspense-stories-Parvind-Kumar/dp/9376502892/",
-        "google_play": "https://play.google.com/store/search?q=Parvind+Kumar+Crime+Suspense+Stories&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=WpH8EQAAQBAJ",
         "goodreads": "https://www.goodreads.com/search?q=Parvind+Kumar+Crime+Suspense+Stories",
         "formats": "Paperback, eBook (Kindle)",
         "description": "Stories built around mystery, crime, secrets and the consequences of hidden choices.",
@@ -227,7 +227,7 @@ BOOKS = [
         "isbn": "978-81-965412-5-6",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/Complete-Guide-Shu-Grid-Numerology/dp/9376502825",
-        "google_play": "https://play.google.com/store/search?q=The+Complete+Guide+to+Lo+Shu+Grid+Numerology+Parvind+Kumar&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=SR_3EQAAQBAJ",
         "goodreads": "https://www.goodreads.com/search?q=The+Complete+Guide+to+Lo+Shu+Grid+Numerology",
         "formats": "Paperback, eBook (Kindle)",
         "description": "An accessible guide to understanding the Lo Shu Grid and its traditional numerological framework.",
@@ -267,7 +267,7 @@ BOOKS = [
         "isbn": "978-81-965412-6-3",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/Before-said-goodbye-Parvind-Kumar/dp/937650321X",
-        "google_play": "https://play.google.com/store/search?q=Before+we+said+goodbye+Parvind+Kumar&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=6_f-EQAAQBAJ",
         "goodreads": "https://www.goodreads.com/search?q=Before+we+said+goodbye+Parvind+Kumar",
         "formats": "Paperback, eBook (Kindle)",
         "description": "Stories about love, loss, memories and the words left unsaid.",
@@ -307,7 +307,7 @@ BOOKS = [
         "isbn": "978-81-965412-7-0",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/Vintage-Between-Us-Vineyard-Romance/dp/B0H95CSR8H/",
-        "google_play": "https://play.google.com/store/search?q=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance+Parvind+Kumar&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=hNn2EQAAQBAJ",
         "goodreads": "https://www.goodreads.com/search?q=The+Vintage+Between+Us+A+Tuscan+Vineyard+Romance",
         "formats": "Paperback, eBook (Kindle)",
         "description": "A Tuscan vineyard, two people and a romance caught between past and present.",
@@ -389,7 +389,7 @@ BOOKS = [
         "isbn": "978-81-965412-9-4",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/Complete-Guide-Building-Marriage-Lasting/dp/9376502906/",
-        "google_play": "https://play.google.com/store/search?q=Complete+Guide+Building+Happy+Marriage+Lasting+Love+Parvind+Kumar&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=Ps74EQAAQBAJ",
         "goodreads": "https://www.goodreads.com/search?q=Complete+Guide+Building+Happy+Marriage+Lasting+Love",
         "formats": "Paperback, eBook (Kindle)",
         "description": "Practical ideas for communication, trust, intimacy and building a lasting partnership.",
@@ -428,11 +428,10 @@ BOOKS = [
         "isbn": "978-81-965413-0-0",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/Complete-Guide-Mindfulness-Meditation/dp/9360381705/",
-        "google_play": "https://play.google.com/store/search?q=Complete+Guide+to+Mindfulness+Meditation+Parvind+Kumar&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=_Nz2EQAAQBAJ",
         "goodreads": "https://www.goodreads.com/search?q=Complete+Guide+to+Mindfulness+Meditation+Parvind+Kumar",
         "formats": "Paperback, eBook (Kindle)",
         "description": "A practical journey into mindfulness, meditation, attention and everyday calm.",
-        "unavailable": True,
         "long_description": (
             "The Complete Guide to Mindfulness & Meditation is a self-help and wellness book by Indian author Parvind Kumar. "
             "In our fast-paced, screen-dominated world, finding quiet is harder than ever. This book demystifies meditation, "
@@ -508,7 +507,7 @@ BOOKS = [
         "isbn": "978-937650546-8",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/dp/9376505468",
-        "google_play": "https://play.google.com/store/search?q=What+Happens+After+Death+Parvind+Kumar&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=EtEDEgAAQBAJ",
         "goodreads": "https://www.goodreads.com/book/show/213600647-what-happens-after-death",
         "formats": "Paperback, eBook (Kindle)",
         "description": "The Soul, Near-Death Experiences, Reincarnation, and the Scientific Search for Life After Death.",
@@ -588,7 +587,7 @@ BOOKS = [
         "isbn": "978-81-965413-3-1",
         "publisher": "Independent",
         "amazon": "https://www.amazon.in/s?k=Talaq+Se+Pehle+Parvind+Kumar",
-        "google_play": "https://play.google.com/store/search?q=Talaq+Se+Pehle+Parvind+Kumar&c=books",
+        "google_play": "https://play.google.com/store/books/details?id=EPf2EQAAQBAJ",
         "goodreads": "https://www.goodreads.com/search?q=Talaq+Se+Pehle+Parvind+Kumar",
         "formats": "Paperback, eBook (Kindle)",
         "description": "तलाक से पहले (Talaq Se Pehle) लेखक परविन्द कुमार द्वारा वैवाहिक और सामाजिक विषयों पर लिखी गई एक महत्वपूर्ण रचना है।",
@@ -611,6 +610,639 @@ BOOKS = [
         "reviews": [
             {"quote": "विवाह और संबंधों को समझने की एक बहुत ही व्यावहारिक मार्गदर्शिका। लेखक ने बहुत ही संवेदनशीलता से इस विषय को छुआ है।", "source": "Dr. Alok Verma"},
             {"quote": "A must-read book before taking any extreme step. The advice is highly practical and compassionate.", "source": "Priyanka Singh"}
+        ]
+    },
+    {
+        "slug": "why-india-cancer-capital",
+        "title": "Why Is India Becoming the Cancer Capital?",
+        "subtitle": "The Hidden Causes, Lifestyle Changes, Pollution, Tobacco, Food, Stress and the Fight for Survival",
+        "kicker": "Public Health",
+        "category": ["nonfiction"],
+        "coverClass": "cover-fifteen",
+        "coverBg": "#5c2a2a",
+        "coverFg": "#e8c9a0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/5XwDEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 180,
+        "publication_date": "2026-08-10",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=5XwDEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Why+Is+India+Becoming+the+Cancer+Capital+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Why more Indians are facing cancer, what pollution, tobacco, diet and delayed diagnosis really have to do with it, and what an ordinary family can do about it.",
+        "long_description": (
+            "Why Is India Becoming the Cancer Capital? is a public-health investigation by Indian author Parvind Kumar into one of the country's most urgent and least understood crises. Rather than pointing to a single cause, the book traces how population growth and ageing, tobacco use, air pollution, changing diets, obesity, alcohol, and gaps in screening and diagnosis combine into a complex national burden.\n\n"
+            "The book moves chapter by chapter through the numbers behind the headlines, the outsized role of tobacco in its many Indian forms, the evidence on air pollution and PM2.5, and the cancers — breast, lung, oral, cervical, colorectal, and prostate — that the country cannot afford to ignore. It also examines how late diagnosis and the financial cost of treatment fall unevenly across regions, income groups, and rural and urban India.\n\n"
+            "Written to separate scientific evidence from popular myth, the book closes with a practical look at prevention — what individuals, families, clinicians, and policymakers can realistically do. It is, at its core, a book about awareness without panic and action without fatalism."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Cancer Numbers", "summary": "What India's incidence, mortality, and age-standardized rates actually mean, and why raw numbers alone mislead."},
+            {"chapter": "Chapter 2: Tobacco and Cancer", "summary": "Cigarettes, bidis, gutka, khaini, and paan, and why tobacco remains the single most preventable risk."},
+            {"chapter": "Chapter 3: Air Pollution and the Body", "summary": "What the evidence on PM2.5 and indoor smoke says about cancer risk."},
+            {"chapter": "Chapter 4: Food, Obesity and Modern Life", "summary": "How processed diets, alcohol, and sedentary living are reshaping India's risk profile."},
+            {"chapter": "Chapter 5: Late Diagnosis and Inequality", "summary": "Why cancer caught late changes outcomes, and how urban-rural and income gaps widen the divide."},
+            {"chapter": "Chapter 6: Prevention and Action", "summary": "Realistic steps for individuals, families, and policymakers."}
+        ],
+        "reviews": [
+            {"quote": "A clear-eyed, necessary book. It replaces fear with facts, and that is exactly what this subject needs.", "source": "Reader Review"},
+            {"quote": "Rigorous without being alarmist. A useful starting point for any Indian family trying to understand real cancer risk.", "source": "Public Health Digest"}
+        ]
+    },
+    {
+        "slug": "the-virus-between-us",
+        "title": "The Virus Between Us",
+        "subtitle": "One Diagnosis. One Dead Doctor. A Secret That Could Destroy Everything.",
+        "kicker": "Romance · Thriller",
+        "category": ["fiction"],
+        "coverClass": "cover-sixteen",
+        "coverBg": "#1f2937",
+        "coverFg": "#a9c4d9",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ul4EEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-08-21",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=ul4EEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Virus+Between+Us+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "An HIV diagnosis, a doctor's suspicious death, and a woman who won't stop asking questions — a suspenseful story about stigma, secrets, and redemption.",
+        "long_description": (
+            "The Virus Between Us is a romantic thriller by Indian author Parvind Kumar. Maya Sharma's life is upended by a single test result — and further upended when the doctor who delivered it is found dead, in what is officially ruled a suicide. Maya doesn't believe it, and when her own medical records vanish, she realizes someone doesn't want her asking questions.\n\n"
+            "Her investigation pulls in a former lover, a fiancé with his own secrets, a powerful hospital owner, and a string of patients whose stories were quietly buried. Every answer she finds only opens another question, and every person she trusts turns out to be hiding something.\n\n"
+            "Beneath its mystery, the novel is also a story about stigma — about what an HIV diagnosis does and doesn't mean, and about a woman deciding to understand her own truth before she can help anyone else understand theirs."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Diagnosis", "summary": "Maya receives the result that changes everything, hours before her doctor is found dead."},
+            {"chapter": "Chapter 2: Missing Records", "summary": "A quiet disappearance from the hospital's files convinces Maya the death was no suicide."},
+            {"chapter": "Chapter 3: Old Ties, New Doubts", "summary": "A former lover and a hospital owner both know more than they're saying."},
+            {"chapter": "Chapter 4: What the Patients Knew", "summary": "Buried case files connect the doctor to a pattern no one was meant to notice."},
+            {"chapter": "Chapter 5: The Truth About the Virus", "summary": "Maya confronts what her diagnosis means — and doesn't mean — for her future."},
+            {"chapter": "Chapter 6: Reckoning", "summary": "The people hiding the truth are finally forced to answer for it."}
+        ],
+        "reviews": [
+            {"quote": "A gripping mystery that never loses its heart. Kumar handles a difficult subject with real sensitivity.", "source": "Reader Review"},
+            {"quote": "Tense, humane, and genuinely surprising. A thriller with something honest to say about stigma.", "source": "Fiction Weekly"}
+        ]
+    },
+    {
+        "slug": "the-bageshwar-phenomenon",
+        "title": "The Bageshwar Phenomenon",
+        "subtitle": "The Life, Faith, Controversies and Extraordinary Rise of Dhirendra Krishna Shastri",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-seventeen",
+        "coverBg": "#4a3728",
+        "coverFg": "#d8c3a5",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/-VUCEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 160,
+        "publication_date": "2026-08-16",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=-VUCEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Bageshwar+Phenomenon+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life, rise and controversies of Dhirendra Krishna Shastri — from a village in Madhya Pradesh to one of India's most talked-about spiritual figures.",
+        "long_description": (
+            "The Bageshwar Phenomenon is a biography by Indian author Parvind Kumar tracing the extraordinary rise of Dhirendra Krishna Shastri — from his childhood and family background in Gadha village to his emergence as one of India's most discussed contemporary spiritual figures.\n\n"
+            "The book follows his religious storytelling, his association with Bageshwar Dham, the growth of the Divya Darbar, and the social-media presence that carried his following far beyond the temple town. It also examines the social initiatives associated with his name and the controversies that have followed his rise.\n\n"
+            "Rather than simply praising or criticizing its subject, the book aims to separate documented fact from belief, presenting the story so far and leaving readers to form their own judgment about a figure whose story is still unfolding."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: A Village Called Gadha", "summary": "Family background and the early life that shaped a future spiritual leader."},
+            {"chapter": "Chapter 2: The Kathavachak's Path", "summary": "Religious storytelling and the early years of public devotion."},
+            {"chapter": "Chapter 3: Bageshwar Dham and the Divya Darbar", "summary": "How a local place of devotion became a national phenomenon."},
+            {"chapter": "Chapter 4: Faith in the Feed", "summary": "Social media, virality, and the modern shape of religious celebrity."},
+            {"chapter": "Chapter 5: Claims and Controversies", "summary": "The criticisms, debates, and questions that have followed his rise."}
+        ],
+        "reviews": [
+            {"quote": "A balanced, well-researched account of a genuinely complicated public figure.", "source": "Reader Review"},
+            {"quote": "Fair to both devotees and skeptics. Kumar resists the temptation to simplify.", "source": "Culture & Faith Review"}
+        ]
+    },
+    {
+        "slug": "pati-patni-aur-woh",
+        "title": "पति, पत्नी और वो",
+        "subtitle": "एक रहस्यमयी प्रेम कहानी",
+        "kicker": "रहस्य रोमांस",
+        "category": ["fiction"],
+        "coverClass": "cover-eighteen",
+        "coverBg": "#6b1f2a",
+        "coverFg": "#f2d9c4",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/69_2EQAAQBAJ?fife=w800",
+        "language": "Hindi",
+        "pages": 190,
+        "publication_date": "2026-07-21",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=69_2EQAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Pati+Patni+Aur+Woh+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "आर्यन, मीरा और रोहन की कहानी — प्यार, शक और राज़ जब एक ही छत के नीचे टकराते हैं, तो सच्चाई किसी ने सोची भी नहीं थी।",
+        "long_description": (
+            "पति, पत्नी और वो लेखक परविन्द कुमार की एक रहस्यमयी प्रेम कहानी है। आर्यन और मीरा की शादी को बारह साल हो चुके हैं, जब मीरा की अधूरी कहानी का किरदार रोहन वापस लौटता है। एक रात आर्यन की लाश ऑफिस में मिलती है, और शक की सुई रोहन की तरफ जाती है।\n\n"
+            "इंस्पेक्टर देवेंद्र सिंह जैसे-जैसे सच के करीब पहुँचता है, करोड़ों की हेराफेरी, एक खतरनाक बिज़नेसमैन, एक छुपी हुई डायरी और एक सीलबंद लिफाफा — हर राज़ एक नई परत खोलता है।\n\n"
+            "यह कहानी है रिश्तों की दरारों की, उस प्यार की जो जुनून बन जाता है, और उस औरत की जो हर झूठ के बाद भी खुद को टूटने नहीं देती।"
+        ),
+        "table_of_contents": [
+            {"chapter": "अध्याय 1: बारह साल बाद", "summary": "आर्यन और मीरा की शादी में लौटती खामोशी, और रोहन की वापसी।"},
+            {"chapter": "अध्याय 2: लाश और शक", "summary": "आर्यन का ऑफिस में मिलना, और पुलिस का पहला शक।"},
+            {"chapter": "अध्याय 3: छुपी हुई डायरी", "summary": "मीरा के अतीत से जुड़े राज़ सामने आने लगते हैं।"},
+            {"chapter": "अध्याय 4: करोड़ों की हेराफेरी", "summary": "एक बिज़नेसमैन और एक सीलबंद लिफाफे की कहानी।"},
+            {"chapter": "अध्याय 5: असली गुनहगार", "summary": "इंस्पेक्टर देवेंद्र सिंह के सामने आता है वह सच, जो किसी ने सोचा भी नहीं था।"}
+        ],
+        "reviews": [
+            {"quote": "एक कसी हुई रहस्य कहानी, जो आखिरी पन्ने तक बांधे रखती है।", "source": "Reader Review"},
+            {"quote": "A tightly plotted Hindi thriller with real emotional depth beneath the mystery.", "source": "Fiction Weekly"}
+        ]
+    },
+    {
+        "slug": "the-american-distance",
+        "title": "The American Distance",
+        "subtitle": "Two People. One Country Divided. A Love That Refuses to Choose Sides.",
+        "kicker": "Contemporary Romance",
+        "category": ["fiction", "relationships"],
+        "coverClass": "cover-nineteen",
+        "coverBg": "#2d4a4a",
+        "coverFg": "#d9b98d",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/HfACEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 230,
+        "publication_date": "2026-08-11",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=HfACEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+American+Distance+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "An immigration lawyer and a tech executive fall for each other just as she uncovers that the algorithm hurting her client was built by his own company.",
+        "long_description": (
+            "The American Distance is a contemporary romance novel by Indian author Parvind Kumar. Maya Rao, an immigration lawyer fighting to keep her client Sofia from being deported over an unexplained fraud flag, collides — almost literally, over a spilled coffee — with Ethan Carter, a rising executive at the AI company behind the very software making that decision.\n\n"
+            "What begins as an accidental meeting becomes something neither of them planned for, even as Maya digs deeper into the system quietly mapping and selling the American public, and discovers the man she can't stop thinking about helped build it.\n\n"
+            "The novel follows Ethan's reckoning with what his company is really building, and Maya's own lesson that being right isn't always the same as being careful — a love story that refuses to look away from the country, and the systems, it's set inside."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: A Spilled Coffee", "summary": "Maya and Ethan meet outside a federal building, on opposite sides of a fight neither has named yet."},
+            {"chapter": "Chapter 2: Four Minutes to Be Somewhere", "summary": "Taco-cart dates and a dinner where Ethan lies about a company name without quite meaning to."},
+            {"chapter": "Chapter 3: What the Algorithm Decided", "summary": "Maya discovers the system flagging her client as fraud — and who built it."},
+            {"chapter": "Chapter 4: The Distance Between Them", "summary": "Ethan is pulled deeper into what Halcyon AI is really building."},
+            {"chapter": "Chapter 5: Putting a Name on It", "summary": "Ethan decides what it means to finally stand behind something hard."}
+        ],
+        "reviews": [
+            {"quote": "A smart, timely romance that doesn't shy away from the systems shaping real lives.", "source": "Reader Review"},
+            {"quote": "Genuinely moving, with a conscience. Kumar writes both the romance and the politics with a light hand.", "source": "Contemporary Fiction Review"}
+        ]
+    },
+    {
+        "slug": "lose-weight-without-dieting",
+        "title": "Lose Weight Without Dieting",
+        "subtitle": "Simple Lifestyle Habits That Work",
+        "kicker": "Health & Wellness",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-twenty",
+        "coverBg": "#3a5a40",
+        "coverFg": "#dad7cd",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/hjXvEQAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 35,
+        "publication_date": "2026-06-27",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=hjXvEQAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Lose+Weight+Without+Dieting+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A short, science-backed guide to losing weight through mindful eating, sleep, stress and movement — without restriction or calorie counting.",
+        "long_description": (
+            "Lose Weight Without Dieting is a concise health guide by Indian author Parvind Kumar for readers tired of diets that leave them hungry and back where they started. Rather than restriction or calorie counting, the book focuses on the daily habits — mindful eating, hydration, sleep, stress, and movement — that bring the body to its natural weight and keep it there.\n\n"
+            "It explains why crash diets slow metabolism and make weight loss harder, how to eat less without feeling deprived, and the sleep and stress habits that directly affect fat storage. A step-by-step 30-Day Action Plan turns the ideas into a routine readers can actually keep."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Why Diets Fail", "summary": "How crash dieting slows metabolism and sets up the next relapse."},
+            {"chapter": "Chapter 2: Eating Without Restriction", "summary": "Mindful eating habits that reduce intake without deprivation."},
+            {"chapter": "Chapter 3: Sleep, Stress and Fat Storage", "summary": "The habits that quietly control weight from the inside."},
+            {"chapter": "Chapter 4: Hydration and Metabolism", "summary": "Simple daily habits that add up."},
+            {"chapter": "Chapter 5: The 30-Day Action Plan", "summary": "A step-by-step path to building habits that last."}
+        ],
+        "reviews": [
+            {"quote": "Short, practical, and refreshingly free of diet-culture guilt.", "source": "Reader Review"},
+            {"quote": "No gimmicks, just habits that actually stick. A quick, useful read.", "source": "Wellness Notes"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-lord-shiva",
+        "title": "101 Stories of Lord Shiva",
+        "subtitle": "Timeless Tales of Divine Power, Wisdom, Devotion, and the Lessons We Still Need Today",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-twenty-one",
+        "coverBg": "#35281a",
+        "coverFg": "#e3b23c",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/XtMEEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 280,
+        "publication_date": "2026-08-23",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=XtMEEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+Lord+Shiva+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "101 stories of Mahadev — from the endless pillar of light to Shiva's many forms and sacred places — and the lessons they still offer today.",
+        "long_description": (
+            "101 Stories of Lord Shiva is a mythology collection by Indian author Parvind Kumar bringing together stories from across the many names and forms of Shiva — Mahadev, Shankara, Neelkanth, Rudra, Nataraja, Pashupatinath, and more. It moves from the mysterious Endless Pillar of Light through the stories of Sati and Parvati, the birth of Ganesha and Kartikeya, and the devotion of figures like Ravana, Markandeya, and Kannappa.\n\n"
+            "The collection also explores Shiva's many forms and the sacred places associated with him — Kailash, Kashi, Kedarnath, Somnath, Rameshwaram, and the Jyotirlingas — while asking what each story still has to teach: about stillness, transformation, humility, and the quiet strength that doesn't need to announce itself."
+        ),
+        "table_of_contents": [
+            {"chapter": "Section 1: The Endless Pillar of Light", "summary": "The mystery at the heart of Shiva's origin stories."},
+            {"chapter": "Section 2: Sati and Parvati", "summary": "Love, loss and devotion across two lifetimes."},
+            {"chapter": "Section 3: Devotees and Demons", "summary": "Ravana, Markandeya, Kannappa and the many faces of devotion."},
+            {"chapter": "Section 4: The Many Forms of Mahadev", "summary": "Nataraja, Ardhanarishvara, Bhairava and what each form represents."},
+            {"chapter": "Section 5: Sacred Places", "summary": "Kailash, Kashi, Kedarnath and the geography of devotion."},
+            {"chapter": "Section 6: What Shiva Still Teaches", "summary": "Reflections on stillness, transformation and inner strength for today."}
+        ],
+        "reviews": [
+            {"quote": "Beautifully retold and easy to read aloud to the whole family.", "source": "Reader Review"},
+            {"quote": "A warm, accessible entry point into Shiva's many stories and forms.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-buddha",
+        "title": "101 Stories of Buddha",
+        "subtitle": "Timeless Tales of Wisdom, Compassion, Mindfulness, and the Lessons We Still Need Today",
+        "kicker": "Mythology & Philosophy",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-twenty-two",
+        "coverBg": "#22303a",
+        "coverFg": "#c9a66b",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OQwFEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-08-24",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=OQwFEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+Buddha+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The journey of Siddhartha Gautama and 101 stories exploring anger, attachment, mindfulness, and how ancient Buddhist wisdom applies to modern, distracted life.",
+        "long_description": (
+            "101 Stories of Buddha is a collection by Indian author Parvind Kumar tracing Siddhartha Gautama's journey from a life of privilege to his awakening beneath the Bodhi tree, and the teachings that followed. Across ten thematic sections, it explores the Four Noble Truths and the Eightfold Path, compassion and loving-kindness, anger and forgiveness, attachment, mindfulness, ego, karma, and impermanence.\n\n"
+            "The stories include kings, scholars, monks and ordinary people — a grieving mother searching for a mustard seed, an insult refused, a sick monk needing compassion — and a final section that carries these teachings into distinctly modern territory: traffic, social media, comparison, and information overload.\n\n"
+            "It is less a book to admire than one meant to be practiced — an invitation to notice what a reader is holding on to, and where compassion might replace anger."
+        ),
+        "table_of_contents": [
+            {"chapter": "Section 1: The Journey of Siddhartha Gautama", "summary": "From the royal palace to the discovery of the Middle Way."},
+            {"chapter": "Section 2: The Four Noble Truths and the Eightfold Path", "summary": "The foundation of the Buddha's teaching."},
+            {"chapter": "Section 3: Compassion, Anger and Forgiveness", "summary": "Stories of loving-kindness and letting go of resentment."},
+            {"chapter": "Section 4: Attachment and Letting Go", "summary": "What the Buddha's parables teach about clinging and release."},
+            {"chapter": "Section 5: Mindfulness and the Present Moment", "summary": "Living with attention in an inattentive world."},
+            {"chapter": "Section 6: Ancient Wisdom, Modern Life", "summary": "Traffic, social media and distraction seen through Buddhist parables."}
+        ],
+        "reviews": [
+            {"quote": "Gentle, clear, and genuinely useful for daily life — not just ancient history.", "source": "Reader Review"},
+            {"quote": "The modern parables in the final section make this collection stand out.", "source": "Mindful Living Magazine"}
+        ]
+    },
+    {
+        "slug": "focused-101",
+        "title": "Focused 101",
+        "subtitle": "How to Reclaim Your Attention, Beat Distraction, and Get More Done in a Distracted World",
+        "kicker": "Productivity",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-twenty-three",
+        "coverBg": "#263238",
+        "coverFg": "#80cbc4",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/l1ACEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 150,
+        "publication_date": "2026-08-13",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=l1ACEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Focused+101+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A practical system for reclaiming attention and beating distraction — from Notification Zero to a structured 90-Day Focus Challenge.",
+        "long_description": (
+            "Focused 101 is a productivity guide by Indian author Parvind Kumar built around a simple idea: in a world of notifications and constant information, the real challenge is no longer managing time but managing attention. The book identifies four enemies of focus — Distractions, Switching, Friction, and Mental Clutter — and offers concrete countermeasures for each.\n\n"
+            "Techniques like the 5-Minute Beginning, Phone-Free Hour, Notification Zero, Single-Tasking, and Focus Sessions are applied across studying, professional work, entrepreneurship, and relationships. The book also introduces Digital Minimalism, the One-Goal Principle, and the idea of an Attention Budget for making more deliberate daily choices.\n\n"
+            "It closes with a structured 90-Day Focus Challenge and a Focus Toolkit of worksheets and trackers, designed to turn the ideas into a lasting habit rather than a one-time read."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Four Enemies of Focus", "summary": "Distractions, Switching, Friction and Mental Clutter."},
+            {"chapter": "Chapter 2: Small Starts", "summary": "The 5-Minute Beginning and building momentum without willpower."},
+            {"chapter": "Chapter 3: Notification Zero", "summary": "Redesigning a phone and a day around fewer interruptions."},
+            {"chapter": "Chapter 4: Single-Tasking and Focus Sessions", "summary": "Structured blocks of real, undivided attention."},
+            {"chapter": "Chapter 5: The Attention Budget", "summary": "Digital minimalism and the One-Goal Principle."},
+            {"chapter": "Chapter 6: The 90-Day Focus Challenge", "summary": "A structured path from distracted to deeply focused."}
+        ],
+        "reviews": [
+            {"quote": "Practical without being preachy. I actually finished the 90-day challenge.", "source": "Reader Review"},
+            {"quote": "A clear, well-organized system for a problem most productivity books only complain about.", "source": "Productivity Weekly"}
+        ]
+    },
+    {
+        "slug": "the-new-indian-marriage",
+        "title": "The New Indian Marriage",
+        "subtitle": "Love, Dating Apps, Live-In Relationships, Divorce, Infidelity and the Changing Indian Family",
+        "kicker": "Society & Relationships",
+        "category": ["nonfiction", "relationships"],
+        "coverClass": "cover-twenty-four",
+        "coverBg": "#4b2e39",
+        "coverFg": "#e0b0a0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/6DoCEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-08-09",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=6DoCEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+New+Indian+Marriage+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "What Indian marriage actually looks like today — arranged marriage in the smartphone era, live-in relationships, dowry, dating apps, and a generation delaying marriage entirely.",
+        "long_description": (
+            "The New Indian Marriage is a nonfiction study by Indian author Parvind Kumar examining what marriage actually looks like across India today, not what it's supposed to look like. Each chapter opens with a real story and is grounded in a Supreme Court ruling, a national survey, or a government dataset, with fifteen charts and a full source list backing the claims.\n\n"
+            "The book covers arranged marriage in the smartphone era, dowry and why the law hasn't stopped it, inter-caste and interfaith love still fought over in court, live-in couples with nowhere to legally rent, dating apps quietly becoming marriage bureaus, financial independence and the resentment it can trigger, and divorce, infidelity, surrogacy and LGBTQ+ rights.\n\n"
+            "It doesn't argue that arranged marriage is outdated or love marriage is better. It shows, honestly, what marriage in India looks like now — messy, uneven, and still somehow holding a country together."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Arranged Marriage in the Smartphone Era", "summary": "WhatsApp introductions and the persistence of family-arranged matches."},
+            {"chapter": "Chapter 2: Dowry, Sixty Years Later", "summary": "Why a decades-old law hasn't ended the practice."},
+            {"chapter": "Chapter 3: Love Across the Lines", "summary": "Inter-caste and interfaith marriage, still fought over in court."},
+            {"chapter": "Chapter 4: Live-In and Legally Invisible", "summary": "Couples navigating a country with no clear rental or legal status for cohabitation."},
+            {"chapter": "Chapter 5: Dating Apps as Marriage Bureaus", "summary": "How swiping quietly became a modern matchmaking system."},
+            {"chapter": "Chapter 6: Divorce, Infidelity and What Comes Next", "summary": "Surrogacy, LGBTQ+ rights, and a generation delaying marriage."}
+        ],
+        "reviews": [
+            {"quote": "Data-driven and genuinely even-handed — rare for a book on this subject.", "source": "Reader Review"},
+            {"quote": "Fifteen charts and real court rulings back up every claim. This isn't opinion writing.", "source": "Family & Society Journal"}
+        ]
+    },
+    {
+        "slug": "freedom-and-partition",
+        "title": "Freedom and Partition",
+        "subtitle": "The Struggle for Independence, the Decisions Behind Partition, and the Human Cost of 1947",
+        "kicker": "History",
+        "category": ["nonfiction"],
+        "coverClass": "cover-twenty-five",
+        "coverBg": "#33312e",
+        "coverFg": "#c1a875",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/QCcCEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 210,
+        "publication_date": "2026-08-15",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=QCcCEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Freedom+and+Partition+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "How India's freedom movement led to Partition — from Gandhi's mass movements to the Radcliffe Line and the refugee crisis that followed August 1947.",
+        "long_description": (
+            "Freedom and Partition is a history by Indian author Parvind Kumar tracing India's path from British colonial rule to independence — and why that journey ended in the division of the subcontinent. It follows the rise of Indian nationalism and Gandhi's mass movements, the emergence of Muhammad Ali Jinnah and the Muslim League, and the negotiations of the 1940s through the Cabinet Mission, the Mountbatten Plan, and the Radcliffe Line.\n\n"
+            "Rather than a simple story of heroes and villains, the book examines the competing ambitions, fears, and failures that brought the subcontinent to its final crossroads — and the enormous refugee crisis that followed the celebrations of August 1947.\n\n"
+            "At its center is one enduring question: how the dream of freedom became intertwined with the division of a country, and what that meant for the millions of ordinary lives transformed by 1947."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Rise of Indian Nationalism", "summary": "Gandhi's mass movements and the growing demand for self-rule."},
+            {"chapter": "Chapter 2: Jinnah and the Muslim League", "summary": "The emergence of a rival political vision."},
+            {"chapter": "Chapter 3: The Cabinet Mission and Mountbatten Plan", "summary": "The negotiations that shaped the final settlement."},
+            {"chapter": "Chapter 4: The Radcliffe Line", "summary": "How a border was drawn, and what it failed to account for."},
+            {"chapter": "Chapter 5: August 1947", "summary": "Independence, celebration, and the immediate aftermath."},
+            {"chapter": "Chapter 6: The Human Cost", "summary": "The refugee crisis and the families divided by a new map."}
+        ],
+        "reviews": [
+            {"quote": "A measured, well-sourced account that resists easy heroes and villains.", "source": "Reader Review"},
+            {"quote": "Clear-eyed history writing that never loses sight of the human cost.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-lord-krishna",
+        "title": "101 Stories of Lord Krishna",
+        "subtitle": "Timeless Tales of Divine Love, Wisdom, Courage, Dharma, and the Lessons Krishna Still Teaches Us Today",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-twenty-six",
+        "coverBg": "#1a2a4a",
+        "coverFg": "#e8c468",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/fqgDEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 280,
+        "publication_date": "2026-08-20",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=fqgDEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+Lord+Krishna+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From Krishna's birth in Mathura to the battlefield of Kurukshetra — 101 stories of divine love, friendship, courage and dharma.",
+        "long_description": (
+            "101 Stories of Lord Krishna is a mythology collection by Indian author Parvind Kumar that follows Krishna's journey from his birth in Mathura and childhood in Vrindavan to the battlefield of Kurukshetra and the wisdom of the Bhagavad Gita. It travels through his playful childhood, his bond with Radha and the gopis, the lifting of Govardhan Hill, his friendship with Sudama, and his role as Arjuna's charioteer.\n\n"
+            "The collection presents Krishna as a genuinely multifaceted figure — mischievous child, devoted friend, strategic leader, and spiritual teacher — and asks what each story still offers today: courage in fear, humility in success, and faith when the path ahead is uncertain."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Birth and Childhood in Vrindavan", "summary": "Krishna's early life among the gopis and Yashoda."},
+            {"chapter": "Chapter 2: Govardhan Hill and the Protection of Vrindavan", "summary": "Krishna's defiance of Indra and his devotion to his people."},
+            {"chapter": "Chapter 3: Friendship and Loyalty", "summary": "Sudama, Draupadi and Krishna's bonds beyond the divine."},
+            {"chapter": "Chapter 4: The Charioteer of Kurukshetra", "summary": "Krishna's role in the Pandavas' story and the Bhagavad Gita."},
+            {"chapter": "Chapter 5: The Wisdom of the Gita", "summary": "Teachings on action, fear, attachment and dharma."},
+            {"chapter": "Chapter 6: What Krishna Still Teaches", "summary": "Reflections on courage, friendship and faith for modern readers."}
+        ],
+        "reviews": [
+            {"quote": "A joyful, accessible retelling that both children and adults will love.", "source": "Reader Review"},
+            {"quote": "Faithful to tradition while making every story feel immediate and alive.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "the-price-of-an-ordinary-life",
+        "title": "The Price of an Ordinary Life",
+        "subtitle": "A Modern Indian Novel About Money, Marriage, Work, Debt, Family, and the Fight for Dignity",
+        "kicker": "Fiction",
+        "category": ["fiction"],
+        "coverClass": "cover-twenty-seven",
+        "coverBg": "#3d3d3d",
+        "coverFg": "#e0c097",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/vqYCEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 240,
+        "publication_date": "2026-08-12",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=vqYCEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Price+of+an+Ordinary+Life+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A middle-class man in Delhi NCR loses his job — and a year strips away every assumption his family made about security.",
+        "long_description": (
+            "The Price of an Ordinary Life is a family drama by Indian author Parvind Kumar following Raghav Sharma — not poor, not rich, an ordinary middle-class man with a home loan, two children, ageing parents, and a job he loses in the opening pages. What follows is a year of hospital bills, a credit card whose minimum due turns out to be a trap, a farmer father drowning in his own kind of debt, and a wife rediscovering the career she once set aside.\n\n"
+            "The novel follows three generations of one family — a grandfather who needed only enough to survive, a father taught to need enough to succeed, and children only beginning to ask what it means to be free — set between a North Indian village and a rapidly changing NCR.\n\n"
+            "It is a story about EMIs and dignity, about a sister who refuses a marriage proposal that reduced her to a checklist, and about how much an ordinary life actually costs when the bill finally comes due."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Job Raghav Loses", "summary": "A comfortable middle-class life begins to unravel."},
+            {"chapter": "Chapter 2: The Minimum Due", "summary": "Debt, a hospital bill, and the trap hidden in fine print."},
+            {"chapter": "Chapter 3: Two Kinds of Debt", "summary": "Raghav's father, a farmer in Uttar Pradesh, faces his own version of the same fight."},
+            {"chapter": "Chapter 4: What the Children Found", "summary": "A ledger discovered by accident changes what the family understands about itself."},
+            {"chapter": "Chapter 5: The Job Offer", "summary": "Raghav is offered the one job that could fix everything, if he becomes what once broke him."},
+            {"chapter": "Chapter 6: The Price", "summary": "What the family finally decides an ordinary life is worth."}
+        ],
+        "reviews": [
+            {"quote": "Painfully real. This is the story of half of urban India's middle class.", "source": "Reader Review"},
+            {"quote": "A quiet, devastating portrait of dignity under financial pressure.", "source": "Literary Review Weekly"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-lord-ganesha",
+        "title": "101 Stories of Lord Ganesha",
+        "subtitle": "Timeless Tales of Divine Wisdom, Courage, Devotion, and the Lessons We Still Need Today",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-twenty-eight",
+        "coverBg": "#b0413e",
+        "coverFg": "#fdf0d5",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/IZ4EEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 240,
+        "publication_date": "2026-08-22",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=IZ4EEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+Lord+Ganesha+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From the boy guarding his mother's door to the remover of obstacles celebrated at every festival — 101 stories of Ganesha's life, legend and teachings.",
+        "long_description": (
+            "101 Stories of Lord Ganesha is a mythology collection by Indian author Parvind Kumar tracing Ganesha's full story — his dramatic birth on Kailash, his mischievous childhood, the legendary race around the world with his brother Kartikeya, and his service as sage Vyasa's scribe for the Mahabharata.\n\n"
+            "Alongside the traditional accounts sit original teaching parables — of proud scholars humbled and farmers who nearly gave up — each illustrating the patience and devotion Ganesha represents. The book is upfront about its sources throughout, labeling clearly what is traditional Puranic story, festival custom, and original parable, so readers always know which is which."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Birth on Kailash", "summary": "The confrontation that shaped Ganesha's role as guardian."},
+            {"chapter": "Chapter 2: The Race Around the World", "summary": "Ganesha's wit against Kartikeya's speed."},
+            {"chapter": "Chapter 3: Scribe of the Mahabharata", "summary": "Ganesha's service to sage Vyasa."},
+            {"chapter": "Chapter 4: Festival Origins", "summary": "The stories behind the customs still celebrated today."},
+            {"chapter": "Chapter 5: Original Parables", "summary": "New stories of patience, humility and devotion in Ganesha's spirit."}
+        ],
+        "reviews": [
+            {"quote": "A lovely collection to read aloud with children before Ganesh Chaturthi.", "source": "Reader Review"},
+            {"quote": "Refreshingly honest about which stories are tradition and which are retellings.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "marriage-turned-murder",
+        "title": "Marriage Turned Murder",
+        "subtitle": "India's Most Shocking Husband and Wife Crimes, 20 True Stories",
+        "kicker": "True Crime",
+        "category": ["nonfiction"],
+        "coverClass": "cover-twenty-nine",
+        "coverBg": "#261c1c",
+        "coverFg": "#c94c4c",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/FeP_EQAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 200,
+        "publication_date": "2026-08-01",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=FeP_EQAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Marriage+Turned+Murder+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Twenty real Indian marriages that ended in murder — built from police statements, court filings, and verified news reports.",
+        "long_description": (
+            "Marriage Turned Murder is a true crime collection by Indian author Parvind Kumar documenting twenty real cases where an Indian marriage ended in murder — among them the Blue Drum Murder, the Cobra Plot, the Tandoor Murder, and the Faridkot NRI case, drawn from Delhi, Bihar, Kerala, Punjab, Karnataka, Maharashtra and beyond.\n\n"
+            "Built from police statements, court filings, and verified news reports, each chapter follows the same structure — the victim, the marriage, the crime, the investigation, and where the case stands today — asking how well anyone truly knows the person sleeping beside them."
+        ),
+        "table_of_contents": [
+            {"chapter": "Case 1: The Blue Drum Murder", "summary": "A case that shocked Delhi and exposed a marriage's hidden violence."},
+            {"chapter": "Case 2: The Cobra Plot", "summary": "A meticulously planned crime that nearly went undetected."},
+            {"chapter": "Case 3: The Tandoor Murder", "summary": "One of India's most infamous marital crimes, revisited."},
+            {"chapter": "Case 4: The Faridkot NRI Case", "summary": "A cross-border marriage that ended in tragedy."},
+            {"chapter": "Cases 5–20: Sixteen More Cases", "summary": "Sixteen further verified cases from across India, and what they reveal."}
+        ],
+        "reviews": [
+            {"quote": "Meticulously researched and told without sensationalism.", "source": "Reader Review"},
+            {"quote": "Sober, well-sourced true crime — exactly what this genre needs more of.", "source": "True Crime Digest"}
+        ]
+    },
+    {
+        "slug": "digital-product-sales-marketing-strategy",
+        "title": "Digital Product Sales & Marketing Strategy",
+        "subtitle": "A 27-Chapter Playbook for Building, Launching, and Scaling a Digital Product Business",
+        "kicker": "Business",
+        "category": ["business", "nonfiction"],
+        "coverClass": "cover-thirty",
+        "coverBg": "#1b3a4b",
+        "coverFg": "#8ecae6",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/VIn3EQAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 164,
+        "publication_date": "2026-07-23",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=VIn3EQAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Digital+Product+Sales+Marketing+Strategy+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A 164-page, 27-chapter practitioner guide to building, launching and scaling a digital product business, with templates for every step.",
+        "long_description": (
+            "Digital Product Sales & Marketing Strategy is a business playbook by Indian author Parvind Kumar covering the complete lifecycle of a digital product business — from validating a product idea to building a sales funnel, running email and paid campaigns, launching to a list, and scaling internationally.\n\n"
+            "The book is organized into six parts: Foundation, Infrastructure, Marketing, Growth, Optimisation & Scale, and a closing section on AI and future trends. It backs its claims with over 40 primary source citations and 18 real creator case studies, and includes nearly 30 copy-paste templates — email sequences, ad account structures, and a pricing calculator among them — plus a 90-Day Action Plan tying every task to a specific chapter."
+        ),
+        "table_of_contents": [
+            {"chapter": "Part I: Foundation", "summary": "Choosing the right product, buyer persona, and brand positioning."},
+            {"chapter": "Part II: Infrastructure", "summary": "Payment platforms, sales funnels, pricing, and legal compliance."},
+            {"chapter": "Part III: Marketing", "summary": "SEO, email marketing, social ads, video, and community building."},
+            {"chapter": "Part IV: Growth", "summary": "Affiliate marketing, launch frameworks, upselling, and buyer psychology."},
+            {"chapter": "Part V: Optimisation & Scale", "summary": "Analytics, retention, international pricing, and creator mindset."},
+            {"chapter": "Part VI: Future", "summary": "An AI toolkit for creators and the trends shaping digital commerce ahead."}
+        ],
+        "reviews": [
+            {"quote": "The most actionable digital products book I've read — templates, not just theory.", "source": "Reader Review"},
+            {"quote": "Dense with real numbers and real case studies. A genuine reference, not another marketing pep talk.", "source": "Business Playbook Review"}
+        ]
+    },
+    {
+        "slug": "101-public-speaking-tips",
+        "title": "101 Public Speaking Tips",
+        "subtitle": "Master the Stage, Own the Room, Change Minds",
+        "kicker": "Self-Help",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-thirty-one",
+        "coverBg": "#4a4e69",
+        "coverFg": "#f2e9e4",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/eCoDEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-06-28",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=eCoDEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Public+Speaking+Tips+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "101 actionable techniques for public speaking — from conquering fear to structuring speeches, vocal delivery, and a 30-day action plan.",
+        "long_description": (
+            "101 Public Speaking Tips is a practical guide by Indian author Parvind Kumar covering the complete public-speaking journey in 101 actionable techniques — conquering fear without waiting to feel ready, researching an audience, structuring stronger openings and conclusions, and mastering vocal delivery, pace, and pauses.\n\n"
+            "The book also covers body language and stage presence, storytelling, audience interaction, presentation design, and handling difficult Q&A. It closes with a 30-Day Public Speaking Action Plan that pushes readers to practice progressively, record themselves, and ultimately deliver a speech to a live audience."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Conquering Fear", "summary": "Building confidence without waiting to feel ready."},
+            {"chapter": "Chapter 2: Structure and Preparation", "summary": "Stronger openings, transitions, and conclusions."},
+            {"chapter": "Chapter 3: Vocal Delivery and Body Language", "summary": "Pace, pitch, pauses, and stage presence."},
+            {"chapter": "Chapter 4: Storytelling and Engagement", "summary": "Making ideas memorable and keeping an audience involved."},
+            {"chapter": "Chapter 5: Slides, Q&A and Difficult Moments", "summary": "Presenting with clarity and handling pressure with composure."},
+            {"chapter": "Chapter 6: The 30-Day Action Plan", "summary": "A structured path from nervous speaker to confident one."}
+        ],
+        "reviews": [
+            {"quote": "Practical, specific, and genuinely confidence-building.", "source": "Reader Review"},
+            {"quote": "The 30-day plan alone is worth the read. I used it before a real conference talk.", "source": "Communication Quarterly"}
         ]
     }
 ]
@@ -709,7 +1341,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           "target": [
             {{
               "@type": "EntryPoint",
-              "urlTemplate": "{amazon}",
+              "urlTemplate": "{primary_buy_link}",
               "actionPlatform": [
                 "http://schema.org/DesktopWebPlatform",
                 "http://schema.org/MobileWebPlatform"
@@ -770,7 +1402,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         {unavailable_badge}
 
         <div class="buy-buttons">
-          <a class="button button-dark buy-btn amazon-btn" href="{amazon}" target="_blank" rel="noopener">Buy on Amazon <span>↗</span></a>
+          {amazon_btn}
           {google_play_btn}
           <a class="button buy-btn goodreads-btn" href="{goodreads}" target="_blank" rel="noopener">View on Goodreads <span>↗</span></a>
         </div>
@@ -1004,6 +1636,13 @@ def generate_pages():
         if book.get("google_play"):
             google_play_btn = f'<a class="button buy-btn play-btn" href="{book["google_play"]}" target="_blank" rel="noopener">Google Play Books <span>↗</span></a>'
 
+        # Render Amazon Button if link exists
+        amazon_btn = ""
+        if book.get("amazon"):
+            amazon_btn = f'<a class="button button-dark buy-btn amazon-btn" href="{book["amazon"]}" target="_blank" rel="noopener">Buy on Amazon <span>↗</span></a>'
+
+        primary_buy_link = book.get("amazon") or book.get("google_play") or book.get("goodreads")
+
         rating_val = "5" if "11 Shades" in title or "Talaq" in title or "Kamathipura" in title else "4.8"
 
         # Format and write template
@@ -1025,6 +1664,8 @@ def generate_pages():
             genre=genre_name,
             publisher=book["publisher"],
             amazon=book["amazon"],
+            amazon_btn=amazon_btn,
+            primary_buy_link=primary_buy_link,
             google_play_btn=google_play_btn,
             goodreads=book["goodreads"],
             long_description_html=long_description_html,
@@ -1166,7 +1807,24 @@ const coverClasses = {{
   ".cover-eleven": ["#31445a", "#c7d6d8"],
   ".cover-twelve": ["#282b2f", "#91b1a5"],
   ".cover-thirteen": ["#3b4c5b", "#c8a46b"],
-  ".cover-fourteen": ["#743326", "#fbe8e4"]
+  ".cover-fourteen": ["#743326", "#fbe8e4"],
+  ".cover-fifteen": ["#5c2a2a", "#e8c9a0"],
+  ".cover-sixteen": ["#1f2937", "#a9c4d9"],
+  ".cover-seventeen": ["#4a3728", "#d8c3a5"],
+  ".cover-eighteen": ["#6b1f2a", "#f2d9c4"],
+  ".cover-nineteen": ["#2d4a4a", "#d9b98d"],
+  ".cover-twenty": ["#3a5a40", "#dad7cd"],
+  ".cover-twenty-one": ["#35281a", "#e3b23c"],
+  ".cover-twenty-two": ["#22303a", "#c9a66b"],
+  ".cover-twenty-three": ["#263238", "#80cbc4"],
+  ".cover-twenty-four": ["#4b2e39", "#e0b0a0"],
+  ".cover-twenty-five": ["#33312e", "#c1a875"],
+  ".cover-twenty-six": ["#1a2a4a", "#e8c468"],
+  ".cover-twenty-seven": ["#3d3d3d", "#e0c097"],
+  ".cover-twenty-eight": ["#b0413e", "#fdf0d5"],
+  ".cover-twenty-nine": ["#261c1c", "#c94c4c"],
+  ".cover-thirty": ["#1b3a4b", "#8ecae6"],
+  ".cover-thirty-one": ["#4a4e69", "#f2e9e4"]
 }};
 
 const style = document.createElement("style");
