@@ -18,12 +18,30 @@
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
-    "@type":"Person",
-    "name":"Parvind Kumar",
-    "url":"https://parvind-kumar.github.io/",
-    "jobTitle":"Author",
-    "sameAs":[
-      "https://github.com/parvind-kumar"
+    "@graph":[
+      {
+        "@type":"WebSite",
+        "@id":"https://parvindkumar.com/#website",
+        "url":"https://parvindkumar.com/",
+        "name":"Parvind Kumar",
+        "description":"Official website of author Parvind Kumar — books and stories about love, marriage, relationships, modern life, society, mindfulness and human choices.",
+        "publisher":{"@id":"https://parvindkumar.com/#person"},
+        "inLanguage":"en"
+      },
+      {
+        "@type":"Person",
+        "@id":"https://parvindkumar.com/#person",
+        "name":"Parvind Kumar",
+        "url":"https://parvindkumar.com/",
+        "jobTitle":"Author",
+        "description":"Parvind Kumar is an independent author whose work moves across fiction, relationships, marriage, personal growth and contemporary social themes.",
+        "sameAs":[
+          "https://github.com/parvind-kumar",
+          "https://www.instagram.com/parvindsharma",
+          "https://x.com/parvind_writes",
+          "https://www.facebook.com/people/Parvind-Kumar/61593388342955/"
+        ]
+      }
     ]
   }
   </script>
