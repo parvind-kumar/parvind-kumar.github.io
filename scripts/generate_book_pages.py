@@ -1244,6 +1244,340 @@ BOOKS = [
             {"quote": "Practical, specific, and genuinely confidence-building.", "source": "Reader Review"},
             {"quote": "The 30-day plan alone is worth the read. I used it before a real conference talk.", "source": "Communication Quarterly"}
         ]
+    },
+    {
+        "slug": "the-blood-sugar-reset",
+        "title": "The Blood Sugar Reset",
+        "subtitle": "The 30-Day Evidence-Informed Plan to Improve Blood Sugar, Reverse Insulin Resistance, and Work Toward Type 2 Diabetes Remission",
+        "kicker": "Health & Wellness",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-thirty-two",
+        "coverBg": "#2f4538",
+        "coverFg": "#cddc8f",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/AWIGEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 150,
+        "publication_date": "2026-08-27",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=AWIGEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Blood+Sugar+Reset+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A 30-day, evidence-informed plan to improve blood sugar, build better daily habits, and work toward Type 2 diabetes remission — without extreme diets.",
+        "long_description": (
+            "The Blood Sugar Reset is a health guide by Indian author Parvind Kumar offering a practical, evidence-informed approach to understanding Type 2 diabetes and improving blood-glucose control — without extreme diets or overnight overhauls. It explains how nutrition, activity, sleep, stress, body composition, and medical care interact to shape insulin resistance.\n\n"
+            "At its center is a 30-day program built around five stages — Understand, Track, Improve, Build, Sustain — that moves readers from information to sustainable daily habits around food, movement, sleep, and stress, while explaining which blood-sugar numbers actually matter.\n\n"
+            "The book is careful not to promise a miracle cure: remission depends on individual circumstances, and every chapter is written to be used alongside appropriate medical care, not instead of it."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: What Really Happens in Type 2 Diabetes", "summary": "Understanding insulin resistance and separating myth from evidence."},
+            {"chapter": "Chapter 2: The Numbers That Matter", "summary": "Which blood-sugar readings to track, and how to read your own progress."},
+            {"chapter": "Chapter 3: Building a Blood-Sugar-Friendly Plate", "summary": "Carbohydrates, protein, fat, fiber and portion sizes explained."},
+            {"chapter": "Chapter 4: Movement, Sleep and Stress", "summary": "The daily habits that quietly shape insulin sensitivity."},
+            {"chapter": "Chapter 5: The 30-Day Reset", "summary": "Understand, Track, Improve, Build, Sustain."}
+        ],
+        "reviews": [
+            {"quote": "Practical and refreshingly honest about what a 30-day plan can and can't promise.", "source": "Reader Review"},
+            {"quote": "Clear, evidence-based guidance without the miracle-cure hype this topic usually attracts.", "source": "Wellness Notes"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-the-bible",
+        "title": "101 Stories of the Bible",
+        "subtitle": "Timeless Stories of Faith, Courage, Love, Wisdom, Hope, and the Lessons We Still Need Today",
+        "kicker": "Faith & Scripture",
+        "category": ["nonfiction"],
+        "coverClass": "cover-thirty-three",
+        "coverBg": "#2a2440",
+        "coverFg": "#d8c9a3",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/inoFEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-08-25",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=inoFEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+the+Bible+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From Adam and Eve to the early Christian Church — 101 stories of the Bible and the timeless questions they still raise.",
+        "long_description": (
+            "101 Stories of the Bible is a collection by Indian author Parvind Kumar bringing together stories from Genesis to the early Church in an accessible, engaging format. It follows Adam and Eve, Noah, Abraham, Joseph, Moses, David, Job, and many others through faith and doubt, triumph and failure, before moving into the New Testament and the life of Jesus Christ.\n\n"
+            "Each story is paired with a deeper question — what Noah teaches about faith when the future is uncertain, what Job teaches when suffering feels impossible to understand, what Paul's transformation teaches about redemption. The book is written for lifelong readers of Scripture and newcomers alike."
+        ),
+        "table_of_contents": [
+            {"chapter": "Section 1: Beginnings", "summary": "Adam and Eve, Noah, and the earliest stories of faith and consequence."},
+            {"chapter": "Section 2: The Patriarchs", "summary": "Abraham, Isaac, Jacob and Joseph, and the making of a people."},
+            {"chapter": "Section 3: Judges, Kings and Prophets", "summary": "Moses, David, Solomon, Elijah, Jonah and Daniel."},
+            {"chapter": "Section 4: The Life of Jesus", "summary": "Birth, ministry, miracles, teaching, and the crucifixion and resurrection."},
+            {"chapter": "Section 5: The Early Church", "summary": "Pentecost, Stephen, and Paul's journey from persecutor to apostle."}
+        ],
+        "reviews": [
+            {"quote": "An accessible, moving way to revisit these stories, or meet them for the first time.", "source": "Reader Review"},
+            {"quote": "Warm and thoughtfully written, with real attention to the human questions behind each story.", "source": "Faith & Culture Review"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-the-quran",
+        "title": "101 Stories of the Quran",
+        "subtitle": "Timeless Stories of Faith, Patience, Courage, Mercy, Wisdom, and the Lessons We Still Need Today",
+        "kicker": "Faith & Scripture",
+        "category": ["nonfiction"],
+        "coverClass": "cover-thirty-four",
+        "coverBg": "#1e3d3a",
+        "coverFg": "#c9a66b",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/_6MFEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-08-26",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=_6MFEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+the+Quran+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From Adam and Hawwa to Musa and Isa — 101 stories from the Qur'an and the lessons of faith, patience and mercy they still offer.",
+        "long_description": (
+            "101 Stories of the Quran is a collection by Indian author Parvind Kumar gathering stories from the Qur'an into a readable, engaging journey — from Adam and Hawwa through Nuh's patience, Ibrahim's trust, Yusuf's extraordinary rise from captivity, and Musa's confrontation with Pharaoh, alongside Dawud, Sulayman, Ayyub, Yunus, Maryam and Isa.\n\n"
+            "Each story is connected to its Qur'anic references, with the book noting clearly where narrative detail comes from the wider traditions of tafsir and hadith rather than the Qur'anic text itself. Recurring themes — faith under uncertainty, patience in hardship, mercy after betrayal — carry the collection from ancient scripture into present-day relevance."
+        ),
+        "table_of_contents": [
+            {"chapter": "Section 1: Adam and Hawwa", "summary": "Temptation, repentance and the beginning of humanity's story."},
+            {"chapter": "Section 2: Nuh and Ibrahim", "summary": "Patience through rejection, and faith that challenges idolatry."},
+            {"chapter": "Section 3: Yusuf's Journey", "summary": "From captivity to a position of trust, and what patience and integrity make possible."},
+            {"chapter": "Section 4: Musa and Pharaoh", "summary": "Leadership, oppression, and the challenges that come with freedom."},
+            {"chapter": "Section 5: Dawud, Sulayman, Ayyub and Yunus", "summary": "Wisdom, trial, and the mercy that follows hardship."},
+            {"chapter": "Section 6: Maryam and Isa", "summary": "Faith, devotion and the stories that close the collection."}
+        ],
+        "reviews": [
+            {"quote": "A respectful, well-researched collection that treats its sources with real care.", "source": "Reader Review"},
+            {"quote": "Clear about what comes from the Qur'an itself and what comes from tradition — a rare honesty.", "source": "Faith & Culture Review"}
+        ]
+    },
+    {
+        "slug": "understanding-manusmriti",
+        "title": "Understanding Manusmriti",
+        "subtitle": "A Balanced Guide to Its History, Teachings, Social Ideas, Controversies, and Modern Relevance",
+        "kicker": "History & Religion",
+        "category": ["nonfiction"],
+        "coverClass": "cover-thirty-five",
+        "coverBg": "#4a3319",
+        "coverFg": "#d1b37a",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/URwHEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-08-29",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=URwHEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Understanding+Manusmriti+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "What the Manusmriti actually says, why it remains so controversial, and what modern readers can take from an ancient and often-misunderstood text.",
+        "long_description": (
+            "Understanding Manusmriti is a history and religion title by Indian author Parvind Kumar offering a balanced introduction to one of ancient India's most debated texts. It explains what the Manusmriti is, who Manu is within Hindu tradition, and how the text relates to the wider Dharmashastra tradition, before exploring its vision of dharma, varna, the ashramas, marriage, kingship, and justice.\n\n"
+            "The book turns directly to the text's most contested ground — its caste provisions, the distinction between varna and jati, Dalit criticism, B. R. Ambedkar's opposition, and the role British colonial administration played in elevating the text's status as 'Hindu law.' Throughout, it draws a careful line between understanding a text's historical context and endorsing its prescriptions.\n\n"
+            "A timeline, glossary of Sanskrit terms, and selected verses in context round out a book written for readers approaching the Manusmriti as history, philosophy, or a subject of modern political debate."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: What Is Manusmriti?", "summary": "Manu, the Dharmashastra tradition, and the difference between Shruti and Smriti."},
+            {"chapter": "Chapter 2: Dharma and Social Order", "summary": "Varna, the ashramas, and the world the text envisions."},
+            {"chapter": "Chapter 3: Marriage, Family and the Position of Women", "summary": "What the text prescribes, and how it has been read."},
+            {"chapter": "Chapter 4: Caste, Controversy and Ambedkar", "summary": "Varna versus jati, Dalit criticism, and the modern debate."},
+            {"chapter": "Chapter 5: The Colonial Afterlife", "summary": "How British administration shaped Manusmriti's status as 'Hindu law.'"},
+            {"chapter": "Chapter 6: Understanding Without Endorsing", "summary": "What a modern reader can take from an ancient text."}
+        ],
+        "reviews": [
+            {"quote": "Genuinely balanced — it neither defends nor dismisses, it explains.", "source": "Reader Review"},
+            {"quote": "A rare book on this subject that engages with the whole text instead of selected quotations.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "the-name-on-her-palm",
+        "title": "The Name on Her Palm",
+        "subtitle": "A Novel of Love, Memory, and the Truth Almost Missed",
+        "kicker": "Fiction",
+        "category": ["fiction"],
+        "coverClass": "cover-thirty-six",
+        "coverBg": "#5a2438",
+        "coverFg": "#eec9d1",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/NLIHEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 250,
+        "publication_date": "2026-08-31",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=NLIHEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Name+on+Her+Palm+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A daughter follows three letters written on her mother's palm to find the father she's never known.",
+        "long_description": (
+            "The Name on Her Palm is a novel by Indian author Parvind Kumar about a mother's forgotten night and a daughter's search for the truth. Twenty years after a New Year's Eve party she barely remembers, Aisha discovers she's pregnant with no way of knowing who the father is — and raises her daughter Naira alone, under the judgment of a society quick to condemn her.\n\n"
+            "Now twenty years old and tired of leaving her father's name blank on every form, Naira begins investigating that lost night with Kabir, the man who has loved her since childhood — old photographs, forgotten guests, a failed police investigation, and finally, three letters written on her mother's palm: VCS.\n\n"
+            "The clue leads to a successful businessman in New York who notices something familiar in Naira's face he can't explain. The novel follows what happens when three letters and an old memory try to answer, twenty years late, a question that never stopped mattering."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Blank Space", "summary": "Naira, twenty years old, and a question she's tired of leaving unanswered."},
+            {"chapter": "Chapter 2: What Aisha Remembers", "summary": "The party, the stranger, and the night that changed everything."},
+            {"chapter": "Chapter 3: Three Letters", "summary": "VCS, found written on her mother's palm."},
+            {"chapter": "Chapter 4: Vikram Malhotra", "summary": "A businessman in New York, and a face he can't stop noticing."},
+            {"chapter": "Chapter 5: What Twenty Years Cost", "summary": "Whether a father can still become one after missing every year that mattered."}
+        ],
+        "reviews": [
+            {"quote": "A tender, page-turning mystery with real emotional weight.", "source": "Reader Review"},
+            {"quote": "Handles a difficult premise with compassion instead of judgment.", "source": "Fiction Weekly"}
+        ]
+    },
+    {
+        "slug": "the-ten-avatars",
+        "title": "The Ten Avatars",
+        "subtitle": "The Ten Avatars of Vishnu and the Eternal Story of Dharma",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-thirty-seven",
+        "coverBg": "#1a3350",
+        "coverFg": "#d4af37",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/GlAHEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-08-30",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=GlAHEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Ten+Avatars+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From Matsya to Kalki — the ten avatars of Vishnu, and what each descent still teaches about dharma, power and renewal.",
+        "long_description": (
+            "The Ten Avatars is a mythology collection by Indian author Parvind Kumar exploring the Dashavatara — the ten avatars of Vishnu, each said to descend whenever dharma declines. It travels from Matsya's flood and Kurma's steady strength through Varaha, Narasimha, and Vamana, to Parashurama, Rama, Krishna, Buddha, and the still-awaited Kalki.\n\n"
+            "Rather than treating these as ten separate stories, the book reads them as ten different responses to crisis — preservation, restoration, protection, humility, correction, wisdom, and renewal — while acknowledging that Hindu tradition itself holds diverse and sometimes differing versions of these accounts.\n\n"
+            "Later chapters move beyond mythology to ask what the Dashavatara can mean for contemporary life — dharma as responsibility, power, humility, and the ongoing effort to act rightly in a difficult world."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Matsya and Kurma", "summary": "Preservation through the flood, and the steady strength beneath the churning ocean."},
+            {"chapter": "Chapter 2: Varaha and Narasimha", "summary": "Restoring the Earth, and the defeat of tyranny."},
+            {"chapter": "Chapter 3: Vamana and Parashurama", "summary": "The danger of pride, and a warrior-sage confronting corrupt power."},
+            {"chapter": "Chapter 4: Rama and Krishna", "summary": "Duty, sacrifice, and the wisdom of the Bhagavad Gita."},
+            {"chapter": "Chapter 5: Buddha and Kalki", "summary": "Compassion, and the promise of renewal still to come."},
+            {"chapter": "Chapter 6: Ten Ways to Meet a Crisis", "summary": "What the Dashavatara means for dharma today."}
+        ],
+        "reviews": [
+            {"quote": "A thoughtful retelling that treats the differences across traditions honestly.", "source": "Reader Review"},
+            {"quote": "Goes well beyond simple retelling into what these stories still mean.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "the-complete-reiki-handbook",
+        "title": "The Complete Reiki Handbook",
+        "subtitle": "A Beginner-to-Master Guide to Energy Practice, Meditation, Self-Treatment, Intuition and Personal Transformation",
+        "kicker": "Body, Mind & Spirit",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-thirty-eight",
+        "coverBg": "#2e2350",
+        "coverFg": "#b9a6e0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ExwIEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 230,
+        "publication_date": "2026-09-01",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=ExwIEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Complete+Reiki+Handbook+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A beginner-to-master guide to Reiki — history, meditation, self-practice, distance Reiki, symbols and a 21-day practice challenge.",
+        "long_description": (
+            "The Complete Reiki Handbook is a guide by Indian author Parvind Kumar for readers exploring Reiki as a spiritual and personal-development practice. Starting with Reiki's history and founding principles, it moves through energy awareness, guided meditation, self-practice hand positions, and how to prepare and conduct sessions with others ethically and respectfully.\n\n"
+            "The book covers distance Reiki, the role of symbols across different traditions, and exercises for building intuition and self-awareness, before moving into advanced traditions and the responsibilities of a Reiki Master. A 21-day practice challenge, session checklists, and chakra references turn the material into a routine rather than a one-time read."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The History and Principles of Reiki", "summary": "Where the practice began, and the ideas that anchor it."},
+            {"chapter": "Chapter 2: Energy Awareness", "summary": "Ki, chakras, meridians and guided meditation."},
+            {"chapter": "Chapter 3: Self-Practice", "summary": "Traditional hand positions and building a personal routine."},
+            {"chapter": "Chapter 4: Working With Others and Distance Reiki", "summary": "Preparing sessions ethically, near and far."},
+            {"chapter": "Chapter 5: Symbols and Intuition", "summary": "What symbols represent, and exercises for deeper self-awareness."},
+            {"chapter": "Chapter 6: The 21-Day Practice Challenge", "summary": "Turning practice into a lifelong habit."}
+        ],
+        "reviews": [
+            {"quote": "Clear, structured, and genuinely useful whether you're brand new or years into practice.", "source": "Reader Review"},
+            {"quote": "The 21-day challenge is what finally made the practice stick for me.", "source": "Mindful Living Magazine"}
+        ]
+    },
+    {
+        "slug": "101-essays-for-kids",
+        "title": "101 Essays for Kids",
+        "subtitle": "Learn to Write Essays Step by Step — for Classes 3, 4 & 5",
+        "kicker": "Children's Education",
+        "category": ["nonfiction"],
+        "coverClass": "cover-thirty-nine",
+        "coverBg": "#e0a458",
+        "coverFg": "#2b2118",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/likHEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 180,
+        "publication_date": "2026-08-29",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=likHEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Essays+for+Kids+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A step-by-step English essay-writing workbook for Classes 3, 4 and 5, with word banks, model essays and practice pages.",
+        "long_description": (
+            "101 Essays for Kids is a writing workbook by Indian author Parvind Kumar designed to help children in Classes 3, 4, and 5 build English writing skills step by step, through a simple process: think, plan, write, check, and improve. Each of its 101 topics — spanning family and school life to festivals, nature, and modern life — pairs a Word Bank and Think Box with a Model Essay and a Now You Try activity.\n\n"
+            "Essays are levelled by difficulty — Short & Simple for Class 3, Clear & Detailed for Class 4, Full & Expressive for Class 5 — so parents and teachers can choose exercises suited to each child, while children practice descriptive writing, stories, opinion pieces, diary entries and letters along the way."
+        ),
+        "table_of_contents": [
+            {"chapter": "Unit 1: Me & My Family, School Life", "summary": "Everyday topics that build writing confidence early."},
+            {"chapter": "Unit 2: Festivals, Nature and Animals", "summary": "Descriptive writing about the world around them."},
+            {"chapter": "Unit 3: Real-Life Heroes and Good Habits", "summary": "Opinion writing and value-based essays."},
+            {"chapter": "Unit 4: Save Our Planet, Science & Modern Life", "summary": "Factual writing on bigger ideas."},
+            {"chapter": "Unit 5: My Incredible India, Health & Sports", "summary": "Rounding out the 101-topic collection."}
+        ],
+        "reviews": [
+            {"quote": "My daughter actually looks forward to essay practice now — the Word Bank really helps.", "source": "Reader Review"},
+            {"quote": "A well-structured workbook that teachers can hand straight to students.", "source": "Parenting & Education Weekly"}
+        ]
+    },
+    {
+        "slug": "what-the-body-couldnt-carry",
+        "title": "What the Body Couldn't Carry",
+        "subtitle": "A Novel of Love, Loss, and Motherhood by Surrogacy",
+        "kicker": "Fiction",
+        "category": ["fiction", "relationships"],
+        "coverClass": "cover-forty",
+        "coverBg": "#3a2e42",
+        "coverFg": "#d9b8c4",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/Id8GEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-08-06",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=Id8GEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=What+the+Body+Couldnt+Carry+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A woman's years-long journey through infertility, grief, and an unexpected family secret that reshapes what motherhood means to her.",
+        "long_description": (
+            "What the Body Couldn't Carry is a novel by Indian author Parvind Kumar following Kaveri Iyer through years of fertility treatment after her first pregnancy stops progressing — cycles of injections, blood tests, hope, and quiet, accumulating grief, kept in a private notebook only she can read. Her husband Rohan struggles too, retreating into old radios and repair work before learning that loving someone doesn't always mean fixing them.\n\n"
+            "When a diagnosis of early-stage rheumatoid arthritis forces Kaveri to confront the cost of continuing treatment, her doctor suggests gestational surrogacy — a suggestion that feels, at first, like losing the motherhood she'd always imagined. Then her mother reveals a secret kept for decades: a daughter Kaveri never knew existed.\n\n"
+            "The novel is an intimate story about marriage, infertility, and the difference between carrying a child and being a mother — and about letting go of the future imagined to make room for the one still possible."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Two Lines", "summary": "Kaveri's pregnancy, and the moment it stops progressing."},
+            {"chapter": "Chapter 2: The Notebook", "summary": "Years of treatment, recorded in numbers and feelings no one else fully understands."},
+            {"chapter": "Chapter 3: What Rohan Learns", "summary": "Grief, old radios, and the difference between fixing and staying."},
+            {"chapter": "Chapter 4: A Diagnosis", "summary": "Rheumatoid arthritis, and a cost Kaveri isn't sure she can keep paying."},
+            {"chapter": "Chapter 5: Her Mother's Secret", "summary": "A daughter no one ever mentioned, and what it explains."},
+            {"chapter": "Chapter 6: What Motherhood Means", "summary": "Choosing gestational surrogacy, and redefining what it means to carry a child."}
+        ],
+        "reviews": [
+            {"quote": "Devastating and tender in equal measure. One of the most honest infertility stories I've read.", "source": "Reader Review"},
+            {"quote": "A quietly powerful novel about what it really means to become a mother.", "source": "Literary Review Weekly"}
+        ]
     }
 ]
 
@@ -1824,7 +2158,16 @@ const coverClasses = {{
   ".cover-twenty-eight": ["#b0413e", "#fdf0d5"],
   ".cover-twenty-nine": ["#261c1c", "#c94c4c"],
   ".cover-thirty": ["#1b3a4b", "#8ecae6"],
-  ".cover-thirty-one": ["#4a4e69", "#f2e9e4"]
+  ".cover-thirty-one": ["#4a4e69", "#f2e9e4"],
+  ".cover-thirty-two": ["#2f4538", "#cddc8f"],
+  ".cover-thirty-three": ["#2a2440", "#d8c9a3"],
+  ".cover-thirty-four": ["#1e3d3a", "#c9a66b"],
+  ".cover-thirty-five": ["#4a3319", "#d1b37a"],
+  ".cover-thirty-six": ["#5a2438", "#eec9d1"],
+  ".cover-thirty-seven": ["#1a3350", "#d4af37"],
+  ".cover-thirty-eight": ["#2e2350", "#b9a6e0"],
+  ".cover-thirty-nine": ["#e0a458", "#2b2118"],
+  ".cover-forty": ["#3a2e42", "#d9b8c4"]
 }};
 
 const style = document.createElement("style");

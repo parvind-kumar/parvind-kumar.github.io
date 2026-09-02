@@ -432,6 +432,126 @@ const books = [
     "coverClass": "cover-thirty-one",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/eCoDEgAAQBAJ?fife=w800",
     "unavailable": false
+  },
+  {
+    "slug": "the-blood-sugar-reset",
+    "title": "The Blood Sugar Reset",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "HEALTH & WELLNESS",
+    "description": "A 30-day, evidence-informed plan to improve blood sugar, build better daily habits, and work toward Type 2 diabetes remission \u2014 without extreme diets.",
+    "amazon": "",
+    "coverClass": "cover-thirty-two",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/AWIGEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "101-stories-of-the-bible",
+    "title": "101 Stories of the Bible",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "FAITH & SCRIPTURE",
+    "description": "From Adam and Eve to the early Christian Church \u2014 101 stories of the Bible and the timeless questions they still raise.",
+    "amazon": "",
+    "coverClass": "cover-thirty-three",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/inoFEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "101-stories-of-the-quran",
+    "title": "101 Stories of the Quran",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "FAITH & SCRIPTURE",
+    "description": "From Adam and Hawwa to Musa and Isa \u2014 101 stories from the Qur'an and the lessons of faith, patience and mercy they still offer.",
+    "amazon": "",
+    "coverClass": "cover-thirty-four",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/_6MFEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "understanding-manusmriti",
+    "title": "Understanding Manusmriti",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "HISTORY & RELIGION",
+    "description": "What the Manusmriti actually says, why it remains so controversial, and what modern readers can take from an ancient and often-misunderstood text.",
+    "amazon": "",
+    "coverClass": "cover-thirty-five",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/URwHEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-name-on-her-palm",
+    "title": "The Name on Her Palm",
+    "category": [
+      "fiction"
+    ],
+    "kicker": "FICTION",
+    "description": "A daughter follows three letters written on her mother's palm to find the father she's never known.",
+    "amazon": "",
+    "coverClass": "cover-thirty-six",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/NLIHEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-ten-avatars",
+    "title": "The Ten Avatars",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "MYTHOLOGY",
+    "description": "From Matsya to Kalki \u2014 the ten avatars of Vishnu, and what each descent still teaches about dharma, power and renewal.",
+    "amazon": "",
+    "coverClass": "cover-thirty-seven",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/GlAHEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-complete-reiki-handbook",
+    "title": "The Complete Reiki Handbook",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "BODY, MIND & SPIRIT",
+    "description": "A beginner-to-master guide to Reiki \u2014 history, meditation, self-practice, distance Reiki, symbols and a 21-day practice challenge.",
+    "amazon": "",
+    "coverClass": "cover-thirty-eight",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ExwIEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "101-essays-for-kids",
+    "title": "101 Essays for Kids",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "CHILDREN'S EDUCATION",
+    "description": "A step-by-step English essay-writing workbook for Classes 3, 4 and 5, with word banks, model essays and practice pages.",
+    "amazon": "",
+    "coverClass": "cover-thirty-nine",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/likHEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "what-the-body-couldnt-carry",
+    "title": "What the Body Couldn't Carry",
+    "category": [
+      "fiction",
+      "relationships"
+    ],
+    "kicker": "FICTION",
+    "description": "A woman's years-long journey through infertility, grief, and an unexpected family secret that reshapes what motherhood means to her.",
+    "amazon": "",
+    "coverClass": "cover-forty",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/Id8GEgAAQBAJ?fife=w800",
+    "unavailable": false
   }
 ];
 
@@ -540,7 +660,16 @@ const coverClasses = {
   ".cover-twenty-eight": ["#b0413e", "#fdf0d5"],
   ".cover-twenty-nine": ["#261c1c", "#c94c4c"],
   ".cover-thirty": ["#1b3a4b", "#8ecae6"],
-  ".cover-thirty-one": ["#4a4e69", "#f2e9e4"]
+  ".cover-thirty-one": ["#4a4e69", "#f2e9e4"],
+  ".cover-thirty-two": ["#2f4538", "#cddc8f"],
+  ".cover-thirty-three": ["#2a2440", "#d8c9a3"],
+  ".cover-thirty-four": ["#1e3d3a", "#c9a66b"],
+  ".cover-thirty-five": ["#4a3319", "#d1b37a"],
+  ".cover-thirty-six": ["#5a2438", "#eec9d1"],
+  ".cover-thirty-seven": ["#1a3350", "#d4af37"],
+  ".cover-thirty-eight": ["#2e2350", "#b9a6e0"],
+  ".cover-thirty-nine": ["#e0a458", "#2b2118"],
+  ".cover-forty": ["#3a2e42", "#d9b8c4"]
 };
 
 const style = document.createElement("style");
