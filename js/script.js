@@ -552,6 +552,209 @@ const books = [
     "coverClass": "cover-forty",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/Id8GEgAAQBAJ?fife=w800",
     "unavailable": false
+  },
+  {
+    "slug": "chlorine-dioxide",
+    "title": "Chlorine Dioxide",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "PUBLIC HEALTH",
+    "description": "An evidence-focused examination of chlorine dioxide's legitimate industrial uses, the health claims made about it, and the science, risks and controversy behind them.",
+    "amazon": "",
+    "coverClass": "cover-forty-one",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/Q3IIEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "101-stories-of-lord-hanuman",
+    "title": "101 Stories of Lord Hanuman",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "MYTHOLOGY",
+    "description": "From his divine birth to the leap across the ocean \u2014 101 stories of Hanuman's devotion, courage and service, with a guide to 27 beloved temples.",
+    "amazon": "",
+    "coverClass": "cover-forty-two",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OscKEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "101-stories-of-maa-durga",
+    "title": "101 Stories of Maa Durga",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "MYTHOLOGY",
+    "description": "The origin of Maa Durga, her battle with Mahishasura, the nine forms of Navadurga, and the Shakti Peethas \u2014 101 stories of the Divine Mother.",
+    "amazon": "",
+    "coverClass": "cover-forty-three",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/r7sKEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "life-coaching-guide",
+    "title": "Life Coaching Guide",
+    "category": [
+      "business",
+      "nonfiction"
+    ],
+    "kicker": "BUSINESS",
+    "description": "A step-by-step guide to becoming a life coach and launching a coaching business in 30 days, with a full toolkit of scripts, worksheets and templates.",
+    "amazon": "",
+    "coverClass": "cover-forty-four",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/QukMEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "neem-karoli-baba",
+    "title": "Neem Karoli Baba",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "The life and legacy of Neem Karoli Baba \u2014 Hanuman devotion, Kainchi Dham, and the simple teaching of Love, Serve, Remember that reached Ram Dass, Steve Jobs and beyond.",
+    "amazon": "",
+    "coverClass": "cover-forty-five",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/bOgQEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-discipline-of-small-wins",
+    "title": "The Discipline of Small Wins",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "SELF-HELP",
+    "description": "Why lasting change comes from tiny, repeatable actions rather than dramatic overnight transformation \u2014 and the 'Never Miss Twice' principle that keeps momentum alive.",
+    "amazon": "",
+    "coverClass": "cover-forty-six",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/vwANEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-patient-investors-playbook",
+    "title": "The Patient Investor's Playbook",
+    "category": [
+      "business",
+      "nonfiction"
+    ],
+    "kicker": "PERSONAL FINANCE",
+    "description": "A disciplined, long-horizon approach to building wealth through equities and bonds \u2014 for investors who'd rather follow a good plan than predict the next market move.",
+    "amazon": "",
+    "coverClass": "cover-forty-seven",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/jLEOEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "dog-lovers-vs-dog-haters",
+    "title": "Dog Lovers vs Dog Haters",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "PUBLIC POLICY",
+    "description": "India's street-dog debate examined from both sides \u2014 compassion, fear, rabies, the law, and a case for a solution that protects animals and people at once.",
+    "amazon": "",
+    "coverClass": "cover-forty-eight",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aAENEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "unlearn-to-rise",
+    "title": "Unlearn to Rise",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "SELF-HELP",
+    "description": "Personal growth doesn't always mean learning something new \u2014 the R.I.S.E. framework for recognizing, investigating and letting go of the beliefs holding you back.",
+    "amazon": "",
+    "coverClass": "cover-forty-nine",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/87sMEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-art-of-saying-no-without-guilt",
+    "title": "The Art of Saying No Without Guilt",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "SELF-HELP",
+    "description": "A practical guide for people-pleasers \u2014 the CLEAR Framework for saying no clearly, without guilt or over-explaining.",
+    "amazon": "",
+    "coverClass": "cover-fifty",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/VgUPEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "mind-over-noise",
+    "title": "Mind Over Noise",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "SELF-HELP",
+    "description": "Practical frameworks for filtering notifications, information overload and mental clutter \u2014 building a clearer mind without disconnecting from modern life.",
+    "amazon": "",
+    "coverClass": "cover-fifty-one",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/4usOEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-book-of-crypto",
+    "title": "The Book of Crypto",
+    "category": [
+      "business",
+      "nonfiction"
+    ],
+    "kicker": "BUSINESS & TECHNOLOGY",
+    "description": "A practical, beginner-friendly guide to Bitcoin, blockchain, DeFi, NFTs and digital assets \u2014 including cryptocurrency in India.",
+    "amazon": "",
+    "coverClass": "cover-fifty-two",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aNMOEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "micchami-dukkadam",
+    "title": "Micchami Dukkadam",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "BODY, MIND & SPIRIT",
+    "description": "Rooted in the Jain tradition of forgiveness, a guide to accountability, letting go of resentment, and self-forgiveness \u2014 with a 7-Day Forgiveness Challenge.",
+    "amazon": "",
+    "coverClass": "cover-fifty-three",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/7RsOEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "aniruddhacharya-ji-maharaj",
+    "title": "Aniruddhacharya Ji Maharaj",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "The life and rise of Aniruddhacharya Ji Maharaj \u2014 Bhagwat Katha, seva initiatives like Annapurna Rasoi, and spiritual storytelling in the age of social media.",
+    "amazon": "",
+    "coverClass": "cover-fifty-four",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/z7wSEgAAQBAJ?fife=w800",
+    "unavailable": false
+  },
+  {
+    "slug": "the-nirankari-way",
+    "title": "The Nirankari Way",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "SPIRITUALITY",
+    "description": "The philosophy and history of the Sant Nirankari Mission \u2014 Nirankar, Brahm Gyan, Sewa and Simran \u2014 and what oneness might mean for an ordinary, distracted life.",
+    "amazon": "",
+    "coverClass": "cover-fifty-five",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/tIAREgAAQBAJ?fife=w800",
+    "unavailable": false
   }
 ];
 
@@ -669,7 +872,22 @@ const coverClasses = {
   ".cover-thirty-seven": ["#1a3350", "#d4af37"],
   ".cover-thirty-eight": ["#2e2350", "#b9a6e0"],
   ".cover-thirty-nine": ["#e0a458", "#2b2118"],
-  ".cover-forty": ["#3a2e42", "#d9b8c4"]
+  ".cover-forty": ["#3a2e42", "#d9b8c4"],
+  ".cover-forty-one": ["#1d3b3a", "#7fc9c0"],
+  ".cover-forty-two": ["#8a3a1e", "#f2c94c"],
+  ".cover-forty-three": ["#6e1423", "#f2a65a"],
+  ".cover-forty-four": ["#2b3a67", "#fcbf49"],
+  ".cover-forty-five": ["#7a4a1e", "#f4dcae"],
+  ".cover-forty-six": ["#234e52", "#a7d7c5"],
+  ".cover-forty-seven": ["#1c3d5a", "#a8c6df"],
+  ".cover-forty-eight": ["#4a3c2a", "#d9a441"],
+  ".cover-forty-nine": ["#3e2a56", "#d4b8f0"],
+  ".cover-fifty": ["#6b2d3f", "#f0c1c9"],
+  ".cover-fifty-one": ["#2a3d4a", "#9fd4dc"],
+  ".cover-fifty-two": ["#1f2b3d", "#f2a900"],
+  ".cover-fifty-three": ["#3d2b1f", "#d9b48f"],
+  ".cover-fifty-four": ["#7a2e1e", "#f0c987"],
+  ".cover-fifty-five": ["#24405c", "#cfe0e8"]
 };
 
 const style = document.createElement("style");
