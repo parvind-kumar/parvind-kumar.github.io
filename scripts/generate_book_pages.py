@@ -1578,6 +1578,554 @@ BOOKS = [
             {"quote": "Devastating and tender in equal measure. One of the most honest infertility stories I've read.", "source": "Reader Review"},
             {"quote": "A quietly powerful novel about what it really means to become a mother.", "source": "Literary Review Weekly"}
         ]
+    },
+    {
+        "slug": "chlorine-dioxide",
+        "title": "Chlorine Dioxide",
+        "subtitle": "The Truth Behind the Health Claims, Scientific Evidence, Risks, and Global Controversy",
+        "kicker": "Public Health",
+        "category": ["nonfiction"],
+        "coverClass": "cover-forty-one",
+        "coverBg": "#1d3b3a",
+        "coverFg": "#7fc9c0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/Q3IIEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 160,
+        "publication_date": "2026-09-02",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=Q3IIEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Chlorine+Dioxide+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "An evidence-focused examination of chlorine dioxide's legitimate industrial uses, the health claims made about it, and the science, risks and controversy behind them.",
+        "long_description": (
+            "Chlorine Dioxide is a public-health investigation by Indian author Parvind Kumar into one of alternative health's most polarizing substances. It distinguishes chlorine dioxide's legitimate use in water treatment, sanitation and food processing from the extraordinary health claims made by supporters of ingestible products like Miracle Mineral Solution (MMS).\n\n"
+            "The book walks through what separates a laboratory finding from proven clinical evidence, examines reported adverse effects and regulatory warnings, and explores how misinformation, distrust and 'suppressed cure' narratives spread online. It closes with a practical framework for evaluating extraordinary medical claims with evidence rather than fear or hype.\n\n"
+            "This is not a book written to sell a cure or to dismiss questions without examination — it is a calm, evidence-focused look at the claims, the science, and the controversy."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: What Chlorine Dioxide Actually Is", "summary": "Its legitimate industrial and water-treatment uses, and how it differs from bleach."},
+            {"chapter": "Chapter 2: The Rise of MMS", "summary": "The origins and spread of Miracle Mineral Solution and related products."},
+            {"chapter": "Chapter 3: Claims Versus Clinical Evidence", "summary": "Why testimonials can feel persuasive without establishing safety or effectiveness."},
+            {"chapter": "Chapter 4: Risks and Regulatory Warnings", "summary": "Reported adverse effects and the public-health response."},
+            {"chapter": "Chapter 5: Evaluating Extraordinary Claims", "summary": "A framework for thinking clearly about hype, fear, and evidence."}
+        ],
+        "reviews": [
+            {"quote": "A calm, evidence-based look at a subject that badly needed one.", "source": "Reader Review"},
+            {"quote": "Neither dismissive nor credulous — exactly the tone this topic requires.", "source": "Public Health Digest"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-lord-hanuman",
+        "title": "101 Stories of Lord Hanuman",
+        "subtitle": "Timeless Tales of Devotion, Courage, Strength, Wisdom, and Unwavering Faith",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-forty-two",
+        "coverBg": "#8a3a1e",
+        "coverFg": "#f2c94c",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OscKEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 280,
+        "publication_date": "2026-09-09",
+        "isbn": "978-81-180803-6-7",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=OscKEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+Lord+Hanuman+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From his divine birth to the leap across the ocean — 101 stories of Hanuman's devotion, courage and service, with a guide to 27 beloved temples.",
+        "long_description": (
+            "101 Stories of Lord Hanuman is a mythology collection by Indian author Parvind Kumar following Hanuman from his divine birth and childhood through his first meeting with Rama, his friendship with Sugriva, the search for Sita, his leap across the ocean, and his vital role in the battle against Ravana.\n\n"
+            "The collection also explores the qualities that make Hanuman an enduring figure of devotion — humility, selfless service, courage, discipline, and faith — through his encounters with Rama, Bhima, and Arjuna. It closes with a guide to 27 beloved Hanuman temples across India and a quiz to test readers' knowledge of his stories."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Birth and Childhood", "summary": "Hanuman's divine origins and extraordinary early life."},
+            {"chapter": "Chapter 2: Meeting Rama", "summary": "The beginning of a lifelong devotion."},
+            {"chapter": "Chapter 3: The Search for Sita", "summary": "Ashoka Vatika, the leap across the ocean, and the burning of Lanka."},
+            {"chapter": "Chapter 4: The Battle for Lanka", "summary": "Hanuman's role in the war and the search for Sanjeevani."},
+            {"chapter": "Chapter 5: Humility and Service", "summary": "Encounters with Bhima and Arjuna, and lessons in loyalty and wisdom."},
+            {"chapter": "Chapter 6: Sacred Places", "summary": "A guide to 27 beloved Hanuman temples across India."}
+        ],
+        "reviews": [
+            {"quote": "A joyful, thorough collection — the temple guide is a lovely bonus.", "source": "Reader Review"},
+            {"quote": "Devotional without being dry. A great one to read aloud with family.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "101-stories-of-maa-durga",
+        "title": "101 Stories of Maa Durga",
+        "subtitle": "Legends, Scriptures, Sacred Places, Devotion and the Eternal Power of Shakti",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-forty-three",
+        "coverBg": "#6e1423",
+        "coverFg": "#f2a65a",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/r7sKEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 280,
+        "publication_date": "2026-09-09",
+        "isbn": "978-81-180803-7-4",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=r7sKEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+of+Maa+Durga+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The origin of Maa Durga, her battle with Mahishasura, the nine forms of Navadurga, and the Shakti Peethas — 101 stories of the Divine Mother.",
+        "long_description": (
+            "101 Stories of Maa Durga is a mythology collection by Indian author Parvind Kumar exploring the cosmic origin of the Divine Mother, her legendary battle against Mahishasura, and the stories of Shumbha and Nishumbha alongside her fierce forms — Kali, Chandika, Chamunda and others.\n\n"
+            "The collection covers the nine forms of Navadurga, the Shakti Peethas, sacred temples and pilgrimage traditions, and regional celebrations of Durga, drawing on the Devi Mahatmya and wider Puranic traditions. It reads the mythology's demons as symbolic of fear, ego, anger and injustice, centering on the idea that Shakti exists within every human being."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Origin of Shakti", "summary": "The cosmic significance of Maa Durga and her many manifestations."},
+            {"chapter": "Chapter 2: The Battle with Mahishasura", "summary": "The legendary confrontation at the heart of the Durga tradition."},
+            {"chapter": "Chapter 3: Shumbha, Nishumbha and the Fierce Forms", "summary": "Kali, Chandika, Chamunda and the darker manifestations of the Goddess."},
+            {"chapter": "Chapter 4: Navadurga", "summary": "The nine forms of the Goddess and their spiritual significance."},
+            {"chapter": "Chapter 5: The Shakti Peethas", "summary": "Sacred temples and pilgrimage traditions across India."},
+            {"chapter": "Chapter 6: Shakti Within", "summary": "Reading the mythology's demons as fear, ego and injustice — and the power to face them."}
+        ],
+        "reviews": [
+            {"quote": "Powerful storytelling that treats the Goddess's many forms with real depth.", "source": "Reader Review"},
+            {"quote": "A rich, respectful collection — the Shakti Peethas chapter stood out.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "life-coaching-guide",
+        "title": "Life Coaching Guide",
+        "subtitle": "How to Be a Life Coach & Launch a Life Coaching Business in Less Than 30 Days",
+        "kicker": "Business",
+        "category": ["business", "nonfiction"],
+        "coverClass": "cover-forty-four",
+        "coverBg": "#2b3a67",
+        "coverFg": "#fcbf49",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/QukMEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 200,
+        "publication_date": "2026-09-10",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=QukMEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Life+Coaching+Guide+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A step-by-step guide to becoming a life coach and launching a coaching business in 30 days, with a full toolkit of scripts, worksheets and templates.",
+        "long_description": (
+            "Life Coaching Guide is a business playbook by Indian author Parvind Kumar for beginners who want to understand coaching, develop practical skills, and turn them into a professional practice. It covers the C.L.E.A.R. Coaching Framework, finding your niche, defining your ideal client, and designing coaching packages and pricing.\n\n"
+            "Its centerpiece is a 30-day launch roadmap moving from purpose and niche through discovery calls, onboarding, and your first client — backed by a toolkit of worksheets, scripts, and templates for everything from intake forms to social-media bios."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: What Coaching Really Is", "summary": "The mindset and skills of an effective coach, and common mistakes to avoid."},
+            {"chapter": "Chapter 2: The C.L.E.A.R. Coaching Framework", "summary": "Structuring productive coaching conversations."},
+            {"chapter": "Chapter 3: Finding Your Niche and Ideal Client", "summary": "Turning your strengths and experience into a coaching offer."},
+            {"chapter": "Chapter 4: Packages, Pricing and Positioning", "summary": "Designing your offer and your professional presence."},
+            {"chapter": "Chapter 5: The 30-Day Launch Plan", "summary": "From idea to your first paying client."}
+        ],
+        "reviews": [
+            {"quote": "The most practical coaching-business book I've read — real templates, not just theory.", "source": "Reader Review"},
+            {"quote": "The 30-day roadmap took the guesswork out of actually starting.", "source": "Business Playbook Review"}
+        ]
+    },
+    {
+        "slug": "neem-karoli-baba",
+        "title": "Neem Karoli Baba",
+        "subtitle": "The Saint of Love, Service, and Unwavering Faith",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-forty-five",
+        "coverBg": "#7a4a1e",
+        "coverFg": "#f4dcae",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/bOgQEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-09-09",
+        "isbn": "978-81-181147-1-0",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=bOgQEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Neem+Karoli+Baba+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life and legacy of Neem Karoli Baba — Hanuman devotion, Kainchi Dham, and the simple teaching of Love, Serve, Remember that reached Ram Dass, Steve Jobs and beyond.",
+        "long_description": (
+            "Neem Karoli Baba is a biography by Indian author Parvind Kumar tracing the life of the Hindu saint associated with Hanuman devotion, seva, and unconditional love. It follows his early life and years of wandering, the founding of Kainchi Dham, and his influence on Ram Dass — whose encounter with Baba helped introduce his teachings to a wider Western audience, followed by Steve Jobs's visit after Baba's death and Mark Zuckerberg's later connection to the temple.\n\n"
+            "Rather than presenting every tradition as historical fact, the book distinguishes historical record from devotee tradition and spiritual interpretation, centering on Baba's deceptively simple teaching: Love. Serve. Remember."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Early Life and Wandering", "summary": "Neem Karoli Baba's spiritual journey and years of service."},
+            {"chapter": "Chapter 2: Devotion to Hanuman and Rama", "summary": "The devotional core of his teaching."},
+            {"chapter": "Chapter 3: Kainchi Dham", "summary": "The founding and spiritual significance of the ashram."},
+            {"chapter": "Chapter 4: Ram Dass and the West", "summary": "How Baba's teachings reached a global audience."},
+            {"chapter": "Chapter 5: Steve Jobs, Zuckerberg and a Living Legacy", "summary": "The temple's continuing pull on modern seekers."},
+            {"chapter": "Chapter 6: Love. Serve. Remember.", "summary": "Applying the teaching to an ordinary, distracted life."}
+        ],
+        "reviews": [
+            {"quote": "Respectful and clear-eyed, without losing the warmth of the subject.", "source": "Reader Review"},
+            {"quote": "A thoughtful introduction for anyone curious about Kainchi Dham's pull on modern seekers.", "source": "Culture & Faith Review"}
+        ]
+    },
+    {
+        "slug": "the-discipline-of-small-wins",
+        "title": "The Discipline of Small Wins",
+        "subtitle": "A Practical Framework for Building Unstoppable Momentum Through Tiny Daily Actions",
+        "kicker": "Self-Help",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-forty-six",
+        "coverBg": "#234e52",
+        "coverFg": "#a7d7c5",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/vwANEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 160,
+        "publication_date": "2026-09-06",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=vwANEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Discipline+of+Small+Wins+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Why lasting change comes from tiny, repeatable actions rather than dramatic overnight transformation — and the 'Never Miss Twice' principle that keeps momentum alive.",
+        "long_description": (
+            "The Discipline of Small Wins is a self-help guide by Indian author Parvind Kumar built around a simple idea: most people don't fail from a lack of ambition, but from trying to change too much, too quickly. The book teaches readers to make progress small enough to repeat and consistent enough to compound.\n\n"
+            "It covers building discipline without relying on motivation, using environment and routine to reduce resistance, and recovering quickly after missing a day with the 'Never Miss Twice' principle — applying small wins across health, work, money, and relationships."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Why Big Goals Fail", "summary": "The case for small, repeatable actions over dramatic overnight change."},
+            {"chapter": "Chapter 2: Discipline Without Motivation", "summary": "Using routine and environment to reduce resistance."},
+            {"chapter": "Chapter 3: Never Miss Twice", "summary": "Recovering quickly after a missed day without losing momentum."},
+            {"chapter": "Chapter 4: Tracking Without Obsessing", "summary": "Measuring progress without chasing perfection."},
+            {"chapter": "Chapter 5: Small Wins, Compounded", "summary": "Applying the system to health, work, money and relationships."}
+        ],
+        "reviews": [
+            {"quote": "Simple, practical, and it actually stuck for me this time.", "source": "Reader Review"},
+            {"quote": "The 'Never Miss Twice' idea alone was worth the read.", "source": "Productivity Weekly"}
+        ]
+    },
+    {
+        "slug": "the-patient-investors-playbook",
+        "title": "The Patient Investor's Playbook",
+        "subtitle": "A Disciplined, Long-Horizon Approach to Building Wealth Through Equities and Bonds",
+        "kicker": "Personal Finance",
+        "category": ["business", "nonfiction"],
+        "coverClass": "cover-forty-seven",
+        "coverBg": "#1c3d5a",
+        "coverFg": "#a8c6df",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/jLEOEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-09-04",
+        "isbn": "978-81-181147-4-1",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=jLEOEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Patient+Investors+Playbook+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A disciplined, long-horizon approach to building wealth through equities and bonds — for investors who'd rather follow a good plan than predict the next market move.",
+        "long_description": (
+            "The Patient Investor's Playbook is a personal-finance guide by Indian author Parvind Kumar focused on the habits and frameworks that help investors stay disciplined through different market conditions, rather than chasing hot stocks or timing every move. It covers the difference between investing, trading and speculation, and the emotional biases — FOMO, panic selling — that undermine long-term returns.\n\n"
+            "The book moves from mindset to implementation: building an investment policy statement, comparing active and index investing, understanding bonds and risk, and building a diversified, rebalanced portfolio around a simple philosophy — Earn, Save, Invest, Diversify, Rebalance, Compound, Repeat. A note in the book is explicit that it's written for general education, not personalized financial advice."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Patient Investor's Mindset", "summary": "Investing versus trading and speculation, and the advantage of time."},
+            {"chapter": "Chapter 2: Building Your Foundation", "summary": "Financial goals, time horizons, and risk capacity versus risk tolerance."},
+            {"chapter": "Chapter 3: Understanding Value", "summary": "Evaluating businesses, valuation, and why a great company isn't automatically a great investment."},
+            {"chapter": "Chapter 4: Equities, Bonds and Diversification", "summary": "Building and rebalancing a long-term portfolio."},
+            {"chapter": "Chapter 5: Staying Disciplined", "summary": "Responding rationally to crashes, bull-market euphoria, taxes and inflation."}
+        ],
+        "reviews": [
+            {"quote": "Calm, sensible, and refreshingly free of hot stock tips.", "source": "Reader Review"},
+            {"quote": "A genuine process-first investing book, which is rarer than it should be.", "source": "Business Playbook Review"}
+        ]
+    },
+    {
+        "slug": "dog-lovers-vs-dog-haters",
+        "title": "Dog Lovers vs Dog Haters",
+        "subtitle": "Who Is Right, Who Is Wrong, Where Does the Law Stand, and What Is the Real Solution to India's Street Dog Crisis?",
+        "kicker": "Public Policy",
+        "category": ["nonfiction"],
+        "coverClass": "cover-forty-eight",
+        "coverBg": "#4a3c2a",
+        "coverFg": "#d9a441",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aAENEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 180,
+        "publication_date": "2026-09-03",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=aAENEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Dog+Lovers+vs+Dog+Haters+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "India's street-dog debate examined from both sides — compassion, fear, rabies, the law, and a case for a solution that protects animals and people at once.",
+        "long_description": (
+            "Dog Lovers vs Dog Haters is a public-policy investigation by Indian author Parvind Kumar into India's increasingly heated street-dog debate. It looks at why people develop affection or hostility toward street dogs, how India's large free-roaming dog population developed, and what happens when dog bites, rabies fears, and feeding practices collide in dense urban environments.\n\n"
+            "The book examines India's legal and regulatory framework, the responsibilities of municipalities, feeders and pet owners, sterilization and vaccination programs, and international approaches to free-roaming dogs — arguing that animal welfare and human safety shouldn't be treated as mutually exclusive goals."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Why India Has So Many Street Dogs", "summary": "Population, urban food sources, and territory."},
+            {"chapter": "Chapter 2: Compassion and Fear", "summary": "Why people feed street dogs, and why others feel unsafe around them."},
+            {"chapter": "Chapter 3: Rabies and Public Health", "summary": "The real risks, and who is most vulnerable."},
+            {"chapter": "Chapter 4: What the Law Actually Says", "summary": "Courts, municipalities, and the current regulatory framework."},
+            {"chapter": "Chapter 5: Toward a Real Solution", "summary": "Sterilization, vaccination, and models for peaceful coexistence."}
+        ],
+        "reviews": [
+            {"quote": "Finally a book that treats both sides of this argument seriously.", "source": "Reader Review"},
+            {"quote": "Clear-eyed about the law and the public-health stakes, without demonizing either side.", "source": "Public Policy Review"}
+        ]
+    },
+    {
+        "slug": "unlearn-to-rise",
+        "title": "Unlearn to Rise",
+        "subtitle": "Why Letting Go of Old Beliefs Is the Real Key to Personal Growth",
+        "kicker": "Self-Help",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-forty-nine",
+        "coverBg": "#3e2a56",
+        "coverFg": "#d4b8f0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/87sMEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 190,
+        "publication_date": "2026-09-11",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=87sMEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Unlearn+to+Rise+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Personal growth doesn't always mean learning something new — the R.I.S.E. framework for recognizing, investigating and letting go of the beliefs holding you back.",
+        "long_description": (
+            "Unlearn to Rise is a self-help guide by Indian author Parvind Kumar exploring a simple idea: growth doesn't always come from learning something new — sometimes it begins by letting go of something old. The book walks through a five-part journey, from recognizing the invisible beliefs shaping your choices to a practical Belief Audit that separates fact from the stories you tell yourself.\n\n"
+            "It challenges common limiting beliefs around approval, failure, perfection, and comparison, before moving to the R.I.S.E. framework — Recognize, Investigate, Shift, Experiment — and a 30-Day Unlearning Challenge that turns the ideas into practice rather than just reading."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Invisible Prison", "summary": "How unexamined beliefs and old stories quietly restrict your choices."},
+            {"chapter": "Chapter 2: The Belief Audit", "summary": "Learning to separate facts from the stories you tell yourself."},
+            {"chapter": "Chapter 3: The Great Unlearning", "summary": "Challenging beliefs about approval, failure, perfection and comparison."},
+            {"chapter": "Chapter 4: Rebuilding", "summary": "Replacing outdated beliefs with flexible, testable ones."},
+            {"chapter": "Chapter 5: The R.I.S.E. Framework", "summary": "Recognize, Investigate, Shift, Experiment."},
+            {"chapter": "Chapter 6: The 30-Day Unlearning Challenge", "summary": "Turning the ideas into a practiced habit."}
+        ],
+        "reviews": [
+            {"quote": "Practical rather than preachy — the Belief Audit alone was worth it.", "source": "Reader Review"},
+            {"quote": "A refreshing take on personal growth that isn't just more positive thinking.", "source": "Mindful Living Magazine"}
+        ]
+    },
+    {
+        "slug": "the-art-of-saying-no-without-guilt",
+        "title": "The Art of Saying No Without Guilt",
+        "subtitle": "How to Set Boundaries, Stop People-Pleasing, and Reclaim Your Time and Energy",
+        "kicker": "Self-Help",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-fifty",
+        "coverBg": "#6b2d3f",
+        "coverFg": "#f0c1c9",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/VgUPEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 170,
+        "publication_date": "2026-09-12",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=VgUPEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Art+of+Saying+No+Without+Guilt+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A practical guide for people-pleasers — the CLEAR Framework for saying no clearly, without guilt or over-explaining.",
+        "long_description": (
+            "The Art of Saying No Without Guilt is a self-help guide by Indian author Parvind Kumar for people who say yes when they mean no. It explores why disappointing someone doesn't necessarily mean doing something wrong, and introduces the CLEAR Framework — Consider, Listen, Express, Avoid unnecessary justification, Remain respectful — for turning down requests without excessive explanation.\n\n"
+            "The book covers boundaries at work, with family, and in relationships, along with ready-to-use 'no' scripts and a 30-Day No-Guilt Challenge that turns the ideas into an everyday habit — without asking readers to reject every request, only to become more intentional about the ones they accept."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Why Saying No Feels So Hard", "summary": "Guilt, people-pleasing, and the hidden cost of always agreeing."},
+            {"chapter": "Chapter 2: The CLEAR Framework", "summary": "Consider, Listen, Express, Avoid justification, Remain respectful."},
+            {"chapter": "Chapter 3: Boundaries at Work and at Home", "summary": "Saying no to colleagues, family, and partners."},
+            {"chapter": "Chapter 4: Handling Pushback", "summary": "Responding when someone challenges your boundary."},
+            {"chapter": "Chapter 5: The 30-Day No-Guilt Challenge", "summary": "Turning boundaries into a lasting habit."}
+        ],
+        "reviews": [
+            {"quote": "Practical scripts I actually used the same week I read it.", "source": "Reader Review"},
+            {"quote": "Direct, kind, and genuinely useful for chronic people-pleasers.", "source": "Wellness Notes"}
+        ]
+    },
+    {
+        "slug": "mind-over-noise",
+        "title": "Mind Over Noise",
+        "subtitle": "Practical Tools to Filter Distraction and Think Clearly in an Overstimulated World",
+        "kicker": "Self-Help",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-fifty-one",
+        "coverBg": "#2a3d4a",
+        "coverFg": "#9fd4dc",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/4usOEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 180,
+        "publication_date": "2026-09-13",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=4usOEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Mind+Over+Noise+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Practical frameworks for filtering notifications, information overload and mental clutter — building a clearer mind without disconnecting from modern life.",
+        "long_description": (
+            "Mind Over Noise is a self-help guide by Indian author Parvind Kumar built on a simple premise: you can't control everything competing for your attention, but you can get better at deciding what deserves it. Rather than asking readers to abandon their phones, it offers frameworks — the NOISE framework, an Attention Budget, a Distraction Ladder, an Opinion Filter — for using modern life more deliberately.\n\n"
+            "The book covers clearing a mental inbox, separating information from knowledge, protecting the first hour of the day, and building a Personal Clarity System, closing with a 30-Day Mind Over Noise Challenge that moves from seeing the noise to living beyond it."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Many Forms of Noise", "summary": "Notifications, information overload, and constant switching."},
+            {"chapter": "Chapter 2: Clearing the Mental Desk", "summary": "Separating information from knowledge, and organizing unfinished thoughts."},
+            {"chapter": "Chapter 3: The Attention Budget", "summary": "Deciding deliberately what deserves your focus."},
+            {"chapter": "Chapter 4: Boundaries and the Digital Sabbath", "summary": "Protecting the first hour of the day and building intentional disconnection."},
+            {"chapter": "Chapter 5: The 30-Day Mind Over Noise Challenge", "summary": "From seeing the noise to living beyond it."}
+        ],
+        "reviews": [
+            {"quote": "The Attention Budget idea alone changed how I use my phone.", "source": "Reader Review"},
+            {"quote": "Practical and refreshingly non-preachy about digital distraction.", "source": "Productivity Weekly"}
+        ]
+    },
+    {
+        "slug": "the-book-of-crypto",
+        "title": "The Book of Crypto",
+        "subtitle": "The Complete Guide to Understanding Bitcoin, Cryptocurrencies and Digital Assets",
+        "kicker": "Business & Technology",
+        "category": ["business", "nonfiction"],
+        "coverClass": "cover-fifty-two",
+        "coverBg": "#1f2b3d",
+        "coverFg": "#f2a900",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aNMOEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 240,
+        "publication_date": "2026-09-15",
+        "isbn": "978-81-181298-2-0",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=aNMOEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Book+of+Crypto+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A practical, beginner-friendly guide to Bitcoin, blockchain, DeFi, NFTs and digital assets — including cryptocurrency in India.",
+        "long_description": (
+            "The Book of Crypto is a guide by Indian author Parvind Kumar explaining how Bitcoin emerged, why blockchain matters, and how cryptography and consensus make decentralized systems possible. It moves from mining and transactions through Ethereum and smart contracts, stablecoins, wallets and exchanges, to investing versus speculation and common portfolio mistakes.\n\n"
+            "The book also covers DeFi, NFTs and Web3, crypto scams and security, law and taxation, and cryptocurrency in India specifically — closing with a security checklist, a project-research framework, and a glossary, written to help readers understand the space rather than treat it as guaranteed opportunity or guaranteed threat."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: What Cryptocurrency Actually Is", "summary": "Bitcoin's origins and how blockchain technology works."},
+            {"chapter": "Chapter 2: Mining, Wallets and Exchanges", "summary": "Private keys, seed phrases, and how to buy and store crypto securely."},
+            {"chapter": "Chapter 3: Ethereum, DeFi and Smart Contracts", "summary": "Beyond Bitcoin, and the risks of decentralized finance."},
+            {"chapter": "Chapter 4: NFTs, Web3 and Digital Ownership", "summary": "What ownership means on a blockchain."},
+            {"chapter": "Chapter 5: Scams, Security and Regulation", "summary": "Fraud risks, taxation, and cryptocurrency law in India."},
+            {"chapter": "Chapter 6: Investing Versus Speculation", "summary": "Market cycles, tokenomics, and avoiding common mistakes."}
+        ],
+        "reviews": [
+            {"quote": "The clearest beginner's explanation of crypto I've read, with real security guidance.", "source": "Reader Review"},
+            {"quote": "Balanced — neither hype nor dismissal, just a genuine attempt to explain the technology.", "source": "Business Playbook Review"}
+        ]
+    },
+    {
+        "slug": "micchami-dukkadam",
+        "title": "Micchami Dukkadam",
+        "subtitle": "The Art of Forgiveness, Letting Go, and Finding Inner Peace",
+        "kicker": "Body, Mind & Spirit",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-fifty-three",
+        "coverBg": "#3d2b1f",
+        "coverFg": "#d9b48f",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/7RsOEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 180,
+        "publication_date": "2026-09-16",
+        "isbn": "978-81-181298-3-7",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=7RsOEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Micchami+Dukkadam+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Rooted in the Jain tradition of forgiveness, a guide to accountability, letting go of resentment, and self-forgiveness — with a 7-Day Forgiveness Challenge.",
+        "long_description": (
+            "Micchami Dukkadam is a book on forgiveness by Indian author Parvind Kumar, drawing its title from the Jain practice of seeking forgiveness from all beings. It explores forgiveness alongside accountability, boundaries and responsibility — not as forgetting or excusing harm, but as acknowledging it, releasing what no longer needs to be carried, and choosing how to move forward.\n\n"
+            "The book covers sincere apology, the difference between guilt and shame, self-forgiveness, and forgiveness within families, friendships and digital life, closing with a 7-Day Forgiveness Challenge and a 30-Day Journey of guided reflection."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: What Micchami Dukkadam Means", "summary": "The Jain roots of the practice, and why it still matters."},
+            {"chapter": "Chapter 2: Why We Hold On", "summary": "Anger, resentment, and the emotional baggage we carry."},
+            {"chapter": "Chapter 3: Apology and Accountability", "summary": "How to apologize sincerely and take responsibility."},
+            {"chapter": "Chapter 4: Forgiving Without Excusing", "summary": "Boundaries, justice, and forgiveness that doesn't mean forgetting."},
+            {"chapter": "Chapter 5: Self-Forgiveness", "summary": "The difference between guilt and shame, and letting go of self-blame."},
+            {"chapter": "Chapter 6: The 7-Day Forgiveness Challenge", "summary": "A guided path toward release and inner peace."}
+        ],
+        "reviews": [
+            {"quote": "Gentle, practical, and genuinely moving — not just another self-help forgiveness book.", "source": "Reader Review"},
+            {"quote": "Grounded in real tradition rather than generic positivity.", "source": "Mindful Living Magazine"}
+        ]
+    },
+    {
+        "slug": "aniruddhacharya-ji-maharaj",
+        "title": "Aniruddhacharya Ji Maharaj",
+        "subtitle": "The Journey of Faith, Service, Devotion, and the Making of a Modern Spiritual Voice",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-fifty-four",
+        "coverBg": "#7a2e1e",
+        "coverFg": "#f0c987",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/z7wSEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 200,
+        "publication_date": "2026-09-25",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=z7wSEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Aniruddhacharya+Ji+Maharaj+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life and rise of Aniruddhacharya Ji Maharaj — Bhagwat Katha, seva initiatives like Annapurna Rasoi, and spiritual storytelling in the age of social media.",
+        "long_description": (
+            "Aniruddhacharya Ji Maharaj is a biography by Indian author Parvind Kumar tracing the path of a spiritual storyteller from humble beginnings toward Vrindavan, Bhagwat Katha, and public spiritual teaching. It follows the idea of Bhakti becoming Seva through initiatives associated with him, including the Annapurna Rasoi community food program established in 2020 and broader service activities connected with Gauri Gopal Ashram.\n\n"
+            "The book also traces his rise through video and social media, examining both admiration and criticism, and encouraging readers to distinguish documented fact from devotee tradition and the author's own interpretation — asking what happens when ancient spiritual traditions meet modern India."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Early Life and Spiritual Roots", "summary": "The path toward Vrindavan and devotional storytelling."},
+            {"chapter": "Chapter 2: Bhagwat Katha and Public Teaching", "summary": "Faith, guru, dharma and karma in his public teachings."},
+            {"chapter": "Chapter 3: Bhakti Becoming Seva", "summary": "Annapurna Rasoi, Gau Seva, and the Gauri Gopal Ashram initiatives."},
+            {"chapter": "Chapter 4: A Modern Spiritual Voice", "summary": "Reaching audiences through video and social media."},
+            {"chapter": "Chapter 5: Admiration and Criticism", "summary": "Weighing documented fact against devotee tradition and public controversy."}
+        ],
+        "reviews": [
+            {"quote": "A fair-minded look at a genuinely influential contemporary figure.", "source": "Reader Review"},
+            {"quote": "Careful to separate belief from verifiable fact — appreciated that.", "source": "Culture & Faith Review"}
+        ]
+    },
+    {
+        "slug": "the-nirankari-way",
+        "title": "The Nirankari Way",
+        "subtitle": "Understanding Oneness, Brahm Gyan, Sewa, Simran and the Journey Within",
+        "kicker": "Spirituality",
+        "category": ["nonfiction"],
+        "coverClass": "cover-fifty-five",
+        "coverBg": "#24405c",
+        "coverFg": "#cfe0e8",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/tIAREgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 200,
+        "publication_date": "2026-09-26",
+        "isbn": "978-81-181605-3-3",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=tIAREgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Nirankari+Way+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The philosophy and history of the Sant Nirankari Mission — Nirankar, Brahm Gyan, Sewa and Simran — and what oneness might mean for an ordinary, distracted life.",
+        "long_description": (
+            "The Nirankari Way is a spirituality title by Indian author Parvind Kumar exploring the Sant Nirankari Mission through its central idea: oneness, and the belief that the same divine presence — Nirankar, the Formless One — exists within every human being. It traces the path from Brahm Gyan and Satsang to Sewa and Simran, and the history of the Mission's spiritual leadership from Baba Buta Singh Ji to Satguru Mata Sudiksha Ji Maharaj.\n\n"
+            "Beyond history, the book connects these ideas to ordinary life — family, work, conflict and the challenges of a distracted modern world — asking what would change if a reader truly saw the same divine presence in themselves and in everyone they met."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Nirankar — The Formless and All-Pervading Divine", "summary": "The philosophical foundation of the Mission."},
+            {"chapter": "Chapter 2: Brahm Gyan and Satsang", "summary": "From belief to realization, and the company of truth."},
+            {"chapter": "Chapter 3: Sewa and Simran", "summary": "Selfless service and remembrance in everyday life."},
+            {"chapter": "Chapter 4: The Satgurus", "summary": "The spiritual leadership of the Mission, from Baba Buta Singh Ji to the present."},
+            {"chapter": "Chapter 5: The Householder's Path", "summary": "Living spiritually while embracing family, work and responsibility."},
+            {"chapter": "Chapter 6: One World, One Family", "summary": "Universal brotherhood and spirituality in the digital age."}
+        ],
+        "reviews": [
+            {"quote": "A clear, respectful introduction to a tradition I knew little about.", "source": "Reader Review"},
+            {"quote": "Grounded in real history while staying genuinely reflective.", "source": "Faith & Culture Review"}
+        ]
     }
 ]
 
@@ -2167,7 +2715,22 @@ const coverClasses = {{
   ".cover-thirty-seven": ["#1a3350", "#d4af37"],
   ".cover-thirty-eight": ["#2e2350", "#b9a6e0"],
   ".cover-thirty-nine": ["#e0a458", "#2b2118"],
-  ".cover-forty": ["#3a2e42", "#d9b8c4"]
+  ".cover-forty": ["#3a2e42", "#d9b8c4"],
+  ".cover-forty-one": ["#1d3b3a", "#7fc9c0"],
+  ".cover-forty-two": ["#8a3a1e", "#f2c94c"],
+  ".cover-forty-three": ["#6e1423", "#f2a65a"],
+  ".cover-forty-four": ["#2b3a67", "#fcbf49"],
+  ".cover-forty-five": ["#7a4a1e", "#f4dcae"],
+  ".cover-forty-six": ["#234e52", "#a7d7c5"],
+  ".cover-forty-seven": ["#1c3d5a", "#a8c6df"],
+  ".cover-forty-eight": ["#4a3c2a", "#d9a441"],
+  ".cover-forty-nine": ["#3e2a56", "#d4b8f0"],
+  ".cover-fifty": ["#6b2d3f", "#f0c1c9"],
+  ".cover-fifty-one": ["#2a3d4a", "#9fd4dc"],
+  ".cover-fifty-two": ["#1f2b3d", "#f2a900"],
+  ".cover-fifty-three": ["#3d2b1f", "#d9b48f"],
+  ".cover-fifty-four": ["#7a2e1e", "#f0c987"],
+  ".cover-fifty-five": ["#24405c", "#cfe0e8"]
 }};
 
 const style = document.createElement("style");
