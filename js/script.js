@@ -10,6 +10,7 @@ const books = [
     "amazon": "https://www.amazon.in/Six-Lanes-Kamathipura-Parvind-Kumar/dp/9376504801",
     "coverClass": "cover-one",
     "coverImage": "https://m.media-amazon.com/images/I/51Z5ASHf3nL._SY445_SX342_FMwebp_.jpg",
+    "coverAlt": "Six Lanes of Kamathipura by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -23,6 +24,7 @@ const books = [
     "amazon": "https://www.amazon.in/When-Hope-Came-Parvind-Kumar/dp/9376504275/",
     "coverClass": "cover-two",
     "coverImage": "https://m.media-amazon.com/images/I/717J3Te5ReL._SL1500_.jpg",
+    "coverAlt": "When Hope Came Home by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -37,6 +39,7 @@ const books = [
     "amazon": "https://www.amazon.in/Live-Relationships-Untold-Parvind-Kumar/dp/9376504062",
     "coverClass": "cover-three",
     "coverImage": "https://m.media-amazon.com/images/I/71PEl-ynwaL._SL1500_.jpg",
+    "coverAlt": "Live-In Relationships: The Untold Truth by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -51,6 +54,7 @@ const books = [
     "amazon": "https://www.amazon.in/11-Shades-Love-Modern-Stories/dp/9376503287",
     "coverClass": "cover-four",
     "coverImage": "https://m.media-amazon.com/images/I/71+156bp10L._SL1500_.jpg",
+    "coverAlt": "11 Shades of Love: Modern Indian Stories by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -64,6 +68,7 @@ const books = [
     "amazon": "https://www.amazon.in/Crime-suspense-stories-Parvind-Kumar/dp/9376502892/",
     "coverClass": "cover-five",
     "coverImage": "https://m.media-amazon.com/images/I/71PYcSfIf3L._SL1500_.jpg",
+    "coverAlt": "Crime Suspense Stories by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -77,6 +82,7 @@ const books = [
     "amazon": "https://www.amazon.in/Complete-Guide-Shu-Grid-Numerology/dp/9376502825",
     "coverClass": "cover-six",
     "coverImage": "https://m.media-amazon.com/images/I/81V5OZmGHoL._SL1500_.jpg",
+    "coverAlt": "The Complete Guide to Lo Shu Grid Numerology by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -91,6 +97,7 @@ const books = [
     "amazon": "https://www.amazon.in/Before-said-goodbye-Parvind-Kumar/dp/937650321X",
     "coverClass": "cover-seven",
     "coverImage": "https://m.media-amazon.com/images/I/71Uo5ZlPL6L._SL1500_.jpg",
+    "coverAlt": "Before we said goodbye. by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -105,6 +112,7 @@ const books = [
     "amazon": "https://www.amazon.in/Vintage-Between-Us-Vineyard-Romance/dp/B0H95CSR8H/",
     "coverClass": "cover-eight",
     "coverImage": "https://m.media-amazon.com/images/I/61eVBttz0DL._SY522_.jpg",
+    "coverAlt": "The Vintage Between Us: A Tuscan Vineyard Romance by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -119,6 +127,7 @@ const books = [
     "amazon": "https://www.amazon.in/After-Promise-Broke-Parvind-Kumar/dp/9376503481/",
     "coverClass": "cover-nine",
     "coverImage": "https://m.media-amazon.com/images/I/71rSw1nyW7L._SL1500_.jpg",
+    "coverAlt": "After the Promise Broke by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -133,6 +142,7 @@ const books = [
     "amazon": "https://www.amazon.in/Complete-Guide-Building-Marriage-Lasting/dp/9376502906/",
     "coverClass": "cover-ten",
     "coverImage": "https://m.media-amazon.com/images/I/71evLi+WBrL._SL1500_.jpg",
+    "coverAlt": "The Complete Guide to Building a Happy Marriage & Lasting Love by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -147,6 +157,7 @@ const books = [
     "amazon": "https://www.amazon.in/Complete-Guide-Mindfulness-Meditation/dp/9360381705/",
     "coverClass": "cover-eleven",
     "coverImage": "https://m.media-amazon.com/images/I/71KHnfkhauL._SL1500_.jpg",
+    "coverAlt": "The Complete Guide to Mindfulness & Meditation by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -161,6 +172,7 @@ const books = [
     "amazon": "https://www.amazon.in/Escape-Endless-Scroll-Parvind-Kumar/dp/9376503260/",
     "coverClass": "cover-twelve",
     "coverImage": "https://m.media-amazon.com/images/I/71znBiXKnVL._SL1500_.jpg",
+    "coverAlt": "Escape the Endless Scroll by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -175,6 +187,7 @@ const books = [
     "amazon": "https://www.amazon.in/dp/9376505468",
     "coverClass": "cover-twelve",
     "coverImage": "https://m.media-amazon.com/images/I/819+67sYZhL._SL1500_.jpg",
+    "coverAlt": "What Happens After Death? by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -189,6 +202,7 @@ const books = [
     "amazon": "https://www.amazon.in/Ganga-Expressway-Parvind-Kumar/dp/9376503511/",
     "coverClass": "cover-thirteen",
     "coverImage": "https://m.media-amazon.com/images/I/81hqsU3lBkL._SL1500_.jpg",
+    "coverAlt": "The Ganga Expressway by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -203,6 +217,7 @@ const books = [
     "amazon": "https://www.amazon.in/s?k=Talaq+Se+Pehle+Parvind+Kumar",
     "coverClass": "cover-fourteen",
     "coverImage": "https://m.media-amazon.com/images/I/71evLi+WBrL._SL1500_.jpg",
+    "coverAlt": "Talaq Se Pehle \u2014 \u092a\u0930\u0935\u093f\u0928\u094d\u0926 \u0915\u0941\u092e\u093e\u0930 \u0915\u0940 \u092a\u0941\u0938\u094d\u0924\u0915 \u0915\u093e \u0915\u0935\u0930",
     "unavailable": false
   },
   {
@@ -216,6 +231,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-fifteen",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/5XwDEgAAQBAJ?fife=w800",
+    "coverAlt": "Why Is India Becoming the Cancer Capital? by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -229,6 +245,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-sixteen",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ul4EEgAAQBAJ?fife=w800",
+    "coverAlt": "The Virus Between Us by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -242,6 +259,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-seventeen",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/-VUCEgAAQBAJ?fife=w800",
+    "coverAlt": "The Bageshwar Phenomenon by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -255,6 +273,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-eighteen",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/69_2EQAAQBAJ?fife=w800",
+    "coverAlt": "\u092a\u0924\u093f, \u092a\u0924\u094d\u0928\u0940 \u0914\u0930 \u0935\u094b \u2014 \u092a\u0930\u0935\u093f\u0928\u094d\u0926 \u0915\u0941\u092e\u093e\u0930 \u0915\u0940 \u092a\u0941\u0938\u094d\u0924\u0915 \u0915\u093e \u0915\u0935\u0930",
     "unavailable": false
   },
   {
@@ -269,6 +288,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-nineteen",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/HfACEgAAQBAJ?fife=w800",
+    "coverAlt": "The American Distance by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -283,6 +303,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/hjXvEQAAQBAJ?fife=w800",
+    "coverAlt": "Lose Weight Without Dieting by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -296,6 +317,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-one",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/XtMEEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of Lord Shiva by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -310,6 +332,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-two",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OQwFEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of Buddha by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -324,6 +347,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-three",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/l1ACEgAAQBAJ?fife=w800",
+    "coverAlt": "Focused 101 by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -338,6 +362,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-four",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/6DoCEgAAQBAJ?fife=w800",
+    "coverAlt": "The New Indian Marriage by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -351,6 +376,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-five",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/QCcCEgAAQBAJ?fife=w800",
+    "coverAlt": "Freedom and Partition by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -364,6 +390,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-six",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/fqgDEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of Lord Krishna by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -377,6 +404,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-seven",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/vqYCEgAAQBAJ?fife=w800",
+    "coverAlt": "The Price of an Ordinary Life by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -390,6 +418,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-eight",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/IZ4EEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of Lord Ganesha by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -403,6 +432,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-twenty-nine",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/FeP_EQAAQBAJ?fife=w800",
+    "coverAlt": "Marriage Turned Murder by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -417,6 +447,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/VIn3EQAAQBAJ?fife=w800",
+    "coverAlt": "Digital Product Sales & Marketing Strategy by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -431,6 +462,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-one",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/eCoDEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Public Speaking Tips by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -445,6 +477,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-two",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/AWIGEgAAQBAJ?fife=w800",
+    "coverAlt": "The Blood Sugar Reset by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -458,6 +491,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-three",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/inoFEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of the Bible by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -471,6 +505,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-four",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/_6MFEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of the Quran by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -484,6 +519,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-five",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/URwHEgAAQBAJ?fife=w800",
+    "coverAlt": "Understanding Manusmriti by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -497,6 +533,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-six",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/NLIHEgAAQBAJ?fife=w800",
+    "coverAlt": "The Name on Her Palm by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -510,6 +547,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-seven",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/GlAHEgAAQBAJ?fife=w800",
+    "coverAlt": "The Ten Avatars by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -524,6 +562,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-eight",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ExwIEgAAQBAJ?fife=w800",
+    "coverAlt": "The Complete Reiki Handbook by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -537,6 +576,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-thirty-nine",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/likHEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Essays for Kids by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -551,6 +591,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/Id8GEgAAQBAJ?fife=w800",
+    "coverAlt": "What the Body Couldn't Carry by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -564,6 +605,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-one",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/Q3IIEgAAQBAJ?fife=w800",
+    "coverAlt": "Chlorine Dioxide by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -577,6 +619,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-two",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OscKEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of Lord Hanuman by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -590,6 +633,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-three",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/r7sKEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories of Maa Durga by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -604,6 +648,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-four",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/QukMEgAAQBAJ?fife=w800",
+    "coverAlt": "Life Coaching Guide by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -617,6 +662,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-five",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/bOgQEgAAQBAJ?fife=w800",
+    "coverAlt": "Neem Karoli Baba by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -631,6 +677,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-six",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/vwANEgAAQBAJ?fife=w800",
+    "coverAlt": "The Discipline of Small Wins by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -645,6 +692,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-seven",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/jLEOEgAAQBAJ?fife=w800",
+    "coverAlt": "The Patient Investor's Playbook by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -658,6 +706,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-eight",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aAENEgAAQBAJ?fife=w800",
+    "coverAlt": "Dog Lovers vs Dog Haters by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -672,6 +721,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-forty-nine",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/87sMEgAAQBAJ?fife=w800",
+    "coverAlt": "Unlearn to Rise by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -686,6 +736,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-fifty",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/VgUPEgAAQBAJ?fife=w800",
+    "coverAlt": "The Art of Saying No Without Guilt by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -700,6 +751,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-fifty-one",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/4usOEgAAQBAJ?fife=w800",
+    "coverAlt": "Mind Over Noise by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -714,6 +766,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-fifty-two",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aNMOEgAAQBAJ?fife=w800",
+    "coverAlt": "The Book of Crypto by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -728,6 +781,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-fifty-three",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/7RsOEgAAQBAJ?fife=w800",
+    "coverAlt": "Micchami Dukkadam by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -741,6 +795,7 @@ const books = [
     "amazon": "",
     "coverClass": "cover-fifty-four",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/z7wSEgAAQBAJ?fife=w800",
+    "coverAlt": "Aniruddhacharya Ji Maharaj by Parvind Kumar \u2014 book cover",
     "unavailable": false
   },
   {
@@ -754,11 +809,16 @@ const books = [
     "amazon": "",
     "coverClass": "cover-fifty-five",
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/tIAREgAAQBAJ?fife=w800",
+    "coverAlt": "The Nirankari Way by Parvind Kumar \u2014 book cover",
     "unavailable": false
   }
 ];
 
 const bookGrid = document.getElementById("bookGrid");
+
+function coverThumb(url) {
+  return url.replace(/fife=w\d+/, "fife=w400");
+}
 
 function renderBooks(filter = "all") {
   const visible = books.filter(book => filter === "all" || book.category.includes(filter));
@@ -766,14 +826,15 @@ function renderBooks(filter = "all") {
   bookGrid.innerHTML = visible.map(book => `
     <article class="book-card reveal">
       <a href="books/${book.slug}/" aria-label="Read details of ${escapeHtml(book.title)}">
-        <div class="book-cover ${book.coverClass}" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.7) 100%), url('${book.coverImage}');">
+        <div class="book-cover ${book.coverClass} has-img">
+          <img class="cover-img" src="${coverThumb(book.coverImage)}" alt="${escapeHtml(book.coverAlt)}" width="240" height="353" loading="lazy" decoding="async">
           <span class="cover-kicker">${escapeHtml(book.kicker)}</span>
           <span class="cover-title">${escapeHtml(book.title)}</span>
           <span class="cover-author">PARVIND KUMAR</span>
         </div>
       </a>
       <div class="book-meta">
-        <h3>${escapeHtml(book.title)}</h3>
+        <h3><a href="books/${book.slug}/">${escapeHtml(book.title)}</a></h3>
         <p>${escapeHtml(book.description)}${book.unavailable ? ' <span class="status">Currently unavailable</span>' : ''}</p>
         <a class="book-link" href="books/${book.slug}/">Read Book Details &rarr;</a>
       </div>
@@ -898,5 +959,8 @@ Object.entries(coverClasses).forEach(([selector, [bg, fg]]) => {
 style.textContent = css;
 document.head.appendChild(style);
 
-renderBooks();
-observeReveals();
+if (bookGrid.children.length) {
+  observeReveals();
+} else {
+  renderBooks();
+}

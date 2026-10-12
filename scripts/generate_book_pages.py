@@ -1,5 +1,10 @@
 import os
+import sys
 import json
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import seo
+from seo import esc, esct
 
 # Define the books database
 BOOKS = [
@@ -2148,7 +2153,11 @@ TRANSLATIONS = {
         "explore_more": "EXPLORE MORE",
         "discover_other": "Discover other works in relationships, fiction, and mindfulness.",
         "isbn": "ISBN",
-        "formats": "Format"
+        "formats": "Format",
+        "faq_title": "Frequently Asked Questions",
+        "about_author": "About the Author",
+        "more_about": "More about Parvind Kumar",
+        "browse_all": "Browse all books by Parvind Kumar →"
     },
     "hi": {
         "lang": "hi",
@@ -2168,7 +2177,11 @@ TRANSLATIONS = {
         "explore_more": "और खोजें",
         "discover_other": "रिश्तों, कथा साहित्य और माइंडफुलनेस पर अन्य पुस्तकें देखें।",
         "isbn": "ISBN",
-        "formats": "प्रारूप"
+        "formats": "प्रारूप",
+        "faq_title": "अक्सर पूछे जाने वाले प्रश्न",
+        "about_author": "लेखक के बारे में",
+        "more_about": "परविन्द कुमार के बारे में और जानें",
+        "browse_all": "परविन्द कुमार की सभी पुस्तकें देखें →"
     }
 }
 
@@ -2181,60 +2194,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title} by Parvind Kumar | {kicker}</title>
-  <meta name="description" content="{description}">
-  <meta name="author" content="Parvind Kumar">
-  <meta name="robots" content="index, follow">
-  <meta property="og:type" content="book">
-  <meta property="og:title" content="{title} by Parvind Kumar | {kicker}">
-  <meta property="og:description" content="{description}">
-  <meta property="og:url" content="https://parvind-kumar.github.io/books/{slug}/">
-  <meta property="og:image" content="{cover_image}">
-  <meta name="twitter:card" content="summary_large_image">
-  <link rel="canonical" href="https://parvind-kumar.github.io/books/{slug}/">
+  {seo_head}
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23131210'/%3E%3Ctext x='50' y='66' font-size='55' text-anchor='middle' fill='%23f4efe7' font-family='serif'%3EP%3C/text%3E%3C/svg%3E">
   <link rel="stylesheet" href="../../css/style.css">
-  <script type="application/ld+json">
-  {{
-    "@context": "https://schema.org",
-    "@type": "Book",
-    "name": "{title}",
-    "author": {{
-      "@type": "Person",
-      "name": "Parvind Kumar",
-      "url": "https://parvind-kumar.github.io/"
-    }},
-    "isbn": "{isbn}",
-    "datePublished": "{publication_date}",
-    "inLanguage": "{language}",
-    "numberOfPages": {pages},
-    "publisher": {{
-      "@type": "Organization",
-      "name": "{publisher}"
-    }},
-    "image": "{cover_image}",
-    "description": "{description}",
-    "workExample": [
-      {{
-        "@type": "Book",
-        "isbn": "{isbn}",
-        "potentialAction": {{
-          "@type": "ReadAction",
-          "target": [
-            {{
-              "@type": "EntryPoint",
-              "urlTemplate": "{primary_buy_link}",
-              "actionPlatform": [
-                "http://schema.org/DesktopWebPlatform",
-                "http://schema.org/MobileWebPlatform"
-              ]
-            }}
-          ]
-        }}
-      }}
-    ]
-  }}
-  </script>
+  {json_ld}
 </head>
 <body class="book-detail-page">
   <a class="skip-link" href="#main">Skip to content</a>
@@ -2276,7 +2239,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <div class="book-detail-grid">
       <!-- Left Column: Visuals & Buying Actions -->
       <div class="book-detail-visual">
-        <div class="book-cover {cover_class}" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.7) 100%), url('{cover_image}');">
+        <div class="book-cover {cover_class} has-img">
+          <img class="cover-img" src="{cover_src}" alt="{cover_alt}" width="320" height="471" fetchpriority="high" decoding="async">
           <span class="cover-kicker">{kicker_upper}</span>
           <span class="cover-title">{title}</span>
           <span class="cover-author">PARVIND KUMAR</span>
@@ -2337,18 +2301,29 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         </div>
 
         <div class="detail-section toc-section">
-          <h3>{t_toc_title}</h3>
+          <h2>{t_toc_title}</h2>
           <ul class="toc-list">
             {toc_html}
           </ul>
         </div>
 
         <div class="detail-section reviews-section">
-          <h3>{t_reviews_title}</h3>
+          <h2>{t_reviews_title}</h2>
           <div class="reviews-grid">
             {reviews_html}
           </div>
         </div>
+
+        <div class="detail-section faq-section">
+          <h2>{t_faq_title}</h2>
+          {faq_html}
+        </div>
+
+        <aside class="detail-section author-box" aria-label="{t_about_author}">
+          <h2>{t_about_author}</h2>
+          <p>{author_bio}</p>
+          <p class="author-links"><a href="../../#about">{t_more_about}</a> · {author_links}</p>
+        </aside>
 
         <div class="back-to-library">
           <a class="text-link" href="../../#books">{t_back_to_library}</a>
@@ -2370,6 +2345,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="book-grid">
         {related_books_html}
       </div>
+      <p class="browse-all"><a class="text-link" href="../../#books">{t_browse_all}</a></p>
     </div>
   </section>
 
@@ -2461,12 +2437,12 @@ def generate_pages():
 
         # Split long description into paragraphs
         long_desc_paras = book["long_description"].split("\n\n")
-        long_description_html = "\n".join([f"<p>{p}</p>" for p in long_desc_paras])
+        long_description_html = "\n".join([f"<p>{esct(p)}</p>" for p in long_desc_paras])
 
         # Table of contents HTML
         toc_html = ""
         for item in book["table_of_contents"]:
-            toc_html += f'<li><span>{item["chapter"]}: {item["summary"]}</span></li>'
+            toc_html += f'<li><span>{esct(item["chapter"])}: {esct(item["summary"])}</span></li>'
 
         # Reviews HTML
         reviews_html = ""
@@ -2476,8 +2452,8 @@ def generate_pages():
             reviews_html += f'''
             <div class="review-card">
               <div class="review-stars">{stars_str}</div>
-              <p class="review-text">&ldquo;{rev["quote"]}&rdquo;</p>
-              <span class="reviewer">&mdash; {rev["source"]}</span>
+              <p class="review-text">&ldquo;{esct(rev["quote"])}&rdquo;</p>
+              <span class="reviewer">&mdash; {esct(rev["source"])}</span>
             </div>
             '''
 
@@ -2486,32 +2462,18 @@ def generate_pages():
         if book.get("unavailable"):
             unavailable_badge = '<div style="background:var(--accent); color:white; font-size:12px; font-weight:700; text-transform:uppercase; padding:8px; text-align:center; border-radius:4px; margin-top:-10px; margin-bottom:15px;">Currently Unavailable</div>'
 
-        # Related books HTML (pick 4 books excluding this one)
-        related_books = []
-        for other in BOOKS:
-            if other["slug"] != slug:
-                related_books.append(other)
-            if len(related_books) == 4:
-                break
-        
-        related_books_html = ""
-        for other in related_books:
-            related_books_html += f'''
-              <article class="book-card reveal visible">
-                <a href="../{other["slug"]}/" aria-label="Find {other["title"]} details">
-                  <div class="book-cover {other["coverClass"]}" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.7) 100%), url('{other["coverImage"]}');">
-                    <span class="cover-kicker">{other["kicker"].upper()}</span>
-                    <span class="cover-title">{other["title"]}</span>
-                    <span class="cover-author">PARVIND KUMAR</span>
-                  </div>
-                </a>
-                <div class="book-meta">
-                  <h3>{other["title"]}</h3>
-                  <p>{other["description"]}</p>
-                  <a class="book-link" href="../{other["slug"]}/">Read Details &rarr;</a>
-                </div>
-              </article>
-            '''
+        # Related books: same series/kicker/category first so every book links to relevant siblings
+        related_books_html = "".join(seo.card_html(other, "../") for other in seo.related_books(book, BOOKS))
+
+        # FAQ (visible HTML + FAQPage JSON-LD, same content)
+        faq = seo.faq_items(book, trans)
+        faq_html = "".join(
+            f'<details class="faq-item"><summary>{esct(q)}</summary><p>{esct(a)}</p></details>' for q, a in faq
+        )
+        author_links = " · ".join(
+            f'<a href="{u}" target="_blank" rel="noopener me">{label}</a>'
+            for label, u in (("Instagram", seo.SAME_AS[1]), ("X", seo.SAME_AS[2]), ("Facebook", seo.SAME_AS[3]))
+        )
 
         # Render Google Play Button if link exists
         google_play_btn = ""
@@ -2530,20 +2492,31 @@ def generate_pages():
         # Format and write template
         rendered_html = HTML_TEMPLATE.format(
             lang_code=trans["lang"],
-            title=title,
-            subtitle=subtitle,
+            title=esct(title),
+            subtitle=esct(subtitle),
             slug=slug,
-            kicker=kicker,
-            kicker_upper=kicker_upper,
-            description=book["description"],
+            kicker=esct(kicker),
+            kicker_upper=esct(kicker_upper),
+            description=esct(book["description"]),
             cover_image=book["coverImage"],
+            cover_src=esc(seo.cover_src(book["coverImage"], 800)),
+            cover_alt=esc(seo.cover_alt(book)),
+            seo_head=seo.head_html(book, trans),
+            json_ld=seo.json_ld(book, trans, faq, None),
+            faq_html=faq_html,
+            author_bio=esct(seo.AUTHOR_BIO[seo.lang_code(book)]),
+            author_links=author_links,
+            t_faq_title=trans["faq_title"],
+            t_about_author=trans["about_author"],
+            t_more_about=trans["more_about"],
+            t_browse_all=trans["browse_all"],
             cover_class=book["coverClass"],
             isbn=book["isbn"],
             publication_date=book["publication_date"],
             publication_date_str=publication_date_str,
-            language=book["language"],
+            language=esct(book["language"]),
             pages=book["pages"],
-            genre=genre_name,
+            genre=esct(genre_name),
             publisher=book["publisher"],
             amazon=book["amazon"],
             amazon_btn=amazon_btn,
@@ -2574,7 +2547,7 @@ def generate_pages():
             t_other_books=trans["other_books"],
             t_explore_more=trans["explore_more"],
             t_discover_other=trans["discover_other"],
-            formats=book["formats"]
+            formats=esct(book["formats"])
         )
 
         out_path = os.path.join(book_dir, "index.html")
@@ -2595,6 +2568,7 @@ def generate_pages():
             "amazon": book["amazon"],
             "coverClass": book["coverClass"],
             "coverImage": book["coverImage"],
+            "coverAlt": seo.cover_alt(book),
             "unavailable": book.get("unavailable", False)
         })
 
@@ -2603,20 +2577,25 @@ def generate_pages():
 
 const bookGrid = document.getElementById("bookGrid");
 
+function coverThumb(url) {{
+  return url.replace(/fife=w\\d+/, "fife=w400");
+}}
+
 function renderBooks(filter = "all") {{
   const visible = books.filter(book => filter === "all" || book.category.includes(filter));
 
   bookGrid.innerHTML = visible.map(book => `
     <article class="book-card reveal">
       <a href="books/${{book.slug}}/" aria-label="Read details of ${{escapeHtml(book.title)}}">
-        <div class="book-cover ${{book.coverClass}}" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.7) 100%), url('${{book.coverImage}}');">
+        <div class="book-cover ${{book.coverClass}} has-img">
+          <img class="cover-img" src="${{coverThumb(book.coverImage)}}" alt="${{escapeHtml(book.coverAlt)}}" width="240" height="353" loading="lazy" decoding="async">
           <span class="cover-kicker">${{escapeHtml(book.kicker)}}</span>
           <span class="cover-title">${{escapeHtml(book.title)}}</span>
           <span class="cover-author">PARVIND KUMAR</span>
         </div>
       </a>
       <div class="book-meta">
-        <h3>${{escapeHtml(book.title)}}</h3>
+        <h3><a href="books/${{book.slug}}/">${{escapeHtml(book.title)}}</a></h3>
         <p>${{escapeHtml(book.description)}}${{book.unavailable ? ' <span class="status">Currently unavailable</span>' : ''}}</p>
         <a class="book-link" href="books/${{book.slug}}/">Read Book Details &rarr;</a>
       </div>
@@ -2741,14 +2720,24 @@ Object.entries(coverClasses).forEach(([selector, [bg, fg]]) => {{
 style.textContent = css;
 document.head.appendChild(style);
 
-renderBooks();
-observeReveals();
+if (bookGrid.children.length) {{
+  observeReveals();
+}} else {{
+  renderBooks();
+}}
 """
 
     js_path = os.path.join(BASE_DIR, "js", "script.js")
     with open(js_path, "w", encoding="utf-8") as f:
         f.write(js_content)
     print(f"Updated {js_path}")
+
+    seo.update_homepage(BASE_DIR, BOOKS)
+    print("Updated index.html book grid + ItemList JSON-LD")
+
+    with open(os.path.join(BASE_DIR, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(seo.sitemap_xml(BOOKS))
+    print("Updated sitemap.xml")
 
 if __name__ == "__main__":
     generate_pages()

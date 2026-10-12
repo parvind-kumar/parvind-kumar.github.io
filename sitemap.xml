@@ -1,345 +1,625 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://parvindkumar.com/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-essays-for-kids/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/likHEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Essays for Kids</image:title>
+      <image:caption>101 Essays for Kids by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-public-speaking-tips/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/eCoDEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Public Speaking Tips</image:title>
+      <image:caption>101 Public Speaking Tips by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-buddha/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/OQwFEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of Buddha</image:title>
+      <image:caption>101 Stories of Buddha by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-ganesha/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/IZ4EEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of Lord Ganesha</image:title>
+      <image:caption>101 Stories of Lord Ganesha by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-hanuman/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/OscKEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of Lord Hanuman</image:title>
+      <image:caption>101 Stories of Lord Hanuman by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-krishna/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/fqgDEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of Lord Krishna</image:title>
+      <image:caption>101 Stories of Lord Krishna by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-shiva/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/XtMEEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of Lord Shiva</image:title>
+      <image:caption>101 Stories of Lord Shiva by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-maa-durga/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/r7sKEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of Maa Durga</image:title>
+      <image:caption>101 Stories of Maa Durga by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-the-bible/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/inoFEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of the Bible</image:title>
+      <image:caption>101 Stories of the Bible by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-the-quran/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/_6MFEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories of the Quran</image:title>
+      <image:caption>101 Stories of the Quran by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/11-shades-of-love/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71+156bp10L._SL1500_.jpg</image:loc>
+      <image:title>11 Shades of Love: Modern Indian Stories</image:title>
+      <image:caption>11 Shades of Love: Modern Indian Stories by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/after-the-promise-broke/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71rSw1nyW7L._SL1500_.jpg</image:loc>
+      <image:title>After the Promise Broke</image:title>
+      <image:caption>After the Promise Broke by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/aniruddhacharya-ji-maharaj/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/z7wSEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Aniruddhacharya Ji Maharaj</image:title>
+      <image:caption>Aniruddhacharya Ji Maharaj by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/before-we-said-goodbye/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71Uo5ZlPL6L._SL1500_.jpg</image:loc>
+      <image:title>Before we said goodbye.</image:title>
+      <image:caption>Before we said goodbye. by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/building-happy-marriage/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71evLi+WBrL._SL1500_.jpg</image:loc>
+      <image:title>The Complete Guide to Building a Happy Marriage &amp; Lasting Love</image:title>
+      <image:caption>The Complete Guide to Building a Happy Marriage &amp; Lasting Love by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/chlorine-dioxide/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/Q3IIEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Chlorine Dioxide</image:title>
+      <image:caption>Chlorine Dioxide by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/crime-suspense-stories/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71PYcSfIf3L._SL1500_.jpg</image:loc>
+      <image:title>Crime Suspense Stories</image:title>
+      <image:caption>Crime Suspense Stories by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/digital-product-sales-marketing-strategy/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/VIn3EQAAQBAJ?fife=w800</image:loc>
+      <image:title>Digital Product Sales &amp; Marketing Strategy</image:title>
+      <image:caption>Digital Product Sales &amp; Marketing Strategy by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/dog-lovers-vs-dog-haters/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/aAENEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Dog Lovers vs Dog Haters</image:title>
+      <image:caption>Dog Lovers vs Dog Haters by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/escape-endless-scroll/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71znBiXKnVL._SL1500_.jpg</image:loc>
+      <image:title>Escape the Endless Scroll</image:title>
+      <image:caption>Escape the Endless Scroll by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/focused-101/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/l1ACEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Focused 101</image:title>
+      <image:caption>Focused 101 by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/freedom-and-partition/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/QCcCEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Freedom and Partition</image:title>
+      <image:caption>Freedom and Partition by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/ganga-expressway/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/81hqsU3lBkL._SL1500_.jpg</image:loc>
+      <image:title>The Ganga Expressway</image:title>
+      <image:caption>The Ganga Expressway by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/life-coaching-guide/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/QukMEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Life Coaching Guide</image:title>
+      <image:caption>Life Coaching Guide by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/live-in-relationships/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71PEl-ynwaL._SL1500_.jpg</image:loc>
+      <image:title>Live-In Relationships: The Untold Truth</image:title>
+      <image:caption>Live-In Relationships: The Untold Truth by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/lo-shu-grid-numerology/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/81V5OZmGHoL._SL1500_.jpg</image:loc>
+      <image:title>The Complete Guide to Lo Shu Grid Numerology</image:title>
+      <image:caption>The Complete Guide to Lo Shu Grid Numerology by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/lose-weight-without-dieting/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/hjXvEQAAQBAJ?fife=w800</image:loc>
+      <image:title>Lose Weight Without Dieting</image:title>
+      <image:caption>Lose Weight Without Dieting by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/marriage-turned-murder/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/FeP_EQAAQBAJ?fife=w800</image:loc>
+      <image:title>Marriage Turned Murder</image:title>
+      <image:caption>Marriage Turned Murder by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/micchami-dukkadam/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/7RsOEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Micchami Dukkadam</image:title>
+      <image:caption>Micchami Dukkadam by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/mind-over-noise/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/4usOEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Mind Over Noise</image:title>
+      <image:caption>Mind Over Noise by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/mindfulness-meditation/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71KHnfkhauL._SL1500_.jpg</image:loc>
+      <image:title>The Complete Guide to Mindfulness &amp; Meditation</image:title>
+      <image:caption>The Complete Guide to Mindfulness &amp; Meditation by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/neem-karoli-baba/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/bOgQEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Neem Karoli Baba</image:title>
+      <image:caption>Neem Karoli Baba by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/pati-patni-aur-woh/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/69_2EQAAQBAJ?fife=w800</image:loc>
+      <image:title>पति, पत्नी और वो</image:title>
+      <image:caption>पति, पत्नी और वो — परविन्द कुमार की पुस्तक का कवर</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/six-lanes-of-kamathipura/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/51Z5ASHf3nL._SY445_SX342_FMwebp_.jpg</image:loc>
+      <image:title>Six Lanes of Kamathipura</image:title>
+      <image:caption>Six Lanes of Kamathipura by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/talaq-se-pehle/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/71evLi+WBrL._SL1500_.jpg</image:loc>
+      <image:title>Talaq Se Pehle</image:title>
+      <image:caption>Talaq Se Pehle — परविन्द कुमार की पुस्तक का कवर</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-american-distance/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/HfACEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The American Distance</image:title>
+      <image:caption>The American Distance by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-art-of-saying-no-without-guilt/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/VgUPEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Art of Saying No Without Guilt</image:title>
+      <image:caption>The Art of Saying No Without Guilt by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-bageshwar-phenomenon/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/-VUCEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Bageshwar Phenomenon</image:title>
+      <image:caption>The Bageshwar Phenomenon by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-blood-sugar-reset/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/AWIGEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Blood Sugar Reset</image:title>
+      <image:caption>The Blood Sugar Reset by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-book-of-crypto/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/aNMOEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Book of Crypto</image:title>
+      <image:caption>The Book of Crypto by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-complete-reiki-handbook/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/ExwIEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Complete Reiki Handbook</image:title>
+      <image:caption>The Complete Reiki Handbook by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-discipline-of-small-wins/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/vwANEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Discipline of Small Wins</image:title>
+      <image:caption>The Discipline of Small Wins by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-name-on-her-palm/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/NLIHEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Name on Her Palm</image:title>
+      <image:caption>The Name on Her Palm by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-new-indian-marriage/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/6DoCEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The New Indian Marriage</image:title>
+      <image:caption>The New Indian Marriage by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-nirankari-way/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/tIAREgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Nirankari Way</image:title>
+      <image:caption>The Nirankari Way by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-patient-investors-playbook/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/jLEOEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Patient Investor&#x27;s Playbook</image:title>
+      <image:caption>The Patient Investor&#x27;s Playbook by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-price-of-an-ordinary-life/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/vqYCEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Price of an Ordinary Life</image:title>
+      <image:caption>The Price of an Ordinary Life by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-ten-avatars/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/GlAHEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Ten Avatars</image:title>
+      <image:caption>The Ten Avatars by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-virus-between-us/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/ul4EEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Virus Between Us</image:title>
+      <image:caption>The Virus Between Us by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/understanding-manusmriti/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/URwHEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Understanding Manusmriti</image:title>
+      <image:caption>Understanding Manusmriti by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/unlearn-to-rise/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/87sMEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Unlearn to Rise</image:title>
+      <image:caption>Unlearn to Rise by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/vintage-between-us/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/61eVBttz0DL._SY522_.jpg</image:loc>
+      <image:title>The Vintage Between Us: A Tuscan Vineyard Romance</image:title>
+      <image:caption>The Vintage Between Us: A Tuscan Vineyard Romance by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/what-happens-after-death/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/819+67sYZhL._SL1500_.jpg</image:loc>
+      <image:title>What Happens After Death?</image:title>
+      <image:caption>What Happens After Death? by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/what-the-body-couldnt-carry/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/Id8GEgAAQBAJ?fife=w800</image:loc>
+      <image:title>What the Body Couldn&#x27;t Carry</image:title>
+      <image:caption>What the Body Couldn&#x27;t Carry by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/when-hope-came-home/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://m.media-amazon.com/images/I/717J3Te5ReL._SL1500_.jpg</image:loc>
+      <image:title>When Hope Came Home</image:title>
+      <image:caption>When Hope Came Home by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/why-india-cancer-capital/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/5XwDEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Why Is India Becoming the Cancer Capital?</image:title>
+      <image:caption>Why Is India Becoming the Cancer Capital? by Parvind Kumar — book cover</image:caption>
+    </image:image>
   </url>
 </urlset>
