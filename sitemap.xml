@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://parvindkumar.com/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-essays-for-kids/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-public-speaking-tips/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -29,8 +29,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/101-stories-from-ramayana/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/OQYbEgAAQBAJ?fife=w800</image:loc>
+      <image:title>101 Stories from Ramayana</image:title>
+      <image:caption>101 Stories from Ramayana by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/101-stories-of-buddha/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -41,7 +52,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-ganesha/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -52,7 +63,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-hanuman/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -63,7 +74,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-krishna/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -74,7 +85,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-lord-shiva/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -85,7 +96,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-maa-durga/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -96,7 +107,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-the-bible/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -107,7 +118,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/101-stories-of-the-quran/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -118,7 +129,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/11-shades-of-love/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -129,7 +140,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/after-the-promise-broke/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -139,8 +150,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/ambedkar/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/OIUZEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Ambedkar</image:title>
+      <image:caption>Ambedkar by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/aniruddhacharya-ji-maharaj/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -151,7 +173,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/before-we-said-goodbye/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -162,7 +184,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/building-happy-marriage/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -172,8 +194,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/chanakya-neeti/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/_FEVEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Chanakya Neeti</image:title>
+      <image:caption>Chanakya Neeti by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/chlorine-dioxide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -184,7 +217,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/crime-suspense-stories/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -195,7 +228,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/digital-product-sales-marketing-strategy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -206,7 +239,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/dog-lovers-vs-dog-haters/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -217,7 +250,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/escape-endless-scroll/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -228,7 +261,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/focused-101/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -239,7 +272,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/freedom-and-partition/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -249,8 +282,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/gandhi/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/THUUEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Gandhi</image:title>
+      <image:caption>Gandhi by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/ganga-expressway/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -260,8 +304,74 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/godse/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/l5cZEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Godse</image:title>
+      <image:caption>Godse by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://parvindkumar.com/books/how-to-start-a-business-without-any-money/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/l-AUEgAAQBAJ?fife=w800</image:loc>
+      <image:title>How to Start a Business Without Any Money</image:title>
+      <image:caption>How to Start a Business Without Any Money by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://parvindkumar.com/books/indira-the-iron-lady-of-india/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/RiAaEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Indira</image:title>
+      <image:caption>Indira by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://parvindkumar.com/books/kalam/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/u0sZEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Kalam</image:title>
+      <image:caption>Kalam by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://parvindkumar.com/books/khatu-shyam/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/busVEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Khatu Shyam</image:title>
+      <image:caption>Khatu Shyam by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://parvindkumar.com/books/learn-abacus/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/ABUWEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Learn Abacus</image:title>
+      <image:caption>Learn Abacus by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/life-coaching-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -272,7 +382,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/live-in-relationships/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -283,7 +393,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/lo-shu-grid-numerology/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -294,7 +404,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/lose-weight-without-dieting/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -304,8 +414,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/maharana-pratap/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/L1MZEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Maharana Pratap</image:title>
+      <image:caption>Maharana Pratap by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/marriage-turned-murder/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -316,7 +437,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/micchami-dukkadam/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -327,7 +448,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/mind-over-noise/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -338,7 +459,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/mindfulness-meditation/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -349,7 +470,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/neem-karoli-baba/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -359,8 +480,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/netaji-subhas-chandra-bose/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/eIUZEgAAQBAJ?fife=w800</image:loc>
+      <image:title>Netaji</image:title>
+      <image:caption>Netaji by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/pati-patni-aur-woh/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -371,7 +503,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/six-lanes-of-kamathipura/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -382,7 +514,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/talaq-se-pehle/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -393,7 +525,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-american-distance/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -404,7 +536,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-art-of-saying-no-without-guilt/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -415,7 +547,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-bageshwar-phenomenon/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -426,7 +558,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-blood-sugar-reset/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -437,7 +569,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-book-of-crypto/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -448,7 +580,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-complete-reiki-handbook/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -458,8 +590,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/the-dark-side-of-alcohol/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/aQUbEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Dark Side of Alcohol</image:title>
+      <image:caption>The Dark Side of Alcohol by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/the-discipline-of-small-wins/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -469,8 +612,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/the-gut-mind-connection/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/IPkUEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Gut-Mind Connection</image:title>
+      <image:caption>The Gut-Mind Connection by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/the-name-on-her-palm/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -481,7 +635,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-new-indian-marriage/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -492,7 +646,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-nirankari-way/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -503,7 +657,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-patient-investors-playbook/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -514,7 +668,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-price-of-an-ordinary-life/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -524,8 +678,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/the-road-to-ladakh/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/VpYaEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Road to Ladakh</image:title>
+      <image:caption>The Road to Ladakh by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://parvindkumar.com/books/the-sex-and-body-book/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/ch0aEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Sex &amp; Body Book</image:title>
+      <image:caption>The Sex &amp; Body Book by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/the-ten-avatars/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -536,7 +712,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/the-virus-between-us/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -546,8 +722,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://parvindkumar.com/books/the-weavers-rebellion/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://play.google.com/books/publisher/content/images/frontcover/ClMVEgAAQBAJ?fife=w800</image:loc>
+      <image:title>The Weaver&#x27;s Rebellion</image:title>
+      <image:caption>The Weaver&#x27;s Rebellion by Parvind Kumar — book cover</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://parvindkumar.com/books/understanding-manusmriti/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -558,7 +745,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/unlearn-to-rise/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -569,7 +756,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/vintage-between-us/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -580,7 +767,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/what-happens-after-death/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -591,7 +778,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/what-the-body-couldnt-carry/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -602,7 +789,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/when-hope-came-home/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -613,7 +800,7 @@
   </url>
   <url>
     <loc>https://parvindkumar.com/books/why-india-cancer-capital/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
