@@ -2131,6 +2131,635 @@ BOOKS = [
             {"quote": "A clear, respectful introduction to a tradition I knew little about.", "source": "Reader Review"},
             {"quote": "Grounded in real history while staying genuinely reflective.", "source": "Faith & Culture Review"}
         ]
+    },
+    {
+        "slug": "101-stories-from-ramayana",
+        "title": "101 Stories from Ramayana",
+        "subtitle": "Timeless Tales of Rama, Sita, Hanuman, Dharma, Devotion, Courage, and the Triumph of Good Over Evil",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-fifty-six",
+        "coverBg": "#7a3b1a",
+        "coverFg": "#f0c36d",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OQYbEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 280,
+        "publication_date": "2026-09-14",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=OQYbEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=101+Stories+from+Ramayana+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "101 episodes from the Ramayana — from Ayodhya and exile to Hanuman's leap and the confrontation with Ravana — and the dharma they still teach.",
+        "long_description": (
+            "101 Stories from Ramayana is a mythology collection by Indian author Parvind Kumar bringing together memorable episodes from the journey of Lord Rama, Goddess Sita, Hanuman, Lakshmana, Bharata and the many other characters who have inspired generations. It travels from the royal city of Ayodhya to the forests of exile, from the search for Sita to the bridge to Lanka and the confrontation with Ravana.\n\n"
+            "The collection follows the bond between the four brothers, the wisdom of sages such as Vishwamitra, Ahalya and Shabari, Sita's strength and dignity, and Hanuman's courage, intelligence and service — treating the epic as a profound exploration of duty, love, loyalty, sacrifice and the choices that shape our lives."
+        ),
+        "table_of_contents": [
+            {"chapter": "Section 1: Ayodhya and the Royal Family", "summary": "The birth of Rama, the bond between the brothers, and the world of the Ikshvaku court."},
+            {"chapter": "Section 2: Exile and the Forest", "summary": "Rama, Sita and Lakshmana in the forest, and the encounters and trials along the way."},
+            {"chapter": "Section 3: The Wisdom of the Sages", "summary": "Stories of Vishwamitra, Ahalya, Shabari and other figures who shaped the epic."},
+            {"chapter": "Section 4: The Search for Sita", "summary": "Hanuman's journey, his leap across the ocean and his devotion to Rama."},
+            {"chapter": "Section 5: The War in Lanka", "summary": "The bridge to Lanka and the confrontation with Ravana."},
+            {"chapter": "Section 6: Lessons of the Ramayana", "summary": "What the epic still teaches about dharma, loyalty, sacrifice and courage."}
+        ],
+        "reviews": [
+            {"quote": "A lovely, readable retelling that works for both children and adults.", "source": "Reader Review"},
+            {"quote": "Faithful to the epic while making each episode feel fresh and self-contained.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "the-gut-mind-connection",
+        "title": "The Gut-Mind Connection",
+        "subtitle": "How Gut Health Quietly Shapes Mood, Focus, and Long-Term Wellbeing",
+        "kicker": "Health & Wellness",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-fifty-seven",
+        "coverBg": "#27463a",
+        "coverFg": "#c7e3a1",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/IPkUEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 190,
+        "publication_date": "2026-09-05",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=IPkUEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Gut+Mind+Connection+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A science-informed guide to how the gut and brain communicate — separating what's established from what's promising and what's oversold.",
+        "long_description": (
+            "The Gut-Mind Connection is a science-informed health guide by Indian author Parvind Kumar — not a diet book or a miracle-cure pitch. It explains how the gut and brain communicate through the vagus nerve, immune signaling, microbial metabolites and hormones, and honestly separates what is firmly established from what is promising but early and what is simply oversold.\n\n"
+            "The book offers a practical, non-dogmatic guide to fiber, fermented foods and probiotics (including how to read a probiotic label), an honest chapter on antibiotics, a 'Myth Factory' chapter that corrects persistent gut-health claims, and a realistic 30-Day Gut-Mind Reset. A sourced notes section cites the studies behind its claims."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Four Pathways", "summary": "How the gut and brain communicate: nerves, immune signals, metabolites and hormones."},
+            {"chapter": "Chapter 2: What the Evidence Says", "summary": "Gut health's role in mood, focus and sleep — and where the evidence stops."},
+            {"chapter": "Chapter 3: Fiber, Fermented Foods and Probiotics", "summary": "A practical, non-dogmatic guide, including how to read a probiotic label."},
+            {"chapter": "Chapter 4: Antibiotics and the Gut", "summary": "Why they are sometimes necessary and what happens to your gut afterward."},
+            {"chapter": "Chapter 5: The Myth Factory", "summary": "Naming and correcting the most persistent gut-health claims."},
+            {"chapter": "Chapter 6: The 30-Day Gut-Mind Reset", "summary": "A week-by-week plan, including what didn't work."}
+        ],
+        "reviews": [
+            {"quote": "Finally a gut-health book that tells me what's proven and what isn't.", "source": "Reader Review"},
+            {"quote": "Careful, sourced and refreshingly free of hype.", "source": "Wellness Notes"}
+        ]
+    },
+    {
+        "slug": "chanakya-neeti",
+        "title": "Chanakya Neeti",
+        "subtitle": "Ancient Wisdom for Modern Life, Leadership, Money, Power, and Success",
+        "kicker": "Self-Help",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-fifty-eight",
+        "coverBg": "#5a3a1c",
+        "coverFg": "#e7c680",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/_FEVEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-09-17",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=_FEVEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Chanakya+Neeti+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Principles traditionally associated with Chanakya, applied to modern life, leadership, money, relationships and the digital age.",
+        "long_description": (
+            "Chanakya Neeti is a self-help and strategy book by Indian author Parvind Kumar exploring the principles traditionally associated with Chanakya — also known as Kautilya or Vishnugupta — and interpreting them for contemporary life. It notes the difference between the Chanakya Niti tradition, concerned with human behaviour and everyday life, and the Arthashastra, a distinct and far more extensive work on governance and statecraft.\n\n"
+            "The book covers self-discipline, controlling anger and ego, choosing friends, protecting reputation, managing money, career and leadership, negotiation, handling difficult people, crisis management, family and relationships, entrepreneurship, and even privacy and artificial intelligence — asking how ancient strategic wisdom can help us think more clearly and act more wisely."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Who Was Chanakya?", "summary": "Chanakya, Kautilya and Vishnugupta, and the difference between Niti and the Arthashastra."},
+            {"chapter": "Chapter 2: Self-Discipline and the Inner Enemies", "summary": "Controlling anger, fear, greed and ego."},
+            {"chapter": "Chapter 3: People, Friends and Reputation", "summary": "Understanding human behaviour and choosing trustworthy relationships."},
+            {"chapter": "Chapter 4: Money, Career and Leadership", "summary": "Earning, saving, decision-making and professional success."},
+            {"chapter": "Chapter 5: Strategy, Competition and Crisis", "summary": "Negotiation, preparation, risk and dealing with difficult people."},
+            {"chapter": "Chapter 6: Chanakya in the Digital Age", "summary": "Privacy, technological change and artificial intelligence."}
+        ],
+        "reviews": [
+            {"quote": "Practical and surprisingly modern — it separates Niti from the Arthashastra clearly.", "source": "Reader Review"},
+            {"quote": "A thoughtful modern reading of classical Indian strategic thought.", "source": "Business Playbook Review"}
+        ]
+    },
+    {
+        "slug": "how-to-start-a-business-without-any-money",
+        "title": "How to Start a Business Without Any Money",
+        "subtitle": "Complete Guide Filled with Business Ideas, Business Plans, Tips & Tricks to Make Money Easily Online",
+        "kicker": "Business",
+        "category": ["business", "nonfiction"],
+        "coverClass": "cover-fifty-nine",
+        "coverBg": "#1f4d3a",
+        "coverFg": "#f5d76e",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/l-AUEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 210,
+        "publication_date": "2026-09-18",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=l-AUEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=How+to+Start+a+Business+Without+Any+Money+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A practical guide to starting a business with little or no capital — 50+ ideas, one-page business plans, and ways to find your first customer.",
+        "long_description": (
+            "How to Start a Business Without Any Money is a practical entrepreneurship guide by Indian author Parvind Kumar for people with limited or no starting capital. It argues that skills, knowledge, time, relationships and technology can be the foundation of a business, and focuses on what readers can actually do: identify opportunities, test ideas before spending money, find a first customer, make a first sale and build something sustainable.\n\n"
+            "Inside are 50+ businesses that can be started with little or no money, a simple one-page business plan with 10 ready-to-use examples, pricing guidance, ways to get customers without expensive advertising, selling without feeling like a salesperson, and building an online business and personal brand with free tools."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Start With What You Already Have", "summary": "Turning skills, knowledge and time into income."},
+            {"chapter": "Chapter 2: Finding and Choosing an Idea", "summary": "Spotting real problems and picking the right idea for your situation."},
+            {"chapter": "Chapter 3: Testing Before You Spend", "summary": "Validating an idea and finding your first customer."},
+            {"chapter": "Chapter 4: Offers, Pricing and the One-Page Plan", "summary": "Creating an offer people understand, with 10 sample business plans."},
+            {"chapter": "Chapter 5: 50+ Low-Cost Business Ideas", "summary": "Businesses you can start with little or no money."},
+            {"chapter": "Chapter 6: Growing Online on a Budget", "summary": "Free tools, social media and a personal brand without a large budget."}
+        ],
+        "reviews": [
+            {"quote": "Realistic and actionable — the idea list and one-page plans got me moving.", "source": "Reader Review"},
+            {"quote": "A grounded start-up guide that doesn't pretend money doesn't matter.", "source": "Business Playbook Review"}
+        ]
+    },
+    {
+        "slug": "the-weavers-rebellion",
+        "title": "The Weaver's Rebellion",
+        "subtitle": "A Textile Town Rises Against Exploitative Colonial Trade Policies, Led by an Unlikely Heroine",
+        "kicker": "Historical Fiction",
+        "category": ["fiction"],
+        "coverClass": "cover-sixty",
+        "coverBg": "#5b2a2f",
+        "coverFg": "#e9c9a0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ClMVEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-09-19",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=ClMVEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Weaver+s+Rebellion+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "In a town where every home has a loom, a young weaver leads her community against exploitative colonial trade.",
+        "long_description": (
+            "The Weaver's Rebellion is a historical novel by Indian author Parvind Kumar set in the textile town of Sutanagar, where every home has a loom. When colonial trading interests flood the market with machine-made cloth and force weavers to accept unfair prices, debts mount and families begin selling the looms that sustained them.\n\n"
+            "Madhavi, a young weaver who never imagined herself a leader, begins by fighting to save her father's loom — and ends up bringing the town together with fellow weaver Karim, organizer Amina and others, from small acts of solidarity to a coordinated refusal of exploitative terms. As arrests and pressure follow, she must ask how a rebellion can remain a fight for justice without becoming a quest for revenge."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: A Town of Looms", "summary": "Life in Sutanagar before the colonial trade policies take hold."},
+            {"chapter": "Chapter 2: The Machine-Made Flood", "summary": "Imported textiles, unfair prices and mounting debts."},
+            {"chapter": "Chapter 3: Madhavi's Choice", "summary": "A personal fight to save a loom becomes something larger."},
+            {"chapter": "Chapter 4: Solidarity", "summary": "Karim, Amina and the community begin to organize."},
+            {"chapter": "Chapter 5: The Authorities Take Notice", "summary": "Arrests, pressure on merchants and a town divided."},
+            {"chapter": "Chapter 6: Justice, Not Revenge", "summary": "What the rebellion must become to stay a fight for justice."}
+        ],
+        "reviews": [
+            {"quote": "A moving story about dignity and skilled labor, with a heroine you remember.", "source": "Reader Review"},
+            {"quote": "Rich in period atmosphere and quietly powerful.", "source": "Literary Review Weekly"}
+        ]
+    },
+    {
+        "slug": "learn-abacus",
+        "title": "Learn Abacus",
+        "subtitle": "A Step-by-Step Guide to Mental Math, Fast Calculation, and Number Confidence",
+        "kicker": "Children's Education",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-one",
+        "coverBg": "#c4572e",
+        "coverFg": "#fff1d6",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ABUWEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 150,
+        "publication_date": "2026-09-21",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=ABUWEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Learn+Abacus+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A beginner-friendly abacus guide — from reading beads to mental math, with a 30-Day Abacus Challenge and practice games.",
+        "long_description": (
+            "Learn Abacus is a beginner-friendly guide by Indian author Parvind Kumar that takes learners from their first introduction to the abacus to confident mental calculation, following a progressive journey: understand, practice, visualize, calculate and improve.\n\n"
+            "It covers the parts of the abacus, reading numbers with beads, place value, addition and subtraction, complements and carrying, larger numbers, multiplication and division, and visualization techniques for mental abacus. Puzzles, games, timed challenges, a 30-Day Abacus Challenge, progress tracking and a final mastery test make it useful for students, parents and teachers."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Meet the Abacus", "summary": "Parts of the abacus and how it works."},
+            {"chapter": "Chapter 2: Numbers and Place Value", "summary": "Reading and representing numbers with beads."},
+            {"chapter": "Chapter 3: Addition and Subtraction", "summary": "Step by step, with complements and carrying."},
+            {"chapter": "Chapter 4: Multiplication and Division", "summary": "Working with larger numbers."},
+            {"chapter": "Chapter 5: Mental Abacus", "summary": "Visualization techniques and building speed with accuracy."},
+            {"chapter": "Chapter 6: The 30-Day Abacus Challenge", "summary": "Practice, games, progress tracking and a final mastery test."}
+        ],
+        "reviews": [
+            {"quote": "Clear steps and good practice pages — my son finished the 30-day challenge.", "source": "Reader Review"},
+            {"quote": "A structured companion for classroom or home practice.", "source": "Parenting & Education Weekly"}
+        ]
+    },
+    {
+        "slug": "khatu-shyam",
+        "title": "Khatu Shyam",
+        "subtitle": "The Untold Story of Barbarika, the Divine Sacrifice, and the Lord Who Became the Refuge of the Defeated",
+        "kicker": "Mythology",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-two",
+        "coverBg": "#2c3e6b",
+        "coverFg": "#f2c14e",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/busVEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 200,
+        "publication_date": "2026-09-24",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=busVEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Khatu+Shyam+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The story of Barbarika, his three arrows and Sheesh Daan, and how he came to be worshipped as Khatu Shyam.",
+        "long_description": (
+            "Khatu Shyam is a mythology and devotion title by Indian author Parvind Kumar telling the story of Barbarika — the Mahabharata warrior of the three powerful arrows who was committed to keeping his word — and how he came to be worshipped as Khatu Shyam in the Kali Yuga.\n\n"
+            "The book follows his lineage and abilities, the symbolism of the Three Arrows, his promise to support the weaker side, Krishna's test at Kurukshetra and the meaning of Sheesh Daan. It also explains names such as Hare Ka Sahara, Sheesh Ke Daani and Teen Baan Dhari, and the devotional traditions of Khatu Dham, Shyam Kund and the Nishan Yatra."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Barbarika the Three-Arrow Warrior", "summary": "His lineage, childhood and legendary abilities."},
+            {"chapter": "Chapter 2: The Mystery of the Three Arrows", "summary": "Their symbolism and his promise to support the weaker side."},
+            {"chapter": "Chapter 3: Krishna's Test at Kurukshetra", "summary": "The encounter that changed Barbarika's destiny."},
+            {"chapter": "Chapter 4: Sheesh Daan", "summary": "The meaning of his sacrifice and Krishna's divine promise."},
+            {"chapter": "Chapter 5: Becoming Khatu Shyam", "summary": "Names such as Hare Ka Sahara, Sheesh Ke Daani and Teen Baan Dhari."},
+            {"chapter": "Chapter 6: Khatu Dham and Devotion", "summary": "The temple, Shyam Kund, Nishan Yatra and major traditions."}
+        ],
+        "reviews": [
+            {"quote": "Explains the story and the traditions behind it in a very accessible way.", "source": "Reader Review"},
+            {"quote": "Respectful and clear — a good introduction for first-time pilgrims.", "source": "Dharma Digest"}
+        ]
+    },
+    {
+        "slug": "gandhi",
+        "title": "Gandhi",
+        "subtitle": "The Man Who Turned Truth and Nonviolence into a Force for Change",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-three",
+        "coverBg": "#3d3a30",
+        "coverFg": "#e6d3a3",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/THUUEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 240,
+        "publication_date": "2026-09-27",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=THUUEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Gandhi+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From Porbandar and South Africa to Salt Satyagraha and Quit India — the life and ideas of Mahatma Gandhi.",
+        "long_description": (
+            "Gandhi is a biography by Indian author Parvind Kumar tracing the journey of the man behind the Mahatma — from his childhood in Porbandar and legal education in London to his transformative years in South Africa, where he developed Satyagraha as a distinctive method of resistance.\n\n"
+            "Back in India, the book follows his involvement in Champaran, Kheda and Ahmedabad, the Non-Cooperation Movement and the aftermath of Chauri Chaura, the Salt Satyagraha and Dandi March, the Round Table Conferences and the Quit India era. It also examines the ideas behind his actions: truth, nonviolence, swaraj, swadeshi, simplicity, interfaith harmony and village economics."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Porbandar and London", "summary": "Childhood, family and legal education."},
+            {"chapter": "Chapter 2: South Africa", "summary": "The years that shaped Satyagraha."},
+            {"chapter": "Chapter 3: Champaran, Kheda and Ahmedabad", "summary": "Gandhi's first campaigns in India."},
+            {"chapter": "Chapter 4: Non-Cooperation to Salt Satyagraha", "summary": "Chauri Chaura, the Dandi March and the Round Table Conferences."},
+            {"chapter": "Chapter 5: Quit India and Independence", "summary": "The final phase of the freedom struggle."},
+            {"chapter": "Chapter 6: The Ideas Behind the Man", "summary": "Truth, nonviolence, swaraj, swadeshi and self-discipline."}
+        ],
+        "reviews": [
+            {"quote": "A balanced, readable biography that focuses on his ideas as much as his campaigns.", "source": "Reader Review"},
+            {"quote": "Clear chronology with real attention to Gandhi's experiments and contradictions.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "indira-the-iron-lady-of-india",
+        "title": "Indira",
+        "subtitle": "The Iron Lady of India: Power, Politics, War, Emergency and the Woman Behind the Legend",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-four",
+        "coverBg": "#4a2535",
+        "coverFg": "#f0cfa0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/RiAaEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 240,
+        "publication_date": "2026-09-30",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=RiAaEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Indira+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life of India's first woman Prime Minister — her rise, the 1971 war, the Emergency, and the questions her legacy still raises.",
+        "long_description": (
+            "Indira is a political biography by Indian author Parvind Kumar exploring the life, leadership, achievements and controversies of Indira Gandhi — India's first woman Prime Minister, a formidable political strategist and a central figure in post-independence history. It begins with her upbringing in a household immersed in the freedom struggle and her journey from the Nehru home to the highest office.\n\n"
+            "As Prime Minister she confronted powerful rivals, reshaped the Congress Party, pursued ambitious economic policies and strengthened India's international position; the 1971 war and the emergence of Bangladesh and India's 1974 nuclear test are defining chapters. The book also examines the Emergency of 1975–1977 and the serious questions her legacy raises about democracy and the concentration of power."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Nehru Household", "summary": "Growing up amid debate, nationalism and the freedom struggle."},
+            {"chapter": "Chapter 2: The Road to Power", "summary": "Her rise within the Congress and to the office of Prime Minister."},
+            {"chapter": "Chapter 3: Rivals and the Congress Split", "summary": "Confronting powerful rivals and reshaping the party."},
+            {"chapter": "Chapter 4: War, Bangladesh and the Bomb", "summary": "The 1971 war and the 1974 nuclear test."},
+            {"chapter": "Chapter 5: The Emergency", "summary": "1975–1977 and the debate over democracy and power."},
+            {"chapter": "Chapter 6: Legacy", "summary": "What her career means for modern India."}
+        ],
+        "reviews": [
+            {"quote": "Fair to both her achievements and her failures.", "source": "Reader Review"},
+            {"quote": "A clear, absorbing account of a polarizing leader.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "godse",
+        "title": "Godse",
+        "subtitle": "The Man, the Ideology, and the Assassination of Gandhi",
+        "kicker": "History & Politics",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-five",
+        "coverBg": "#2f2f33",
+        "coverFg": "#d4b483",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/l5cZEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 210,
+        "publication_date": "2026-10-01",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=l5cZEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Godse+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life, ideology and trial of Nathuram Godse against the backdrop of Partition and the assassination of Gandhi on 30 January 1948.",
+        "long_description": (
+            "Godse is a history and political biography by Indian author Parvind Kumar examining the life, political convictions, historical circumstances and judicial proceedings surrounding Nathuram Godse, who assassinated Mahatma Gandhi in New Delhi on 30 January 1948 — one of the defining events of twentieth-century Indian history.\n\n"
+            "Set against colonial rule, independence, Partition and the violence of the birth of two nations, the book explores the early life of Godse, the ideology of Hindu nationalism and competing visions of India's future, the disagreements between Godse and Gandhi, the Partition-era backdrop, and the events and trial that followed."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Early Life of Nathuram Godse", "summary": "Background, upbringing, education and emergence as an activist."},
+            {"chapter": "Chapter 2: The Ideology Behind the Man", "summary": "Hindu nationalism, political identity and competing visions of India."},
+            {"chapter": "Chapter 3: Godse and Gandhi", "summary": "Disagreements, accusations and contrasting philosophies."},
+            {"chapter": "Chapter 4: India at Partition", "summary": "Communal violence, the refugee crisis and political tension."},
+            {"chapter": "Chapter 5: 30 January 1948", "summary": "The events leading to the assassination."},
+            {"chapter": "Chapter 6: The Trial and Its Legacy", "summary": "The judicial proceedings and their place in Indian memory."}
+        ],
+        "reviews": [
+            {"quote": "Sober and well-sourced on a very charged subject.", "source": "Reader Review"},
+            {"quote": "Explains context without turning into a polemic.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "ambedkar",
+        "title": "Ambedkar",
+        "subtitle": "The Man Who Fought for Equality and Reimagined India",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-six",
+        "coverBg": "#1f3a5f",
+        "coverFg": "#f2c94c",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OIUZEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 240,
+        "publication_date": "2026-10-02",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=OIUZEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Ambedkar+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From caste discrimination to Columbia University and the Constitution — the life and ideas of Dr. B. R. Ambedkar.",
+        "long_description": (
+            "Ambedkar is a biography by Indian author Parvind Kumar on the life of Dr. Bhimrao Ramji Ambedkar — Babasaheb — who rose from a childhood marked by caste discrimination to become a scholar, economist, jurist, political leader and social reformer, and one of the most influential figures in Indian history.\n\n"
+            "The book covers the power of education in his early years and his studies at Columbia University and in London, his campaign against untouchability and the Mahad Satyagraha, the struggle for access to public spaces, his political participation and his role in constitutional reform — a lifelong struggle for human dignity, equal rights and a society where every individual could live with respect."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Early Years and the Power of Education", "summary": "Childhood, caste-based exclusion and the drive to study."},
+            {"chapter": "Chapter 2: Columbia and London", "summary": "The intellectual journey that shaped his ideas."},
+            {"chapter": "Chapter 3: The Fight Against Caste", "summary": "Untouchability, the Mahad Satyagraha and access to public spaces."},
+            {"chapter": "Chapter 4: Politics and Public Action", "summary": "Political participation and the struggle for rights."},
+            {"chapter": "Chapter 5: Architect of the Constitution", "summary": "His role in constitutional reform."},
+            {"chapter": "Chapter 6: Legacy", "summary": "What his ideas still mean for equality in India."}
+        ],
+        "reviews": [
+            {"quote": "Inspiring and thorough — it captures both the man and the movement.", "source": "Reader Review"},
+            {"quote": "A clear introduction to Babasaheb's life and ideas.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "kalam",
+        "title": "Kalam",
+        "subtitle": "The Dreamer Who Taught India to Dream Bigger",
+        "kicker": "Biography",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-sixty-seven",
+        "coverBg": "#1d3d5c",
+        "coverFg": "#9fd8e8",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/u0sZEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-10-03",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=u0sZEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Kalam+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "From Rameswaram to Rashtrapati Bhavan — the life of Dr. A.P.J. Abdul Kalam, scientist, President and teacher.",
+        "long_description": (
+            "Kalam is an inspirational biography by Indian author Parvind Kumar on Dr. A.P.J. Abdul Kalam — the boy from a modest family in Rameswaram who became a pioneering scientist, a key figure in India's missile and space programmes, the country's 11th President and a source of inspiration for millions.\n\n"
+            "The book follows his formative years, his passion for learning and the teachers who influenced him, his work in India's scientific institutions and the lessons of setbacks, demanding projects and collaborative leadership. It also explores his vision of science serving people, his faith in young people's potential and the values of curiosity, discipline, perseverance and humility."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: A Boy from Rameswaram", "summary": "Early years, family and the love of learning."},
+            {"chapter": "Chapter 2: Teachers and Mentors", "summary": "The people who shaped his character."},
+            {"chapter": "Chapter 3: Science and Setbacks", "summary": "His work in aerospace and defence programmes."},
+            {"chapter": "Chapter 4: The People's President", "summary": "The 11th President of India."},
+            {"chapter": "Chapter 5: Teaching and Young India", "summary": "His vision for education and the potential of young people."},
+            {"chapter": "Chapter 6: Lessons from Kalam", "summary": "Curiosity, discipline, perseverance and humility."}
+        ],
+        "reviews": [
+            {"quote": "A warm, motivating read for students and parents alike.", "source": "Reader Review"},
+            {"quote": "Captures Kalam's humility along with his achievements.", "source": "Education Weekly"}
+        ]
+    },
+    {
+        "slug": "maharana-pratap",
+        "title": "Maharana Pratap",
+        "subtitle": "The Warrior Who Would Not Bow: Courage, Resistance, Sacrifice, and the Fight for Mewar",
+        "kicker": "History",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-eight",
+        "coverBg": "#7b2d26",
+        "coverFg": "#f3d27a",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/L1MZEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-10-04",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=L1MZEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Maharana+Pratap+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life of the Mewar king who resisted Mughal expansion — from Haldighati to the legend of Chetak.",
+        "long_description": (
+            "Maharana Pratap is a historical biography by Indian author Parvind Kumar on the sixteenth-century Rajput ruler of Mewar who became an enduring symbol of courage and resistance as the Mughal Empire expanded. It treats his life as a story of difficult choices, political pressure, personal sacrifice and an unwavering commitment to his kingdom's sovereignty.\n\n"
+            "From the royal world of Mewar to the Aravalli hills, the book covers his early life and heritage, the political landscape of Mewar, his relationship with Akbar, the 1576 Battle of Haldighati, the legend of his horse Chetak and his lasting place in Indian historical memory."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Early Life and Heritage", "summary": "Childhood, royal lineage and upbringing."},
+            {"chapter": "Chapter 2: The Kingdom of Mewar", "summary": "Rajput traditions and the politics of the sixteenth century."},
+            {"chapter": "Chapter 3: Maharana Pratap and Akbar", "summary": "Competing visions of sovereignty and imperial authority."},
+            {"chapter": "Chapter 4: The Battle of Haldighati", "summary": "The 1576 confrontation, its commanders and outcome."},
+            {"chapter": "Chapter 5: The Legend of Chetak", "summary": "The story of Pratap's celebrated horse."},
+            {"chapter": "Chapter 6: Legacy", "summary": "Resistance and memory in Indian history."}
+        ],
+        "reviews": [
+            {"quote": "Stirring and readable, with a good sense of the political context.", "source": "Reader Review"},
+            {"quote": "Separates history from legend without losing the drama.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "netaji-subhas-chandra-bose",
+        "title": "Netaji",
+        "subtitle": "Subhas Chandra Bose: The Revolutionary Who Challenged an Empire and Fought for India's Freedom",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-sixty-nine",
+        "coverBg": "#26362b",
+        "coverFg": "#d9c27a",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/eIUZEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 230,
+        "publication_date": "2026-10-05",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=eIUZEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Netaji+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life of Subhas Chandra Bose — from the Indian Civil Service and the Congress to the great escape and the Indian National Army.",
+        "long_description": (
+            "Netaji is a biography by Indian author Parvind Kumar on Subhas Chandra Bose, born in Cuttack in 1897, whose ideas, political choices and wartime strategy distinguished him from many of his contemporaries. It follows his early life and education, his decision to leave the Indian Civil Service, his rise in the Indian National Congress and his association with Chittaranjan Das.\n\n"
+            "The book explores his cooperation and conflict with Gandhi and other nationalist leaders, the dramatic escape from British surveillance and his dangerous international journey, and the belief that India's freedom required bold action, organised resistance and international support."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Cuttack and Cambridge", "summary": "Early life, education and the decision to leave the Civil Service."},
+            {"chapter": "Chapter 2: Rise in the Congress", "summary": "His association with Chittaranjan Das and growing conviction."},
+            {"chapter": "Chapter 3: Differences with Gandhi", "summary": "Competing visions and strategic debates in the freedom struggle."},
+            {"chapter": "Chapter 4: The Great Escape", "summary": "Evading British surveillance and the journey abroad."},
+            {"chapter": "Chapter 5: Seeking Allies for Freedom", "summary": "International support and organised resistance."},
+            {"chapter": "Chapter 6: Legacy", "summary": "How Netaji is remembered."}
+        ],
+        "reviews": [
+            {"quote": "Gripping and well-paced — the escape chapter reads like a thriller.", "source": "Reader Review"},
+            {"quote": "A fair look at Bose's choices and his disagreements with Gandhi.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "the-sex-and-body-book",
+        "title": "The Sex & Body Book",
+        "subtitle": "A Judgment-Free Guide to Understanding Your Body, Relationships, Consent, Health & Sexuality",
+        "kicker": "Health & Wellness",
+        "category": ["nonfiction", "relationships"],
+        "coverClass": "cover-seventy",
+        "coverBg": "#6b2d4a",
+        "coverFg": "#f5c6d6",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ch0aEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 200,
+        "publication_date": "2026-10-08",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=ch0aEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Sex+Body+Book+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A clear, judgment-free guide to bodies, consent, relationships and sexual health — real questions, clear science, no shame.",
+        "long_description": (
+            "The Sex & Body Book is a health and education guide by Indian author Parvind Kumar offering an approachable, judgment-free introduction to subjects everyone deserves to understand. It starts from the point that embarrassment, stigma, cultural taboos and misinformation make it hard to find trustworthy answers about sexual health.\n\n"
+            "The book covers human anatomy, puberty, reproductive health, body diversity and the changes that occur through life; menstruation, contraception, sexually transmitted infections, prevention and testing; consent and boundaries, including how to recognize pressure and manipulation; and building healthier relationships through trust, communication and mutual respect."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Understanding Your Body", "summary": "Anatomy, puberty, body diversity and change through life."},
+            {"chapter": "Chapter 2: Sexual and Reproductive Health", "summary": "Menstruation, contraception, STIs, prevention and testing."},
+            {"chapter": "Chapter 3: Consent and Boundaries", "summary": "What consent means and how to recognize pressure or manipulation."},
+            {"chapter": "Chapter 4: Healthier Relationships", "summary": "Trust, communication, attraction and mutual respect."},
+            {"chapter": "Chapter 5: Myths and Misinformation", "summary": "Separating reliable information from social-media claims."},
+            {"chapter": "Chapter 6: Getting Reliable Help", "summary": "When and how to seek trustworthy medical guidance."}
+        ],
+        "reviews": [
+            {"quote": "Clear, respectful and free of shame — exactly what I wish I'd had at that age.", "source": "Reader Review"},
+            {"quote": "A useful, accurate resource for teens, parents and adults.", "source": "Wellness Notes"}
+        ]
+    },
+    {
+        "slug": "the-road-to-ladakh",
+        "title": "The Road to Ladakh",
+        "subtitle": "A Journey from Greater Noida West to the Himalayas and Back — Roads, Mountains, Memories, and Lessons from the Journey",
+        "kicker": "Travel",
+        "category": ["nonfiction"],
+        "coverClass": "cover-seventy-one",
+        "coverBg": "#2a4a5e",
+        "coverFg": "#f0d9a8",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/VpYaEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 180,
+        "publication_date": "2026-10-09",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=VpYaEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Road+to+Ladakh+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A family road trip memoir from Greater Noida West to Leh-Ladakh via Manali — roads, mountains, memories and lessons from the journey.",
+        "long_description": (
+            "The Road to Ladakh is a travel memoir by Indian author Parvind Kumar following a family road trip from Greater Noida West to Leh-Ladakh via Manali — from the familiar plains of North India into the landscapes of the Himalayas and back home again.\n\n"
+            "The road is part of the adventure: changing scenery, mountain highways, roadside stops and moments shared in the car. The book reflects on the anticipation before departure, the conversations on the road, the value of preparation and patience, and the feeling of returning home after days somewhere different."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Beginning the Adventure", "summary": "Planning and packing for the road from Greater Noida West."},
+            {"chapter": "Chapter 2: The Road to Manali", "summary": "From the plains into the mountains."},
+            {"chapter": "Chapter 3: Into the Himalayas", "summary": "Mountain highways, landscapes and roadside stops."},
+            {"chapter": "Chapter 4: Leh-Ladakh", "summary": "Arriving in a place unlike anywhere else."},
+            {"chapter": "Chapter 5: The Journey Back", "summary": "Memories and the return home."},
+            {"chapter": "Chapter 6: Lessons from the Road", "summary": "Travel, family, preparation and patience."}
+        ],
+        "reviews": [
+            {"quote": "Warm and honest — it made me want to plan the same trip with my family.", "source": "Reader Review"},
+            {"quote": "A relatable family travelogue with practical takeaways.", "source": "Travel Notes"}
+        ]
+    },
+    {
+        "slug": "the-dark-side-of-alcohol",
+        "title": "The Dark Side of Alcohol",
+        "subtitle": "The Hidden Health Risks, Addiction, and Devastating Consequences of Drinking",
+        "kicker": "Health & Wellness",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-seventy-two",
+        "coverBg": "#3b1f23",
+        "coverFg": "#d98a5b",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aQUbEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 190,
+        "publication_date": "2026-10-11",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=aQUbEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Dark+Side+of+Alcohol+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The science behind alcohol's effects on the brain, liver, heart and sleep, its links to cancer, and how drinking can become dependence.",
+        "long_description": (
+            "The Dark Side of Alcohol is a health book by Indian author Parvind Kumar examining the science, social beliefs and personal consequences of one of the world's most widely consumed psychoactive substances. It looks at how alcohol is processed and how drinking can affect the brain, liver, heart, digestive system, sleep and overall health.\n\n"
+            "The book covers the evidence linking alcohol with several types of cancer, the psychology of drinking — habits, cravings, tolerance and dependence — common myths about beer, wine, relaxation and moderation, and the hidden cost of drinking on relationships, parenting and wider life."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Alcohol in Everyday Culture", "summary": "Why drinking is so widely accepted."},
+            {"chapter": "Chapter 2: What Alcohol Does to the Body", "summary": "The brain, liver, heart, digestion and sleep."},
+            {"chapter": "Chapter 3: Alcohol and Cancer Risk", "summary": "What the scientific evidence says."},
+            {"chapter": "Chapter 4: The Psychology of Drinking", "summary": "Habits, cravings, tolerance and dependence."},
+            {"chapter": "Chapter 5: Myths and Misconceptions", "summary": "Beer, wine, relaxation, sleep and the meaning of moderation."},
+            {"chapter": "Chapter 6: The Hidden Cost", "summary": "Effects on relationships, parenting and daily life."}
+        ],
+        "reviews": [
+            {"quote": "Factual and direct without lecturing.", "source": "Reader Review"},
+            {"quote": "A sobering, well-organized look at the evidence.", "source": "Public Health Digest"}
+        ]
     }
 ]
 
@@ -2709,7 +3338,24 @@ const coverClasses = {{
   ".cover-fifty-two": ["#1f2b3d", "#f2a900"],
   ".cover-fifty-three": ["#3d2b1f", "#d9b48f"],
   ".cover-fifty-four": ["#7a2e1e", "#f0c987"],
-  ".cover-fifty-five": ["#24405c", "#cfe0e8"]
+  ".cover-fifty-five": ["#24405c", "#cfe0e8"],
+  ".cover-fifty-six": ["#7a3b1a", "#f0c36d"],
+  ".cover-fifty-seven": ["#27463a", "#c7e3a1"],
+  ".cover-fifty-eight": ["#5a3a1c", "#e7c680"],
+  ".cover-fifty-nine": ["#1f4d3a", "#f5d76e"],
+  ".cover-sixty": ["#5b2a2f", "#e9c9a0"],
+  ".cover-sixty-one": ["#c4572e", "#fff1d6"],
+  ".cover-sixty-two": ["#2c3e6b", "#f2c14e"],
+  ".cover-sixty-three": ["#3d3a30", "#e6d3a3"],
+  ".cover-sixty-four": ["#4a2535", "#f0cfa0"],
+  ".cover-sixty-five": ["#2f2f33", "#d4b483"],
+  ".cover-sixty-six": ["#1f3a5f", "#f2c94c"],
+  ".cover-sixty-seven": ["#1d3d5c", "#9fd8e8"],
+  ".cover-sixty-eight": ["#7b2d26", "#f3d27a"],
+  ".cover-sixty-nine": ["#26362b", "#d9c27a"],
+  ".cover-seventy": ["#6b2d4a", "#f5c6d6"],
+  ".cover-seventy-one": ["#2a4a5e", "#f0d9a8"],
+  ".cover-seventy-two": ["#3b1f23", "#d98a5b"]
 }};
 
 const style = document.createElement("style");

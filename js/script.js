@@ -811,6 +811,250 @@ const books = [
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/tIAREgAAQBAJ?fife=w800",
     "coverAlt": "The Nirankari Way by Parvind Kumar \u2014 book cover",
     "unavailable": false
+  },
+  {
+    "slug": "101-stories-from-ramayana",
+    "title": "101 Stories from Ramayana",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "MYTHOLOGY",
+    "description": "101 episodes from the Ramayana \u2014 from Ayodhya and exile to Hanuman's leap and the confrontation with Ravana \u2014 and the dharma they still teach.",
+    "amazon": "",
+    "coverClass": "cover-fifty-six",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OQYbEgAAQBAJ?fife=w800",
+    "coverAlt": "101 Stories from Ramayana by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-gut-mind-connection",
+    "title": "The Gut-Mind Connection",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "HEALTH & WELLNESS",
+    "description": "A science-informed guide to how the gut and brain communicate \u2014 separating what's established from what's promising and what's oversold.",
+    "amazon": "",
+    "coverClass": "cover-fifty-seven",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/IPkUEgAAQBAJ?fife=w800",
+    "coverAlt": "The Gut-Mind Connection by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "chanakya-neeti",
+    "title": "Chanakya Neeti",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "SELF-HELP",
+    "description": "Principles traditionally associated with Chanakya, applied to modern life, leadership, money, relationships and the digital age.",
+    "amazon": "",
+    "coverClass": "cover-fifty-eight",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/_FEVEgAAQBAJ?fife=w800",
+    "coverAlt": "Chanakya Neeti by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "how-to-start-a-business-without-any-money",
+    "title": "How to Start a Business Without Any Money",
+    "category": [
+      "business",
+      "nonfiction"
+    ],
+    "kicker": "BUSINESS",
+    "description": "A practical guide to starting a business with little or no capital \u2014 50+ ideas, one-page business plans, and ways to find your first customer.",
+    "amazon": "",
+    "coverClass": "cover-fifty-nine",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/l-AUEgAAQBAJ?fife=w800",
+    "coverAlt": "How to Start a Business Without Any Money by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-weavers-rebellion",
+    "title": "The Weaver's Rebellion",
+    "category": [
+      "fiction"
+    ],
+    "kicker": "HISTORICAL FICTION",
+    "description": "In a town where every home has a loom, a young weaver leads her community against exploitative colonial trade.",
+    "amazon": "",
+    "coverClass": "cover-sixty",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ClMVEgAAQBAJ?fife=w800",
+    "coverAlt": "The Weaver's Rebellion by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "learn-abacus",
+    "title": "Learn Abacus",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "CHILDREN'S EDUCATION",
+    "description": "A beginner-friendly abacus guide \u2014 from reading beads to mental math, with a 30-Day Abacus Challenge and practice games.",
+    "amazon": "",
+    "coverClass": "cover-sixty-one",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ABUWEgAAQBAJ?fife=w800",
+    "coverAlt": "Learn Abacus by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "khatu-shyam",
+    "title": "Khatu Shyam",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "MYTHOLOGY",
+    "description": "The story of Barbarika, his three arrows and Sheesh Daan, and how he came to be worshipped as Khatu Shyam.",
+    "amazon": "",
+    "coverClass": "cover-sixty-two",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/busVEgAAQBAJ?fife=w800",
+    "coverAlt": "Khatu Shyam by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "gandhi",
+    "title": "Gandhi",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "From Porbandar and South Africa to Salt Satyagraha and Quit India \u2014 the life and ideas of Mahatma Gandhi.",
+    "amazon": "",
+    "coverClass": "cover-sixty-three",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/THUUEgAAQBAJ?fife=w800",
+    "coverAlt": "Gandhi by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "indira-the-iron-lady-of-india",
+    "title": "Indira",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "The life of India's first woman Prime Minister \u2014 her rise, the 1971 war, the Emergency, and the questions her legacy still raises.",
+    "amazon": "",
+    "coverClass": "cover-sixty-four",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/RiAaEgAAQBAJ?fife=w800",
+    "coverAlt": "Indira by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "godse",
+    "title": "Godse",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "HISTORY & POLITICS",
+    "description": "The life, ideology and trial of Nathuram Godse against the backdrop of Partition and the assassination of Gandhi on 30 January 1948.",
+    "amazon": "",
+    "coverClass": "cover-sixty-five",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/l5cZEgAAQBAJ?fife=w800",
+    "coverAlt": "Godse by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "ambedkar",
+    "title": "Ambedkar",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "From caste discrimination to Columbia University and the Constitution \u2014 the life and ideas of Dr. B. R. Ambedkar.",
+    "amazon": "",
+    "coverClass": "cover-sixty-six",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OIUZEgAAQBAJ?fife=w800",
+    "coverAlt": "Ambedkar by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "kalam",
+    "title": "Kalam",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "From Rameswaram to Rashtrapati Bhavan \u2014 the life of Dr. A.P.J. Abdul Kalam, scientist, President and teacher.",
+    "amazon": "",
+    "coverClass": "cover-sixty-seven",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/u0sZEgAAQBAJ?fife=w800",
+    "coverAlt": "Kalam by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "maharana-pratap",
+    "title": "Maharana Pratap",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "HISTORY",
+    "description": "The life of the Mewar king who resisted Mughal expansion \u2014 from Haldighati to the legend of Chetak.",
+    "amazon": "",
+    "coverClass": "cover-sixty-eight",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/L1MZEgAAQBAJ?fife=w800",
+    "coverAlt": "Maharana Pratap by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "netaji-subhas-chandra-bose",
+    "title": "Netaji",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "The life of Subhas Chandra Bose \u2014 from the Indian Civil Service and the Congress to the great escape and the Indian National Army.",
+    "amazon": "",
+    "coverClass": "cover-sixty-nine",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/eIUZEgAAQBAJ?fife=w800",
+    "coverAlt": "Netaji by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-sex-and-body-book",
+    "title": "The Sex & Body Book",
+    "category": [
+      "nonfiction",
+      "relationships"
+    ],
+    "kicker": "HEALTH & WELLNESS",
+    "description": "A clear, judgment-free guide to bodies, consent, relationships and sexual health \u2014 real questions, clear science, no shame.",
+    "amazon": "",
+    "coverClass": "cover-seventy",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/ch0aEgAAQBAJ?fife=w800",
+    "coverAlt": "The Sex & Body Book by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-road-to-ladakh",
+    "title": "The Road to Ladakh",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "TRAVEL",
+    "description": "A family road trip memoir from Greater Noida West to Leh-Ladakh via Manali \u2014 roads, mountains, memories and lessons from the journey.",
+    "amazon": "",
+    "coverClass": "cover-seventy-one",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/VpYaEgAAQBAJ?fife=w800",
+    "coverAlt": "The Road to Ladakh by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-dark-side-of-alcohol",
+    "title": "The Dark Side of Alcohol",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "HEALTH & WELLNESS",
+    "description": "The science behind alcohol's effects on the brain, liver, heart and sleep, its links to cancer, and how drinking can become dependence.",
+    "amazon": "",
+    "coverClass": "cover-seventy-two",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aQUbEgAAQBAJ?fife=w800",
+    "coverAlt": "The Dark Side of Alcohol by Parvind Kumar \u2014 book cover",
+    "unavailable": false
   }
 ];
 
@@ -948,7 +1192,24 @@ const coverClasses = {
   ".cover-fifty-two": ["#1f2b3d", "#f2a900"],
   ".cover-fifty-three": ["#3d2b1f", "#d9b48f"],
   ".cover-fifty-four": ["#7a2e1e", "#f0c987"],
-  ".cover-fifty-five": ["#24405c", "#cfe0e8"]
+  ".cover-fifty-five": ["#24405c", "#cfe0e8"],
+  ".cover-fifty-six": ["#7a3b1a", "#f0c36d"],
+  ".cover-fifty-seven": ["#27463a", "#c7e3a1"],
+  ".cover-fifty-eight": ["#5a3a1c", "#e7c680"],
+  ".cover-fifty-nine": ["#1f4d3a", "#f5d76e"],
+  ".cover-sixty": ["#5b2a2f", "#e9c9a0"],
+  ".cover-sixty-one": ["#c4572e", "#fff1d6"],
+  ".cover-sixty-two": ["#2c3e6b", "#f2c14e"],
+  ".cover-sixty-three": ["#3d3a30", "#e6d3a3"],
+  ".cover-sixty-four": ["#4a2535", "#f0cfa0"],
+  ".cover-sixty-five": ["#2f2f33", "#d4b483"],
+  ".cover-sixty-six": ["#1f3a5f", "#f2c94c"],
+  ".cover-sixty-seven": ["#1d3d5c", "#9fd8e8"],
+  ".cover-sixty-eight": ["#7b2d26", "#f3d27a"],
+  ".cover-sixty-nine": ["#26362b", "#d9c27a"],
+  ".cover-seventy": ["#6b2d4a", "#f5c6d6"],
+  ".cover-seventy-one": ["#2a4a5e", "#f0d9a8"],
+  ".cover-seventy-two": ["#3b1f23", "#d98a5b"]
 };
 
 const style = document.createElement("style");

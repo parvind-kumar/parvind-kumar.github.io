@@ -65,6 +65,23 @@ EXTRA_KEYWORDS = {
     "micchami-dukkadam": ["Micchami Dukkadam meaning", "forgiveness book", "self forgiveness", "Jain forgiveness", "letting go of resentment"],
     "aniruddhacharya-ji-maharaj": ["Aniruddhacharya Ji Maharaj", "Bhagwat Katha", "Annapurna Rasoi", "Vrindavan katha vachak", "spiritual leader biography"],
     "the-nirankari-way": ["Sant Nirankari Mission", "Nirankari philosophy", "Brahm Gyan", "Satsang Sewa Simran", "oneness and universal brotherhood"],
+    "101-stories-from-ramayana": ["Ramayana stories", "Rama and Sita stories", "Ramayana for beginners", "Hanuman and Ravana", "Hindu epic stories"],
+    "the-gut-mind-connection": ["gut-brain axis", "gut health and mood", "probiotics explained", "microbiome and mental health", "30 day gut reset"],
+    "chanakya-neeti": ["Chanakya Niti", "Chanakya quotes", "Kautilya Arthashastra", "Chanakya leadership lessons", "ancient Indian strategy"],
+    "how-to-start-a-business-without-any-money": ["start a business with no money", "zero investment business ideas", "one page business plan", "online business ideas", "find first customer"],
+    "the-weavers-rebellion": ["colonial India novel", "weavers rebellion historical fiction", "Indian textile history", "women leadership novel"],
+    "learn-abacus": ["abacus for beginners", "mental math", "abacus workbook", "fast calculation", "abacus 30 day challenge"],
+    "khatu-shyam": ["Khatu Shyam ji", "Barbarika story", "Teen Baan Dhari", "Khatu Shyam temple Rajasthan", "Sheesh Ke Daani"],
+    "gandhi": ["Mahatma Gandhi biography", "Gandhi life story", "Satyagraha", "Salt March", "Gandhi nonviolence"],
+    "indira-the-iron-lady-of-india": ["Indira Gandhi biography", "Emergency 1975", "1971 war Bangladesh", "India first woman Prime Minister"],
+    "godse": ["Nathuram Godse", "Gandhi assassination", "30 January 1948", "Godse trial"],
+    "ambedkar": ["B R Ambedkar biography", "Babasaheb Ambedkar", "Indian Constitution architect", "Mahad Satyagraha", "caste and equality"],
+    "kalam": ["APJ Abdul Kalam biography", "Missile Man of India", "Kalam life lessons", "Rameswaram to President"],
+    "maharana-pratap": ["Maharana Pratap biography", "Battle of Haldighati", "Mewar history", "Chetak horse", "Rajput history"],
+    "netaji-subhas-chandra-bose": ["Subhas Chandra Bose biography", "Netaji", "Indian National Army", "Bose great escape", "Indian freedom struggle"],
+    "the-sex-and-body-book": ["sex education book", "consent and boundaries", "sexual health guide", "puberty and reproductive health", "healthy relationships"],
+    "the-road-to-ladakh": ["Ladakh road trip", "Manali Leh highway", "family road trip India", "Leh Ladakh travelogue", "Greater Noida to Ladakh"],
+    "the-dark-side-of-alcohol": ["alcohol health risks", "alcohol and cancer", "alcohol addiction", "quit drinking book", "effects of alcohol on the body"],
 }
 
 KICKER_KEYWORDS = {
@@ -93,4 +110,7 @@ KICKER_KEYWORDS = {
     "Mindfulness": ["mindfulness book"],
     "Marriage & Divorce Guide": ["marriage and divorce guide Hindi"],
     "Relationships": ["relationship advice book India"],
+    "Historical Fiction": ["historical fiction India", "colonial India novel"],
+    "History & Politics": ["Indian political history", "modern India history"],
+    "Travel": ["travel memoir India", "road trip book"],
 }
