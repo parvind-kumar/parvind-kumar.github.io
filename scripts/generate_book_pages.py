@@ -2760,6 +2760,450 @@ BOOKS = [
             {"quote": "Factual and direct without lecturing.", "source": "Reader Review"},
             {"quote": "A sobering, well-organized look at the evidence.", "source": "Public Health Digest"}
         ]
+    },
+    {
+        "slug": "feng-shui-for-everyday-life",
+        "title": "Feng Shui for Everyday Life",
+        "subtitle": "Simple Ways to Create Balance, Positive Energy, and Harmony in Your Home and Life",
+        "kicker": "Lifestyle",
+        "category": ["nonfiction", "mind"],
+        "coverClass": "cover-seventy-three",
+        "coverBg": "#2e4a3a",
+        "coverFg": "#e8d9a5",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/vC0cEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 160,
+        "publication_date": "2026-09-22",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=vC0cEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Feng+Shui+for+Everyday+Life+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A beginner-friendly introduction to Feng Shui — Qi, the five elements, the Bagua map and practical ideas for every room.",
+        "long_description": (
+            "Feng Shui for Everyday Life is an accessible introduction by Indian author Parvind Kumar to the ancient Chinese practice of arranging spaces and the relationship between people and their surroundings. It assumes no prior knowledge, expensive decorations or complete home makeover.\n\n"
+            "The book explains the history and philosophy of Feng Shui, the concept of Qi, Yin and Yang and the five elements (Wood, Fire, Earth, Metal and Water), then shows how the Bagua map is used to read a space. It offers practical ideas for the entrance, living room, bedroom, kitchen, bathroom, dining area and home office, for small spaces and rentals, and for decluttering — while distinguishing cultural belief from guaranteed outcomes."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Foundations of Feng Shui", "summary": "History, philosophy, Qi, Yin and Yang."},
+            {"chapter": "Chapter 2: The Five Elements", "summary": "Wood, Fire, Earth, Metal and Water, and what each represents."},
+            {"chapter": "Chapter 3: The Bagua Map", "summary": "Reading the areas of a home or workspace and their symbolic associations."},
+            {"chapter": "Chapter 4: Room by Room", "summary": "Entrance, living room, bedroom, kitchen, bathroom, dining area and home office."},
+            {"chapter": "Chapter 5: Small Spaces and Rentals", "summary": "Working with the furniture, light and storage you already have."},
+            {"chapter": "Chapter 6: Everyday Habits", "summary": "Decluttering, natural elements and intentional design choices."}
+        ],
+        "reviews": [
+            {"quote": "Easy to follow and refreshingly honest about what is tradition and what is promise.", "source": "Reader Review"},
+            {"quote": "A practical starting point for anyone curious about Feng Shui.", "source": "Mindful Living Magazine"}
+        ]
+    },
+    {
+        "slug": "panja-sahib",
+        "title": "Panja Sahib",
+        "subtitle": "The Sacred Handprint of Guru Nanak and the Story of Faith, Service, Courage, and Sacrifice",
+        "kicker": "Sikh History & Faith",
+        "category": ["nonfiction"],
+        "coverClass": "cover-seventy-four",
+        "coverBg": "#1f3b5c",
+        "coverFg": "#f0c24b",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/hhAdEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 180,
+        "publication_date": "2026-09-23",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=hhAdEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Panja+Sahib+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The story of Gurdwara Panja Sahib at Hasan Abdal — Guru Nanak's visit, the sacred handprint, and the courage of Saka Panja Sahib in 1922.",
+        "long_description": (
+            "Panja Sahib is a history and faith title by Indian author Parvind Kumar on one of the most significant Sikh pilgrimage sites, located in Hasan Abdal, Pakistan. It retells the traditional account of Guru Nanak's visit with Bhai Mardana and Wali Qandhari — a spring, a stone bearing the impression of a hand and a lesson in humility.\n\n"
+            "The book also traces the historical development of the gurdwara, the Gurdwara Reform Movement of the early twentieth century, and Saka Panja Sahib — the 1922 railway episode remembered for the courage and sacrifice of Bhai Karam Singh and Bhai Partap Singh. It reflects on seva, equality and compassion and on why Panja Sahib remains important to Sikh communities across borders."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Guru Nanak at Hasan Abdal", "summary": "The traditional narrative of the visit."},
+            {"chapter": "Chapter 2: The Sacred Handprint", "summary": "The spiritual significance of the Panja in Sikh devotion."},
+            {"chapter": "Chapter 3: Bhai Mardana and Wali Qandhari", "summary": "Companionship, humility and transformation."},
+            {"chapter": "Chapter 4: The History of the Gurdwara", "summary": "Development and importance of the sacred site."},
+            {"chapter": "Chapter 5: Reform and Saka Panja Sahib", "summary": "The Gurdwara Reform Movement and the events of 1922."},
+            {"chapter": "Chapter 6: Seva and Heritage", "summary": "Selfless service, equality and Sikh heritage across borders."}
+        ],
+        "reviews": [
+            {"quote": "Respectful and moving — the chapter on Saka Panja Sahib stayed with me.", "source": "Reader Review"},
+            {"quote": "A clear account of the story, the history and the values behind it.", "source": "Faith & Culture Review"}
+        ]
+    },
+    {
+        "slug": "the-iron-man-of-india",
+        "title": "The Iron Man of India",
+        "subtitle": "Sardar Vallabhbhai Patel, the Man Who United a Nation",
+        "kicker": "Biography",
+        "category": ["nonfiction"],
+        "coverClass": "cover-seventy-five",
+        "coverBg": "#2b3a4a",
+        "coverFg": "#e2b858",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/PtEdEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 230,
+        "publication_date": "2026-09-29",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=PtEdEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Iron+Man+of+India+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life of Sardar Vallabhbhai Patel — from the Kheda and Bardoli movements to the integration of India's princely states.",
+        "long_description": (
+            "The Iron Man of India is a biography by Indian author Parvind Kumar on Sardar Vallabhbhai Patel, who combined determination, practical judgment and organizational skill to become one of the most consequential leaders of independent India. Born in Gujarat in 1875, he began as a lawyer before entering public life through his association with Mahatma Gandhi.\n\n"
+            "The book covers the Kheda and Bardoli movements, which showed his ability to mobilize ordinary people and earned him the title of Sardar, and his role as India's first Deputy Prime Minister and Home Minister in integrating the princely states — including Junagadh and Hyderabad — working with V. P. Menon and others. It also looks at his relationships with Gandhi and Nehru and his commitment to administrative stability."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: From Gujarat to the Bar", "summary": "Early life and career as a lawyer."},
+            {"chapter": "Chapter 2: Gandhi and the Freedom Movement", "summary": "How public life transformed him into a national organizer."},
+            {"chapter": "Chapter 3: Kheda and Bardoli", "summary": "The movements that earned him the title of Sardar."},
+            {"chapter": "Chapter 4: Independence and Partition", "summary": "The challenges facing the new nation in 1947."},
+            {"chapter": "Chapter 5: Integrating the Princely States", "summary": "Junagadh, Hyderabad and the work with V. P. Menon."},
+            {"chapter": "Chapter 6: Leadership and Legacy", "summary": "Patel's relationships with Gandhi and Nehru and his place in modern India."}
+        ],
+        "reviews": [
+            {"quote": "A clear, readable biography that explains the decisions behind the slogans.", "source": "Reader Review"},
+            {"quote": "Balanced and well paced, especially on 1947 and the princely states.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "the-truth-about-osho",
+        "title": "The Truth About Osho",
+        "subtitle": "His Teachings on Meditation, Love, Freedom, Sex, and the Search for Enlightenment",
+        "kicker": "Spirituality",
+        "category": ["nonfiction"],
+        "coverClass": "cover-seventy-six",
+        "coverBg": "#4a2a1f",
+        "coverFg": "#e8b866",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/mDAcEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 220,
+        "publication_date": "2026-10-13",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=mDAcEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Truth+About+Osho+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "Osho's philosophy of meditation, love and freedom alongside the controversies of his movement — a critical, independent look.",
+        "long_description": (
+            "The Truth About Osho is a critical study by Indian author Parvind Kumar of Osho, formerly Bhagwan Shree Rajneesh, one of the most debated spiritual figures of modern times. It examines both his provocative teachings — on meditation, awareness, love, personal freedom and the search for meaning — and the controversies surrounding his movement.\n\n"
+            "The book covers his challenges to organized religion and social conditioning, witnessing and Dynamic Meditation, his views on love, sex, jealousy and attachment, the idea of Zorba the Buddha, the rise of the international movement and Rajneeshpuram in Oregon, and the criminal proceedings and serious questions raised about spiritual authority, wealth and loyalty. It invites readers to avoid both blind belief and blind rejection."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Who Was Osho?", "summary": "From Rajneesh to Osho."},
+            {"chapter": "Chapter 2: The Philosophy", "summary": "Challenges to organized religion and conditioning."},
+            {"chapter": "Chapter 3: Meditation and Awareness", "summary": "Witnessing and Dynamic Meditation."},
+            {"chapter": "Chapter 4: Love, Sex and Freedom", "summary": "Intimacy, desire, jealousy and attachment."},
+            {"chapter": "Chapter 5: The Movement and Rajneeshpuram", "summary": "The rise of the international following and the controversies."},
+            {"chapter": "Chapter 6: Thinking Independently", "summary": "Which teachings endure and which claims deserve scrutiny."}
+        ],
+        "reviews": [
+            {"quote": "Fair to the ideas and honest about the controversies.", "source": "Reader Review"},
+            {"quote": "Refreshingly neither worshipful nor dismissive.", "source": "Culture & Faith Review"}
+        ]
+    },
+    {
+        "slug": "vaginoplasty",
+        "title": "Vaginoplasty",
+        "subtitle": "The Complete Guide to Vaginal Surgery, Reconstruction, Gender-Affirming Care, Recovery, Risks, and Informed Decisions",
+        "kicker": "Health & Wellness",
+        "category": ["nonfiction"],
+        "coverClass": "cover-seventy-seven",
+        "coverBg": "#5a2f4a",
+        "coverFg": "#f1c9d8",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/FpMbEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 190,
+        "publication_date": "2026-10-14",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=FpMbEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Vaginoplasty+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A reader-friendly guide to vaginoplasty — terminology, surgical approaches, preparation, recovery, risks and informed decisions.",
+        "long_description": (
+            "Vaginoplasty is an informational health guide by Indian author Parvind Kumar for adults researching vaginal reconstruction or gender-affirming surgery, or preparing for a consultation with a specialist. It explains the terminology and anatomy, why these procedures are performed and how reconstructive and gender-affirming approaches differ.\n\n"
+            "The book covers medical assessment and informed consent, choosing a qualified surgeon, what to expect during the surgical journey, recovery and aftercare, potential risks and complications, sexual health and emotional well-being, and the questions to prepare for a surgeon. It is intended to support — not replace — advice from qualified healthcare professionals."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Understanding Vaginoplasty", "summary": "Terminology, anatomy and why procedures are performed."},
+            {"chapter": "Chapter 2: Surgical Options", "summary": "Reconstructive and gender-affirming approaches."},
+            {"chapter": "Chapter 3: Preparing for Surgery", "summary": "Assessments, informed consent and choosing a surgeon."},
+            {"chapter": "Chapter 4: The Surgical Journey", "summary": "Hospital care, monitoring and discharge planning."},
+            {"chapter": "Chapter 5: Recovery and Risks", "summary": "Aftercare, possible complications and realistic expectations."},
+            {"chapter": "Chapter 6: Long-Term Care", "summary": "Sexual health, emotional well-being and informed decisions."}
+        ],
+        "reviews": [
+            {"quote": "Clear, careful and non-judgmental on a subject that is hard to research.", "source": "Reader Review"},
+            {"quote": "Helped me prepare better questions for my consultation.", "source": "Wellness Notes"}
+        ]
+    },
+    {
+        "slug": "the-complete-spoken-english-handbook",
+        "title": "The Complete Spoken English Handbook",
+        "subtitle": "500 Essential Words, 500 Everyday Sentences, Real-Life Conversations, Pronunciation, Business English, Travel English, and a 90-Day Fluency Challenge",
+        "kicker": "Language Learning",
+        "category": ["nonfiction"],
+        "coverClass": "cover-seventy-eight",
+        "coverBg": "#26456b",
+        "coverFg": "#ffd36b",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/hDEcEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-08-02",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=hDEcEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Complete+Spoken+English+Handbook+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "500 words with Hindi meanings, 500 everyday sentences, dialogues, pronunciation, interview and business English, and a 90-day fluency challenge.",
+        "long_description": (
+            "The Complete Spoken English Handbook is a practical resource by Indian author Parvind Kumar for learners who understand English but hesitate when speaking. It combines useful vocabulary, everyday sentences, realistic conversations, pronunciation practice and structured daily learning for beginners, students, job seekers and working professionals.\n\n"
+            "Inside are 500 essential words with Hindi meanings and example sentences, 500 everyday sentences, 100 conversation starters, 50 real-life dialogues, 100 tongue twisters and a pronunciation guide to commonly mispronounced words. Further sections cover job-interview English, business English, email and WhatsApp English, English for travel and public speaking, along with a 90-day fluency challenge."
+        ),
+        "table_of_contents": [
+            {"chapter": "Part 1: 500 Essential Words", "summary": "Vocabulary with Hindi meanings and example sentences."},
+            {"chapter": "Part 2: 500 Everyday Sentences", "summary": "Daily life, family, shopping, work and travel."},
+            {"chapter": "Part 3: Conversations and Dialogues", "summary": "100 conversation starters and 50 real-life dialogues."},
+            {"chapter": "Part 4: Pronunciation", "summary": "Tongue twisters and commonly mispronounced words."},
+            {"chapter": "Part 5: English for Work and Travel", "summary": "Interviews, business English, emails, WhatsApp and travel."},
+            {"chapter": "Part 6: The 90-Day Fluency Challenge", "summary": "A framework for daily vocabulary, listening, reading and speaking practice."}
+        ],
+        "reviews": [
+            {"quote": "Simple, useful and full of everyday sentences I can use immediately.", "source": "Reader Review"},
+            {"quote": "The Hindi meanings make it easy to learn independently.", "source": "Education Weekly"}
+        ]
+    },
+    {
+        "slug": "how-china-became-a-superpower",
+        "title": "How China Became a Superpower",
+        "subtitle": "From Poverty to Global Dominance: The Rise of an Economic Giant, Technological Power, and Challenger to America",
+        "kicker": "World Affairs",
+        "category": ["nonfiction", "business"],
+        "coverClass": "cover-seventy-nine",
+        "coverBg": "#6b1f1f",
+        "coverFg": "#f0c75e",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/BlohEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 240,
+        "publication_date": "2026-10-17",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=BlohEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=How+China+Became+a+Superpower+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "China's rise from poverty and upheaval to economic and technological power — and the hidden costs and the contest with America.",
+        "long_description": (
+            "How China Became a Superpower is a history and international-affairs book by Indian author Parvind Kumar exploring how a country marked by poverty, upheaval and political turmoil became a global manufacturing giant, technological competitor and major force in world affairs. It covers the historical decline and national rebuilding, the Communist revolution, the Mao era and the turning point of reform in 1978.\n\n"
+            "The book explains the economic miracle — market mechanisms under Communist Party rule, special economic zones, foreign investment and manufacturing — the rise of industry, infrastructure and technology, and China's growing global influence through the Belt and Road Initiative and military modernisation. It also examines the hidden costs of growth and the competition between China and the United States, including what it means for India."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: From Decline to Rebuilding", "summary": "Foreign intervention, revolution and the Mao era."},
+            {"chapter": "Chapter 2: The 1978 Turning Point", "summary": "Reform and the beginning of China's economic transformation."},
+            {"chapter": "Chapter 3: The Economic Miracle", "summary": "Special economic zones, foreign investment and manufacturing."},
+            {"chapter": "Chapter 4: Industry and Technology", "summary": "Infrastructure, talent and the move into advanced industries."},
+            {"chapter": "Chapter 5: Global Influence", "summary": "The Belt and Road Initiative, military modernisation and Taiwan."},
+            {"chapter": "Chapter 6: Costs and the Contest with America", "summary": "Pollution, debt, ageing, political controls and US–China competition."}
+        ],
+        "reviews": [
+            {"quote": "Clear, balanced and useful context for readers in India.", "source": "Reader Review"},
+            {"quote": "Covers the achievements and the hidden costs in equal measure.", "source": "Business Playbook Review"}
+        ]
+    },
+    {
+        "slug": "fundamentals-of-physics-for-upsc",
+        "title": "Fundamentals of Physics for UPSC",
+        "subtitle": "A Complete Beginner's Guide to Mechanics, Heat, Light, Sound, Electricity, Magnetism and Modern Physics",
+        "kicker": "UPSC Preparation",
+        "category": ["nonfiction"],
+        "coverClass": "cover-eighty",
+        "coverBg": "#1c3557",
+        "coverFg": "#9fd3f2",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OfIgEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-10-18",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=OfIgEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Fundamentals+of+Physics+for+UPSC+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A beginner-friendly physics foundation for UPSC and competitive exams — mechanics, heat, waves, light, electricity and modern physics.",
+        "long_description": (
+            "Fundamentals of Physics for UPSC is a beginner's guide by Indian author Parvind Kumar designed to help Civil Services aspirants and other competitive-exam candidates build a strong foundation in basic physics. It introduces concepts step by step in accessible language, even for readers who have not studied physics in depth.\n\n"
+            "The book covers physical quantities and units, mechanics (motion, Newton's laws, gravity, work, power and energy), heat and thermodynamics, waves and sound, light and optics, electricity and magnetism, atomic, nuclear and modern physics, and physics in everyday life and technology. It emphasizes concept-focused learning, real-world applications and concise revision summaries."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Fundamentals of Physics", "summary": "Physical quantities, units, measurement, matter, density and pressure."},
+            {"chapter": "Chapter 2: Mechanics", "summary": "Motion, force, Newton's laws, gravity, work, power and energy."},
+            {"chapter": "Chapter 3: Heat and Thermodynamics", "summary": "Temperature, heat transfer and the basic laws of thermodynamics."},
+            {"chapter": "Chapter 4: Waves and Sound", "summary": "Frequency, amplitude, echoes and ultrasound."},
+            {"chapter": "Chapter 5: Light, Electricity and Magnetism", "summary": "Optics, circuits, electromagnetism, motors and transformers."},
+            {"chapter": "Chapter 6: Modern Physics and Technology", "summary": "Atomic and nuclear physics, lasers, semiconductors and space."}
+        ],
+        "reviews": [
+            {"quote": "Clear explanations that build from the basics — good for revision.", "source": "Reader Review"},
+            {"quote": "Well suited to humanities students starting General Science from scratch.", "source": "Education Weekly"}
+        ]
+    },
+    {
+        "slug": "fundamentals-of-chemistry-for-upsc",
+        "title": "Fundamentals of Chemistry for UPSC",
+        "subtitle": "A Complete Beginner's Guide to Chemical Principles, Everyday Science, Environment, and UPSC Prelims & Mains",
+        "kicker": "UPSC Preparation",
+        "category": ["nonfiction"],
+        "coverClass": "cover-eighty-one",
+        "coverBg": "#2a3f5f",
+        "coverFg": "#b9e3a0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/GfsgEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 260,
+        "publication_date": "2026-10-19",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=GfsgEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Fundamentals+of+Chemistry+for+UPSC+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A beginner's chemistry guide for UPSC — atoms and reactions to everyday chemistry and the environment, with practice questions in every chapter.",
+        "long_description": (
+            "Fundamentals of Chemistry for UPSC is a beginner-friendly guide by Indian author Parvind Kumar that explains how matter behaves, how chemical reactions occur and how chemistry connects with everyday life, industry, energy, agriculture and the environment. It suits readers from both science and humanities backgrounds.\n\n"
+            "Chapters cover atoms, molecules and the periodic table; chemical reactions and equations; acids, bases, salts and solutions; metals, non-metals and alloys; carbon, organic chemistry and fuels; chemistry in everyday life; and environmental chemistry. Each chapter includes UPSC Exam Focus and India Link sections, key terms, quick-revision boxes and Prelims-style practice questions with explanations."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Atoms, Molecules and the Periodic Table", "summary": "Atomic structure, bonding and the periodic table."},
+            {"chapter": "Chapter 2: Chemical Reactions and Equations", "summary": "How substances change and how reactions are represented."},
+            {"chapter": "Chapter 3: Acids, Bases, Salts and Solutions", "summary": "pH, neutralisation and relevance to soil, water and medicine."},
+            {"chapter": "Chapter 4: Metals, Non-metals and Alloys", "summary": "Reactivity, corrosion and sustainable use of metals."},
+            {"chapter": "Chapter 5: Carbon, Organic Chemistry and Fuels", "summary": "Hydrocarbons, petroleum, LPG, CNG, ethanol and hydrogen."},
+            {"chapter": "Chapter 6: Everyday and Environmental Chemistry", "summary": "Soaps, medicines, polymers, fertilisers, pollution and green chemistry."}
+        ],
+        "reviews": [
+            {"quote": "The India Link and Quick Revision boxes make this very exam-friendly.", "source": "Reader Review"},
+            {"quote": "Beginner-friendly without being shallow.", "source": "Education Weekly"}
+        ]
+    },
+    {
+        "slug": "savarkar",
+        "title": "Savarkar",
+        "subtitle": "The Revolutionary, the Ideologue, and the Controversial Legacy of Modern India",
+        "kicker": "History & Politics",
+        "category": ["nonfiction"],
+        "coverClass": "cover-eighty-two",
+        "coverBg": "#3a3226",
+        "coverFg": "#e1b46a",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/9G4iEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 230,
+        "publication_date": "2026-10-20",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=9G4iEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Savarkar+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The life and ideas of Vinayak Damodar Savarkar — revolutionary, Hindutva ideologue and one of modern India's most debated figures.",
+        "long_description": (
+            "Savarkar is a biography by Indian author Parvind Kumar on Vinayak Damodar Savarkar, a revolutionary nationalist, prolific writer and central figure in debates over Hindutva whose legacy continues to divide opinion. Born in 1883 in Bhagur, Maharashtra, he moved from early revolutionary activity to London, where he joined networks of Indian nationalists, before his arrest, trial and imprisonment in the Cellular Jail in the Andamans.\n\n"
+            "The book examines the origins and arguments of Hindutva, his views on nationalism and citizenship and his efforts against caste discrimination and untouchability, as well as the controversies — his mercy petitions, his political positions in the late colonial period and the investigations surrounding Gandhi's assassination. It encourages readers to examine documents and context rather than slogans."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: Bhagur to London", "summary": "Childhood, education and early revolutionary activity."},
+            {"chapter": "Chapter 2: Arrest and the Cellular Jail", "summary": "Trial, imprisonment and mercy petitions."},
+            {"chapter": "Chapter 3: The Revolt of 1857", "summary": "His interpretation of the 1857 uprising."},
+            {"chapter": "Chapter 4: Hindutva", "summary": "Origins and arguments of his political thought."},
+            {"chapter": "Chapter 5: Politics and Social Reform", "summary": "Nationalism, citizenship and his stand on untouchability."},
+            {"chapter": "Chapter 6: Controversies and Legacy", "summary": "Debated episodes and the distinction between fact and dispute."}
+        ],
+        "reviews": [
+            {"quote": "Even-handed on a subject where most writing picks a side.", "source": "Reader Review"},
+            {"quote": "Careful about separating documented facts from disputed claims.", "source": "History Quarterly"}
+        ]
+    },
+    {
+        "slug": "fundamentals-of-biology-for-upsc",
+        "title": "Fundamentals of Biology for UPSC",
+        "subtitle": "A Complete Guide to Human Physiology, Genetics, Diseases, Biotechnology, Ecology and Everyday Science",
+        "kicker": "UPSC Preparation",
+        "category": ["nonfiction"],
+        "coverClass": "cover-eighty-three",
+        "coverBg": "#27493a",
+        "coverFg": "#d6e8a0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/fU4gEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 270,
+        "publication_date": "2026-10-21",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=fU4gEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=Fundamentals+of+Biology+for+UPSC+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "A structured biology foundation for UPSC — cells, genetics, human physiology, diseases, microorganisms, ecology and everyday science.",
+        "long_description": (
+            "Fundamentals of Biology for UPSC is a guide by Indian author Parvind Kumar that makes biological science accessible to beginners while providing a structured resource for competitive-exam preparation. It connects theory with everyday applications relevant to General Studies and Science and Technology.\n\n"
+            "The ten sections cover cell biology, genetics and biotechnology, classification of living organisms, plant biology and agriculture, human physiology, human nutrition and a balanced diet, diseases, immunity and vaccines, microorganisms, evolution, ecology and biodiversity, and hygiene and preventive health."
+        ),
+        "table_of_contents": [
+            {"chapter": "Section 1: Cell Biology", "summary": "Cell theory, organelles, cell division and tissues."},
+            {"chapter": "Section 2: Genetics and Biotechnology", "summary": "DNA, RNA, genes, Mendelian inheritance and genetic engineering."},
+            {"chapter": "Section 3: Classification and Plant Biology", "summary": "Taxonomy, biodiversity, photosynthesis and crop improvement."},
+            {"chapter": "Section 4: Human Physiology and Nutrition", "summary": "Digestion, circulation, the nervous system, hormones and a balanced diet."},
+            {"chapter": "Section 5: Diseases, Immunity and Microorganisms", "summary": "Pathogens, vaccines, antimicrobial resistance and microbes in daily life."},
+            {"chapter": "Section 6: Evolution, Ecology and Everyday Science", "summary": "Ecosystems, conservation, climate change, hygiene and preventive health."}
+        ],
+        "reviews": [
+            {"quote": "Organized well for revision, with clear everyday examples.", "source": "Reader Review"},
+            {"quote": "A solid starting point for the biology portion of General Science.", "source": "Education Weekly"}
+        ]
+    },
+    {
+        "slug": "the-climate-crisis",
+        "title": "The Climate Crisis",
+        "subtitle": "Global Warming, Extreme Weather, Rising Seas, and the Fight to Save Our Planet",
+        "kicker": "Environment",
+        "category": ["nonfiction"],
+        "coverClass": "cover-eighty-four",
+        "coverBg": "#1d4a4f",
+        "coverFg": "#a8e0b0",
+        "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/6pYhEgAAQBAJ?fife=w800",
+        "language": "English",
+        "pages": 230,
+        "publication_date": "2026-10-23",
+        "isbn": "Digital Edition — Google Play",
+        "publisher": "Independent",
+        "amazon": "",
+        "google_play": "https://play.google.com/store/books/details?id=6pYhEgAAQBAJ",
+        "goodreads": "https://www.goodreads.com/search?q=The+Climate+Crisis+Parvind+Kumar",
+        "formats": "eBook (Google Play)",
+        "description": "The science of global warming, its causes and consequences, climate politics and the solutions that could shape a sustainable future.",
+        "long_description": (
+            "The Climate Crisis is an environment and science book by Indian author Parvind Kumar exploring the science behind global warming, the human activities driving climate change, the consequences for people and nature, and the solutions that could create a more sustainable future. It treats climate change as a story about energy, industry, politics, inequality and technological innovation as well as rising temperatures.\n\n"
+            "The book covers the greenhouse effect and the evidence for human-caused change, fossil fuels, deforestation and agriculture, extreme weather and rising seas, impacts on food, water, health and livelihoods, and the situation in India, China, the United States, Europe, Africa and island nations. It also explains climate negotiations and the Paris Agreement, renewable energy and green technology, adaptation and resilience, and possible future scenarios."
+        ),
+        "table_of_contents": [
+            {"chapter": "Chapter 1: The Science of Global Warming", "summary": "The greenhouse effect, carbon dioxide, methane and the evidence."},
+            {"chapter": "Chapter 2: Causes of Climate Change", "summary": "Fossil fuels, deforestation, agriculture and consumption."},
+            {"chapter": "Chapter 3: Extreme Weather and Rising Seas", "summary": "Heatwaves, floods, drought, wildfires and melting ice."},
+            {"chapter": "Chapter 4: Impact on Human Life", "summary": "Food security, water, public health and vulnerable communities."},
+            {"chapter": "Chapter 5: Climate Politics and Solutions", "summary": "The Paris Agreement, climate justice, renewables and green technology."},
+            {"chapter": "Chapter 6: Adaptation and the Future", "summary": "Resilience, scenarios and decisions for future generations."}
+        ],
+        "reviews": [
+            {"quote": "Clear and evidence-based, with good coverage of India's situation.", "source": "Reader Review"},
+            {"quote": "A readable overview that connects science, politics and economics.", "source": "Public Policy Review"}
+        ]
     }
 ]
 
@@ -3355,7 +3799,19 @@ const coverClasses = {{
   ".cover-sixty-nine": ["#26362b", "#d9c27a"],
   ".cover-seventy": ["#6b2d4a", "#f5c6d6"],
   ".cover-seventy-one": ["#2a4a5e", "#f0d9a8"],
-  ".cover-seventy-two": ["#3b1f23", "#d98a5b"]
+  ".cover-seventy-two": ["#3b1f23", "#d98a5b"],
+  ".cover-seventy-three": ["#2e4a3a", "#e8d9a5"],
+  ".cover-seventy-four": ["#1f3b5c", "#f0c24b"],
+  ".cover-seventy-five": ["#2b3a4a", "#e2b858"],
+  ".cover-seventy-six": ["#4a2a1f", "#e8b866"],
+  ".cover-seventy-seven": ["#5a2f4a", "#f1c9d8"],
+  ".cover-seventy-eight": ["#26456b", "#ffd36b"],
+  ".cover-seventy-nine": ["#6b1f1f", "#f0c75e"],
+  ".cover-eighty": ["#1c3557", "#9fd3f2"],
+  ".cover-eighty-one": ["#2a3f5f", "#b9e3a0"],
+  ".cover-eighty-two": ["#3a3226", "#e1b46a"],
+  ".cover-eighty-three": ["#27493a", "#d6e8a0"],
+  ".cover-eighty-four": ["#1d4a4f", "#a8e0b0"]
 }};
 
 const style = document.createElement("style");

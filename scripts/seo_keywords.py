@@ -82,6 +82,18 @@ EXTRA_KEYWORDS = {
     "the-sex-and-body-book": ["sex education book", "consent and boundaries", "sexual health guide", "puberty and reproductive health", "healthy relationships"],
     "the-road-to-ladakh": ["Ladakh road trip", "Manali Leh highway", "family road trip India", "Leh Ladakh travelogue", "Greater Noida to Ladakh"],
     "the-dark-side-of-alcohol": ["alcohol health risks", "alcohol and cancer", "alcohol addiction", "quit drinking book", "effects of alcohol on the body"],
+    "feng-shui-for-everyday-life": ["Feng Shui for beginners", "Bagua map", "five elements Feng Shui", "Feng Shui home tips", "Vastu and Feng Shui"],
+    "panja-sahib": ["Panja Sahib Hasan Abdal", "Guru Nanak stories", "Saka Panja Sahib 1922", "Sikh history book", "Gurdwara Reform Movement"],
+    "the-iron-man-of-india": ["Sardar Vallabhbhai Patel biography", "Iron Man of India", "integration of princely states", "Bardoli satyagraha", "Patel and Gandhi"],
+    "the-truth-about-osho": ["Osho teachings", "Osho controversies", "Dynamic Meditation", "Rajneeshpuram", "Zorba the Buddha"],
+    "vaginoplasty": ["vaginoplasty guide", "gender-affirming surgery", "vaginal reconstruction", "vaginoplasty recovery and risks", "women's health surgery"],
+    "the-complete-spoken-english-handbook": ["spoken English book", "English speaking practice", "500 English words with Hindi meanings", "everyday English sentences", "90 day English fluency"],
+    "how-china-became-a-superpower": ["rise of China", "China economy history", "US China rivalry", "Belt and Road Initiative", "China vs India"],
+    "fundamentals-of-physics-for-upsc": ["physics for UPSC", "UPSC General Science", "physics basics", "UPSC prelims science", "physics for competitive exams"],
+    "fundamentals-of-chemistry-for-upsc": ["chemistry for UPSC", "UPSC General Science", "chemistry basics", "UPSC prelims chemistry", "environmental chemistry"],
+    "savarkar": ["Vinayak Damodar Savarkar biography", "Hindutva", "Cellular Jail Savarkar", "Savarkar controversy", "Indian nationalism"],
+    "fundamentals-of-biology-for-upsc": ["biology for UPSC", "UPSC General Science", "human physiology", "genetics and biotechnology", "UPSC prelims biology"],
+    "the-climate-crisis": ["climate change book", "global warming explained", "Paris Agreement", "renewable energy", "climate change India"],
 }
 
 KICKER_KEYWORDS = {
@@ -112,5 +124,11 @@ KICKER_KEYWORDS = {
     "Relationships": ["relationship advice book India"],
     "Historical Fiction": ["historical fiction India", "colonial India novel"],
     "History & Politics": ["Indian political history", "modern India history"],
+    "Lifestyle": ["home and lifestyle ebook"],
+    "Sikh History & Faith": ["Sikh history", "Sikhism book"],
+    "Language Learning": ["English learning book", "spoken English for beginners"],
+    "World Affairs": ["international relations book", "geopolitics book"],
+    "UPSC Preparation": ["UPSC preparation book", "civil services study material", "General Studies science"],
+    "Environment": ["environment and climate book"],
     "Travel": ["travel memoir India", "road trip book"],
 }

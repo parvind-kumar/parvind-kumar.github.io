@@ -1055,6 +1055,176 @@ const books = [
     "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/aQUbEgAAQBAJ?fife=w800",
     "coverAlt": "The Dark Side of Alcohol by Parvind Kumar \u2014 book cover",
     "unavailable": false
+  },
+  {
+    "slug": "feng-shui-for-everyday-life",
+    "title": "Feng Shui for Everyday Life",
+    "category": [
+      "nonfiction",
+      "mind"
+    ],
+    "kicker": "LIFESTYLE",
+    "description": "A beginner-friendly introduction to Feng Shui \u2014 Qi, the five elements, the Bagua map and practical ideas for every room.",
+    "amazon": "",
+    "coverClass": "cover-seventy-three",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/vC0cEgAAQBAJ?fife=w800",
+    "coverAlt": "Feng Shui for Everyday Life by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "panja-sahib",
+    "title": "Panja Sahib",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "SIKH HISTORY & FAITH",
+    "description": "The story of Gurdwara Panja Sahib at Hasan Abdal \u2014 Guru Nanak's visit, the sacred handprint, and the courage of Saka Panja Sahib in 1922.",
+    "amazon": "",
+    "coverClass": "cover-seventy-four",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/hhAdEgAAQBAJ?fife=w800",
+    "coverAlt": "Panja Sahib by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-iron-man-of-india",
+    "title": "The Iron Man of India",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "BIOGRAPHY",
+    "description": "The life of Sardar Vallabhbhai Patel \u2014 from the Kheda and Bardoli movements to the integration of India's princely states.",
+    "amazon": "",
+    "coverClass": "cover-seventy-five",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/PtEdEgAAQBAJ?fife=w800",
+    "coverAlt": "The Iron Man of India by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-truth-about-osho",
+    "title": "The Truth About Osho",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "SPIRITUALITY",
+    "description": "Osho's philosophy of meditation, love and freedom alongside the controversies of his movement \u2014 a critical, independent look.",
+    "amazon": "",
+    "coverClass": "cover-seventy-six",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/mDAcEgAAQBAJ?fife=w800",
+    "coverAlt": "The Truth About Osho by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "vaginoplasty",
+    "title": "Vaginoplasty",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "HEALTH & WELLNESS",
+    "description": "A reader-friendly guide to vaginoplasty \u2014 terminology, surgical approaches, preparation, recovery, risks and informed decisions.",
+    "amazon": "",
+    "coverClass": "cover-seventy-seven",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/FpMbEgAAQBAJ?fife=w800",
+    "coverAlt": "Vaginoplasty by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-complete-spoken-english-handbook",
+    "title": "The Complete Spoken English Handbook",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "LANGUAGE LEARNING",
+    "description": "500 words with Hindi meanings, 500 everyday sentences, dialogues, pronunciation, interview and business English, and a 90-day fluency challenge.",
+    "amazon": "",
+    "coverClass": "cover-seventy-eight",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/hDEcEgAAQBAJ?fife=w800",
+    "coverAlt": "The Complete Spoken English Handbook by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "how-china-became-a-superpower",
+    "title": "How China Became a Superpower",
+    "category": [
+      "nonfiction",
+      "business"
+    ],
+    "kicker": "WORLD AFFAIRS",
+    "description": "China's rise from poverty and upheaval to economic and technological power \u2014 and the hidden costs and the contest with America.",
+    "amazon": "",
+    "coverClass": "cover-seventy-nine",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/BlohEgAAQBAJ?fife=w800",
+    "coverAlt": "How China Became a Superpower by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "fundamentals-of-physics-for-upsc",
+    "title": "Fundamentals of Physics for UPSC",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "UPSC PREPARATION",
+    "description": "A beginner-friendly physics foundation for UPSC and competitive exams \u2014 mechanics, heat, waves, light, electricity and modern physics.",
+    "amazon": "",
+    "coverClass": "cover-eighty",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/OfIgEgAAQBAJ?fife=w800",
+    "coverAlt": "Fundamentals of Physics for UPSC by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "fundamentals-of-chemistry-for-upsc",
+    "title": "Fundamentals of Chemistry for UPSC",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "UPSC PREPARATION",
+    "description": "A beginner's chemistry guide for UPSC \u2014 atoms and reactions to everyday chemistry and the environment, with practice questions in every chapter.",
+    "amazon": "",
+    "coverClass": "cover-eighty-one",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/GfsgEgAAQBAJ?fife=w800",
+    "coverAlt": "Fundamentals of Chemistry for UPSC by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "savarkar",
+    "title": "Savarkar",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "HISTORY & POLITICS",
+    "description": "The life and ideas of Vinayak Damodar Savarkar \u2014 revolutionary, Hindutva ideologue and one of modern India's most debated figures.",
+    "amazon": "",
+    "coverClass": "cover-eighty-two",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/9G4iEgAAQBAJ?fife=w800",
+    "coverAlt": "Savarkar by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "fundamentals-of-biology-for-upsc",
+    "title": "Fundamentals of Biology for UPSC",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "UPSC PREPARATION",
+    "description": "A structured biology foundation for UPSC \u2014 cells, genetics, human physiology, diseases, microorganisms, ecology and everyday science.",
+    "amazon": "",
+    "coverClass": "cover-eighty-three",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/fU4gEgAAQBAJ?fife=w800",
+    "coverAlt": "Fundamentals of Biology for UPSC by Parvind Kumar \u2014 book cover",
+    "unavailable": false
+  },
+  {
+    "slug": "the-climate-crisis",
+    "title": "The Climate Crisis",
+    "category": [
+      "nonfiction"
+    ],
+    "kicker": "ENVIRONMENT",
+    "description": "The science of global warming, its causes and consequences, climate politics and the solutions that could shape a sustainable future.",
+    "amazon": "",
+    "coverClass": "cover-eighty-four",
+    "coverImage": "https://play.google.com/books/publisher/content/images/frontcover/6pYhEgAAQBAJ?fife=w800",
+    "coverAlt": "The Climate Crisis by Parvind Kumar \u2014 book cover",
+    "unavailable": false
   }
 ];
 
@@ -1209,7 +1379,19 @@ const coverClasses = {
   ".cover-sixty-nine": ["#26362b", "#d9c27a"],
   ".cover-seventy": ["#6b2d4a", "#f5c6d6"],
   ".cover-seventy-one": ["#2a4a5e", "#f0d9a8"],
-  ".cover-seventy-two": ["#3b1f23", "#d98a5b"]
+  ".cover-seventy-two": ["#3b1f23", "#d98a5b"],
+  ".cover-seventy-three": ["#2e4a3a", "#e8d9a5"],
+  ".cover-seventy-four": ["#1f3b5c", "#f0c24b"],
+  ".cover-seventy-five": ["#2b3a4a", "#e2b858"],
+  ".cover-seventy-six": ["#4a2a1f", "#e8b866"],
+  ".cover-seventy-seven": ["#5a2f4a", "#f1c9d8"],
+  ".cover-seventy-eight": ["#26456b", "#ffd36b"],
+  ".cover-seventy-nine": ["#6b1f1f", "#f0c75e"],
+  ".cover-eighty": ["#1c3557", "#9fd3f2"],
+  ".cover-eighty-one": ["#2a3f5f", "#b9e3a0"],
+  ".cover-eighty-two": ["#3a3226", "#e1b46a"],
+  ".cover-eighty-three": ["#27493a", "#d6e8a0"],
+  ".cover-eighty-four": ["#1d4a4f", "#a8e0b0"]
 };
 
 const style = document.createElement("style");
