@@ -44,6 +44,11 @@
     .blog-toc li { padding: .28rem 0; }
     .blog-toc a { font-weight: 650; }
     .blog-book { padding: 1.8rem 0; border-bottom: 1px solid rgba(120,110,95,.22); scroll-margin-top: 6rem; }
+
+    .blog-book-layout { display: flex; align-items: flex-start; gap: 1.5rem; }
+    .blog-book-cover-link { flex: 0 0 168px; display: block; }
+    .blog-book-cover { display: block; width: 100%; height: auto; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 9px; box-shadow: 0 8px 22px rgba(0,0,0,.16); }
+    .blog-book-copy { flex: 1 1 auto; min-width: 0; }
     .blog-book:last-of-type { border-bottom: 0; }
     .blog-number { letter-spacing: .13em; font-size: .78rem; font-weight: 700; color: var(--accent, #9b7653); margin-bottom: .45rem !important; }
     .blog-subtitle { font-weight: 650; margin-top: 0 !important; }
@@ -52,7 +57,7 @@
     .blog-callout { padding: 1.4rem 1.5rem; border-radius: 14px; background: rgba(120,110,95,.07); margin: 2rem 0; }
     .blog-author { margin-top: 2.5rem; padding: 1.5rem; border: 1px solid rgba(120,110,95,.25); border-radius: 14px; }
     .blog-author p:last-child { margin-bottom: 0; }
-    @media (max-width: 600px) { .blog-toc { padding: 1.1rem; } .blog-content { font-size: 1rem; } }
+    @media (max-width: 600px) { .blog-book-layout { gap: 1rem; } .blog-book-cover-link { flex-basis: 112px; } .blog-toc { padding: 1.1rem; } .blog-content { font-size: 1rem; } }
   </style>
   <script type="application/ld+json">
   {
@@ -157,84 +162,164 @@
 
         
       <section class="blog-book" id="book-1">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=_Nz2EQAAQBAJ" target="_blank" rel="noopener" aria-label="View The Complete Guide to Mindfulness &amp; Meditation on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/_Nz2EQAAQBAJ?fife=w400" alt="The Complete Guide to Mindfulness &amp; Meditation by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 01</p>
         <h2>The Complete Guide to Mindfulness &amp; Meditation</h2>
         <p class="blog-subtitle">Mental Peace, Self-Awareness and Emotional Balance</p>
         <p>In a fast-moving world, our minds rarely get a break. This book introduces readers to mindfulness, meditation and a deeper understanding of thoughts and emotions. It is a useful starting point for people who want to develop self-awareness, build a meditation habit and bring more calm and intention into everyday life.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=_Nz2EQAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-2">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=PQksEgAAQBAJ" target="_blank" rel="noopener" aria-label="View THE OVERTHINKING TRAP on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/PQksEgAAQBAJ?fife=w400" alt="THE OVERTHINKING TRAP by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 02</p>
         <h2>THE OVERTHINKING TRAP</h2>
         <p class="blog-subtitle">Understanding Overthinking and Developing Healthier Thought Patterns</p>
         <p>Do you replay conversations, worry about things that have not happened, or spend hours analysing small decisions? This book explores the habit of excessive thinking and ways to develop a healthier relationship with your thoughts. It is relevant to readers who want to understand overthinking, make decisions with greater confidence and focus more on the present.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=PQksEgAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-3">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=87sMEgAAQBAJ" target="_blank" rel="noopener" aria-label="View UNLEARN TO RISE on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/87sMEgAAQBAJ?fife=w400" alt="UNLEARN TO RISE by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 03</p>
         <h2>UNLEARN TO RISE</h2>
         <p class="blog-subtitle">Personal Growth and Letting Go of Limiting Beliefs</p>
         <p>Sometimes the biggest obstacle to personal growth is a collection of beliefs, assumptions and habits we have carried for years. This book focuses on questioning old patterns, recognising limiting beliefs and making room for new ways of thinking. It encourages reflection, learning from experience and staying open to growth.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=87sMEgAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-4">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=VgUPEgAAQBAJ" target="_blank" rel="noopener" aria-label="View The Art of Saying No Without Guilt on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/VgUPEgAAQBAJ?fife=w400" alt="The Art of Saying No Without Guilt by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 04</p>
         <h2>The Art of Saying No Without Guilt</h2>
         <p class="blog-subtitle">Building Confidence and Healthy Boundaries</p>
         <p>Do you agree to things even when you do not want to, or feel guilty when you prioritise your own needs? This book explores personal boundaries, people-pleasing and confident communication. It is relevant to readers who want to protect their time, communicate decisions clearly and build healthier relationships.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=VgUPEgAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-5">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=4usOEgAAQBAJ" target="_blank" rel="noopener" aria-label="View Mind Over Noise on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/4usOEgAAQBAJ?fife=w400" alt="Mind Over Noise by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 05</p>
         <h2>Mind Over Noise</h2>
         <p class="blog-subtitle">Better Focus and Mental Clarity</p>
         <p>Notifications, social media, breaking news and endless scrolling compete for our attention. This book addresses the challenge of maintaining focus in a distracting environment and explores ways to reduce unnecessary distractions, develop intentional digital habits and give more attention to meaningful activities.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=4usOEgAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-6">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=fz8wEgAAQBAJ" target="_blank" rel="noopener" aria-label="View THE COMPLETE GUIDE TO YOGA on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/fz8wEgAAQBAJ?fife=w400" alt="THE COMPLETE GUIDE TO YOGA by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 06</p>
         <h2>THE COMPLETE GUIDE TO YOGA</h2>
         <p class="blog-subtitle">Physical Fitness and a Healthier Lifestyle</p>
         <p>Yoga combines physical postures, breathing exercises and awareness. This guide introduces readers to beginner-friendly yoga poses, breathing exercises and daily routines. It is intended for people who want to explore yoga and build a consistent, appropriate movement practice as part of a balanced lifestyle.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=fz8wEgAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-7">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=hjXvEQAAQBAJ" target="_blank" rel="noopener" aria-label="View Lose Weight Without Dieting on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/hjXvEQAAQBAJ?fife=w400" alt="Lose Weight Without Dieting by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 07</p>
         <h2>Lose Weight Without Dieting</h2>
         <p class="blog-subtitle">Healthy Lifestyle and Sustainable Habits</p>
         <p>This book explores lifestyle habits related to mindful eating, hydration, sleep, stress and physical movement. Rather than promoting extreme routines, it focuses on building healthier habits that can be maintained over time. Weight management differs between individuals, and the book is not a substitute for personalised medical or nutritional advice.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=hjXvEQAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-8">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=hDEcEgAAQBAJ" target="_blank" rel="noopener" aria-label="View The Complete Spoken English Handbook on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/hDEcEgAAQBAJ?fife=w400" alt="The Complete Spoken English Handbook by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 08</p>
         <h2>The Complete Spoken English Handbook</h2>
         <p class="blog-subtitle">Communication Skills and Everyday English</p>
         <p>Clear communication can create opportunities in education, work and everyday life. This handbook covers essential vocabulary, everyday sentences, real-life conversations, pronunciation, business English, travel English and a 90-day fluency challenge. It is designed for learners who want to improve their spoken English step by step.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=hDEcEgAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-9">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=eCoDEgAAQBAJ" target="_blank" rel="noopener" aria-label="View 101 Public Speaking Tips on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/eCoDEgAAQBAJ?fife=w400" alt="101 Public Speaking Tips by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 09</p>
         <h2>101 Public Speaking Tips</h2>
         <p class="blog-subtitle">Confidence, Leadership and Presentation Skills</p>
         <p>Speaking in front of an audience can be intimidating, but public speaking is a skill that can be developed through preparation and practice. This book offers tips for becoming a more confident speaker and is relevant to students, professionals, entrepreneurs, teachers and anyone who wants to express ideas more effectively.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=eCoDEgAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
       <section class="blog-book" id="book-10">
+        <div class="blog-book-layout">
+          <a class="blog-book-cover-link" href="https://play.google.com/store/books/details?id=Ps74EQAAQBAJ" target="_blank" rel="noopener" aria-label="View The Complete Guide to Building a Happy Marriage &amp; Lasting Love on Google Play Books">
+            <img class="blog-book-cover" src="https://play.google.com/books/publisher/content/images/frontcover/Ps74EQAAQBAJ?fife=w400" alt="The Complete Guide to Building a Happy Marriage &amp; Lasting Love by Parvind Kumar — book cover" width="240" height="360" loading="lazy" decoding="async">
+          </a>
+          <div class="blog-book-copy">
+
         <p class="blog-number">BOOK 10</p>
         <h2>The Complete Guide to Building a Happy Marriage &amp; Lasting Love</h2>
         <p class="blog-subtitle">Stronger Relationships and Family Life</p>
         <p>Meaningful relationships are built through communication, trust, understanding and mutual respect. This book explores important foundations of a lasting partnership, including emotional needs, friendship, intimacy, honest conversations and everyday commitment.</p>
         <p class="why-read"><strong>Why consider reading it?</strong> Choose this book if this is an area of your life you would like to understand better and work on through practical, consistent steps.</p>
         <p><a class="button buy-btn play-btn" href="https://play.google.com/store/books/details?id=Ps74EQAAQBAJ" target="_blank" rel="noopener">Read on Google Play Books <span>↗</span></a></p>
+                </div>
+        </div>
       </section>
 
         <section class="blog-book">
